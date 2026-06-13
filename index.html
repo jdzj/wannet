@@ -3,7 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wannet - 玩你想玩</title>
+    <title>Wannet Hub - 跨平台游戏综合看板</title>
+    
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='25' fill='%234f46e5'/><path d='M30,50 H46 M38,42 V58 M64,46 A4,4 0 1,1 64,45.9 M74,54 A4,4 0 1,1 74,53.9' stroke='white' stroke-width='6' stroke-linecap='round' fill='white'/></svg>">
+    
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>.line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }</style>
@@ -17,7 +20,7 @@
                 <span class="text-xl font-bold bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">Wannet Hub</span>
             </div>
             <div class="flex bg-slate-100 p-1 rounded-xl gap-0.5" id="tabs">
-                <button onclick="switchPlatform('free')" id="tab-free" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-500 text-white shadow-sm flex items-center gap-1 animate-pulse"><i class="fa-solid fa-gift"></i> 今日限免</button>
+                <button onclick="switchPlatform('free')" id="tab-free" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-500 text-white shadow-sm flex items-center gap-1 animate-pulse"><i class="fa-solid fa-gift"></i> 今日特惠</button>
                 <button onclick="switchPlatform('cn')" id="tab-cn" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-600">App Store 国区</button>
                 <button onclick="switchPlatform('us')" id="tab-us" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-600">美区</button>
                 <button onclick="switchPlatform('steam')" id="tab-steam" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-600 flex items-center gap-1"><i class="fa-brands fa-steam"></i> Steam热销</button>
@@ -28,9 +31,9 @@
     <main class="max-w-4xl mx-auto px-4 py-8">
         <div class="flex items-center justify-between mb-6">
             <h1 class="text-2xl font-bold text-slate-900 flex items-center gap-2" id="boardTitle">
-                <i class="fa-solid fa-gift text-red-500"></i> 今日限时免费/特惠精选
+                <i class="fa-solid fa-gift text-red-500"></i> 今日跨平台特惠与喜加一
             </h1>
-            <p class="text-xs text-slate-400" id="updateTime">正在获取同步频率...</p>
+            <p class="text-xs text-slate-400" id="updateTime">正在同步云端引擎...</p>
         </div>
 
         <div id="gameList" class="space-y-4"></div>
@@ -38,7 +41,7 @@
 
     <script>
         let globalData = null;
-        let currentPlatform = 'free'; // 默认切到限免专区
+        let currentPlatform = 'free';
 
         async function init() {
             try {
@@ -46,7 +49,7 @@
                 globalData = await response.json();
                 render();
             } catch (error) {
-                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-400'>暂无游戏数据。请检查 GitHub Actions 执行日志。</div>`;
+                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-400'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>正在等待 GitHub 首次初始化生成数据，请稍后刷新。</div>`;
             }
         }
 
@@ -57,7 +60,7 @@
                 if (p === platform) {
                     btn.className = p === 'free' 
                         ? "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-500 text-white shadow-sm flex items-center gap-1"
-                        : "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-white text-indigo-600 shadow-sm flex items-center gap-1";
+                        : "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-white text-indigo-600 shadow-sm fill-current";
                 } else {
                     btn.className = p === 'free'
                         ? "px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-red-500 hover:bg-red-50 flex items-center gap-1"
@@ -69,43 +72,44 @@
 
         function toggleDesc(index) {
             const el = document.getElementById(`desc-${index}`);
-            if (el.classList.contains('line-clamp-3')) {
-                el.classList.remove('line-clamp-3');
-            } else {
-                el.classList.add('line-clamp-3');
-            }
+            el.classList.contains('line-clamp-3') ? el.classList.remove('line-clamp-3') : el.classList.add('line-clamp-3');
         }
 
         function render() {
-            if (!globalData || !globalData.regions[currentPlatform]) return;
+            if (!globalData) return;
 
             const titleMap = { 
-                'free': '<i class="fa-solid fa-gift text-red-500"></i> 今日限时免费 / 独家特惠专区',
-                'cn': '<i class="fa-solid fa-trophy text-amber-500"></i> App Store 中国区纯游戏榜', 
-                'us': '<i class="fa-solid fa-flag-usa text-blue-500"></i> App Store 美国区纯游戏榜', 
-                'steam': '<i class="fa-brands fa-steam text-slate-900"></i> Steam 平台全球畅销大作' 
+                'free': '<i class="fa-solid fa-gift text-red-500"></i> 今日 Epic & 跨平台白嫖特惠专区',
+                'cn': '<i class="fa-solid fa-trophy text-amber-500"></i> App Store 中国区精品应用榜', 
+                'us': '<i class="fa-solid fa-flag-usa text-blue-500"></i> App Store 美国区畅销应用榜', 
+                'steam': '<i class="fa-brands fa-steam text-slate-900"></i> Steam 平台全球热销大作' 
             };
             document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform];
-            document.getElementById('updateTime').innerText = `更新时间: ${new Date(globalData.updateTime).toLocaleString()}`;
+            document.getElementById('updateTime').innerText = `同步完成: ${new Date(globalData.updateTime).toLocaleString()}`;
 
-            const games = globalData.regions[currentPlatform].games;
+            const regionData = globalData.regions[currentPlatform];
             const container = document.getElementById('gameList');
 
-            if(!games || games.length === 0) {
-                container.innerHTML = `<div class="text-center py-8 text-slate-400">该分类下暂无有效数据。</div>`;
+            if(!regionData || !regionData.games || regionData.games.length === 0) {
+                container.innerHTML = `
+                    <div class="text-center py-12 bg-white rounded-2xl border border-slate-200 p-8 shadow-sm">
+                        <i class="fa-solid fa-circle-nodes text-3xl text-slate-300 mb-3 block"></i>
+                        <p class="text-sm text-slate-400">该区域官方 API 响应延迟，已临时切断连接。</p>
+                        <p class="text-xs text-indigo-500 font-medium mt-2 cursor-pointer" onclick="switchPlatform('free')">💡 点此前往查看【今日特惠】或【Steam热销】频道</p>
+                    </div>`;
                 return;
             }
 
-            container.innerHTML = games.map((game, index) => {
-                const subCountDisplay = (currentPlatform === 'steam' || currentPlatform === 'free') ? game.ratingCount : `${Number(game.ratingCount).toLocaleString()}人评分`;
-                const actionBtnColor = currentPlatform === 'free' ? 'bg-red-500 text-white hover:bg-red-600' : 'bg-slate-100 hover:bg-indigo-600 hover:text-white text-slate-600';
-                const actionBtnText = currentPlatform === 'free' ? '立即去抢' : (currentPlatform === 'steam' ? 'Steam商店' : '下载');
+            container.innerHTML = regionData.games.map((game, index) => {
+                const subCountDisplay = (currentPlatform === 'steam' || currentPlatform === 'free') ? game.ratingCount : `${Number(game.ratingCount).toLocaleString()}人星级`;
+                const actionBtnColor = currentPlatform === 'free' ? 'bg-red-500 text-white hover:bg-red-600' : (currentPlatform === 'steam' ? 'bg-slate-900 text-white hover:bg-slate-800' : 'bg-indigo-50 text-indigo-600 hover:bg-indigo-600 hover:text-white');
+                const actionBtnText = currentPlatform === 'free' ? '免费喜加一' : (currentPlatform === 'steam' ? 'Steam商店' : '前往下载');
 
                 return `
                     <div class="bg-white rounded-2xl border border-slate-200/60 p-5 shadow-sm hover:shadow-md transition-all">
                         <div class="flex items-start gap-4">
-                            <span class="text-lg font-bold text-slate-300 w-6 pt-2 text-center">${game.rank}</span>
-                            <img src="${game.icon}" class="w-14 h-14 rounded-2xl object-cover border border-slate-100 shadow-sm">
+                            <span class="text-base font-black text-slate-300 w-6 pt-2 text-center">${game.rank}</span>
+                            <img src="${game.icon}" class="w-14 h-14 rounded-2xl object-cover border border-slate-100 shadow-sm flex-shrink-0">
                             <div class="flex-1 min-w-0">
                                 <h3 class="font-bold text-slate-900 truncate text-base">${game.name}</h3>
                                 <p class="text-xs text-slate-400 truncate">${game.developer}</p>
@@ -116,17 +120,17 @@
                                     </span>
                                 </div>
                             </div>
-                            <a href="${game.appStoreUrl}" target="_blank" class="${actionBtnColor} px-4 py-1.5 rounded-full text-xs font-bold transition-all self-center shadow-sm">
+                            <a href="${game.appStoreUrl}" target="_blank" class="${actionBtnColor} px-4 py-1.5 rounded-xl text-xs font-bold transition-all self-center shadow-sm flex-shrink-0">
                                 ${actionBtnText}
                             </a>
                         </div>
                         <div class="mt-3 bg-slate-50 p-3 rounded-xl border border-slate-100/70">
                             <p id="desc-${index}" class="text-xs text-slate-500 leading-relaxed line-clamp-3 whitespace-pre-line">${game.description}</p>
-                            <button onclick="toggleDesc(${index})" class="text-indigo-600 font-semibold text-[11px] mt-1.5 block">展开/折叠详情</button>
+                            <button onclick="toggleDesc(${index})" class="text-indigo-600 font-semibold text-[11px] mt-1.5 block">展开 / 收起描述</button>
                         </div>
                         <div class="mt-3 pt-2.5 border-t border-slate-100 space-y-1.5">
                             ${game.reviews.map(r => `
-                                <div class="bg-slate-50/50 p-2 rounded-lg text-xs">
+                                <div class="bg-slate-50/40 p-2 rounded-lg text-xs">
                                     <div class="flex justify-between text-slate-400 text-[11px]">
                                         <span class="font-bold text-slate-600">${r.author}</span>
                                         <span class="text-amber-500 font-medium">${r.rating}</span>
