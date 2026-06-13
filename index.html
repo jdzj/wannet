@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wannet - 玩你想玩</title>
+    <title>Wannet Hub - 跨平台游戏与应用综合看板</title>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='25' fill='%234f46e5'/><path d='M30,50 H46 M38,42 V58 M64,46 A4,4 0 1,1 64,45.9 M74,54 A4,4 0 1,1 74,53.9' stroke='white' stroke-width='6' stroke-linecap='round' fill='white'/></svg>">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        /* 🎯 彻底修复展开/收起失效：使用明确、高优先级的原生类控制高度 */
+        /* 🎯 确保折叠和展开状态 100% 具备最高样式覆盖优先级 */
         .desc-collapsed {
             display: -webkit-box !important;
             -webkit-line-clamp: 3 !important;
@@ -41,9 +41,9 @@
     <main class="max-w-4xl mx-auto px-4 py-8">
         <div class="flex items-center justify-between mb-6">
             <h1 class="text-2xl font-bold text-slate-900 flex items-center gap-2" id="boardTitle">
-                <i class="fa-solid fa-gift text-red-500"></i> 今日 App Store 限免与跨平台特惠
+                <i class="fa-solid fa-gift text-red-500"></i> 今日 App Store 限免与特惠精选
             </h1>
-            <p class="text-xs text-slate-400" id="updateTime">正在同步云端引擎...</p>
+            <p class="text-xs text-slate-400" id="updateTime">正在同步云端数据...</p>
         </div>
         <div id="gameList" class="space-y-4"></div>
     </main>
@@ -54,12 +54,11 @@
 
         async function init() {
             try {
-                // 读取本地静态数据文件
                 const response = await fetch('./data/games.json?t=' + new Date().getTime());
                 globalData = await response.json();
                 render();
             } catch (error) {
-                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-400'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>看板数据同步中，请等待 GitHub Action 执行完毕后刷新。</div>`;
+                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-400'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>数据初始化中，请等待后台 Action 抓取刷新。</div>`;
             }
         }
 
@@ -69,7 +68,7 @@
                 const btn = document.getElementById(`tab-${p}`);
                 if (!btn) return;
                 if (p === platform) {
-                    btn.className = p === 'free' ? "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-500 text-white shadow-sm flex items-center gap-1" : "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-white text-indigo-600 shadow-sm fill-current";
+                    btn.className = p === 'free' ? "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-500 text-white shadow-sm flex items-center gap-1" : "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-white text-indigo-600 shadow-sm";
                 } else {
                     btn.className = p === 'free' ? "px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-red-500 hover:bg-red-50 flex items-center gap-1" : "px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-600 flex items-center gap-1";
                 }
@@ -77,7 +76,7 @@
             render();
         }
 
-        // 🎯 彻底修复点击展开功能：使用显式 classList 切换
+        // 🎯 修复点击无响应：采用明确原生 DOM 状态管理切换
         window.toggleDesc = function(index) {
             const el = document.getElementById(`desc-${index}`);
             const btn = document.getElementById(`btn-${index}`);
@@ -85,11 +84,11 @@
                 if (el.classList.contains('desc-collapsed')) {
                     el.classList.remove('desc-collapsed');
                     el.classList.add('desc-expanded');
-                    if(btn) btn.innerText = "收起详细描述";
+                    if (btn) btn.innerText = "收起详细描述";
                 } else {
                     el.classList.remove('desc-expanded');
                     el.classList.add('desc-collapsed');
-                    if(btn) btn.innerText = "展开详细描述";
+                    if (btn) btn.innerText = "展开详细描述";
                 }
             }
         }
@@ -98,43 +97,41 @@
             if (!globalData) return;
 
             const titleMap = {
-                'free': '<i class="fa-solid fa-gift text-red-500"></i> 今日 App Store 独家限时免费应用专区',
-                'cn': '<i class="fa-solid fa-trophy text-amber-500"></i> App Store 中国区畅销流行榜（全品类解禁）',
+                'free': '<i class="fa-solid fa-gift text-red-500"></i> 今日 App Store 全品类限时免费特惠专区',
+                'cn': '<i class="fa-solid fa-trophy text-amber-500"></i> App Store 中国区畅销排行榜（全品类解禁）',
                 'us': '<i class="fa-solid fa-flag-usa text-blue-500"></i> App Store 美国区热门推荐榜（全品类解禁）',
-                'steam': '<i class="fa-brands fa-steam text-slate-900"></i> Steam 平台全球热销大作'
+                'steam': '<i class="fa-brands fa-steam text-slate-900"></i> Steam 平台全球实时热销大作'
             };
 
-            document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform] || '应用看板';
-            
+            document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform];
             if (globalData.updateTime) {
-                document.getElementById('updateTime').innerText = `更新于: ${new Date(globalData.updateTime).toLocaleString()}`;
+                document.getElementById('updateTime').innerText = `同步完成: ${new Date(globalData.updateTime).toLocaleString()}`;
             }
 
             const regionData = globalData.regions ? globalData.regions[currentPlatform] : null;
             const container = document.getElementById('gameList');
 
             if(!regionData || !regionData.games || regionData.games.length === 0) {
-                container.innerHTML = `<div class="text-center py-12 bg-white rounded-2xl border border-slate-200 p-8 shadow-sm"><i class="fa-solid fa-circle-nodes text-3xl text-slate-300 mb-3 block"></i><p class="text-sm text-slate-400">该分类暂无有效缓存，等待定时脚本注入数据。</p></div>`;
+                container.innerHTML = `<div class="text-center py-12 bg-white rounded-2xl border border-slate-200 p-8 shadow-sm"><i class="fa-solid fa-circle-nodes text-3xl text-slate-300 mb-3 block"></i><p class="text-sm text-slate-400">该分类暂无有效数据包，正在重新建立高可用对端连接。</p></div>`;
                 return;
             }
 
             container.innerHTML = regionData.games.map((game, index) => {
-                const subCountDisplay = isNaN(game.ratingCount) ? game.ratingCount : `${Number(game.ratingCount).toLocaleString()} 人推荐`;
-                
-                // 🎯 修复限免布局：如果是限免页面，采用亮眼的红色调行动按钮与徽章
-                const actionBtnColor = currentPlatform === 'free' ? 'bg-red-500 text-white hover:bg-red-600 shadow-red-100' : (currentPlatform === 'steam' ? 'bg-slate-900 text-white hover:bg-slate-800' : 'bg-indigo-50 text-indigo-600 hover:bg-indigo-600 hover:text-white');
+                const subCountDisplay = isNaN(game.ratingCount) ? game.ratingCount : `${Number(game.ratingCount).toLocaleString()} 关注`;
+                const actionBtnColor = currentPlatform === 'free' ? 'bg-red-500 text-white hover:bg-red-600' : (currentPlatform === 'steam' ? 'bg-slate-900 text-white hover:bg-slate-800' : 'bg-indigo-50 text-indigo-600 hover:bg-indigo-600 hover:text-white');
                 const actionBtnText = currentPlatform === 'free' ? '立即秒杀 ¥0' : (currentPlatform === 'steam' ? 'Steam 商店' : '前往下载');
                 const badgeStyle = currentPlatform === 'free' ? 'bg-red-100 text-red-700 font-bold' : 'bg-slate-100 text-slate-600';
 
+                // 规范化卡片评论
                 const reviewsHtml = (game.reviews && Array.isArray(game.reviews)) ? game.reviews.map(r => `
-                    <div class="bg-slate-50/70 p-3 rounded-xl text-xs border border-slate-100/80 shadow-inner">
+                    <div class="bg-slate-50/80 p-3 rounded-xl text-xs border border-slate-100/80 shadow-inner">
                         <div class="flex justify-between text-slate-400 text-[11px] mb-1">
-                            <span class="font-bold text-slate-700">${r.author || '智能评审'}</span>
+                            <span class="font-bold text-slate-700">${r.author || '智能分析'}</span>
                             <span class="text-amber-500 font-semibold">${r.rating || '★ 5'}</span>
                         </div>
-                        <p class="text-slate-600 leading-relaxed font-normal">${r.content || '暂无详细评语。'}</p>
+                        <p class="text-slate-600 leading-relaxed font-normal">${r.content}</p>
                     </div>
-                `).join('') : '<p class="text-xs text-slate-400 italic px-2">暂无精选评价</p>';
+                `).join('') : '<p class="text-xs text-slate-400 italic px-2">暂无精选购买建议</p>';
 
                 return `
                     <div class="bg-white rounded-2xl border border-slate-200/70 p-5 shadow-sm hover:shadow-md transition-all">
@@ -154,11 +151,11 @@
                             <a href="${game.appStoreUrl || '#'}" target="_blank" class="${actionBtnColor} px-4 py-2 rounded-xl text-xs font-bold transition-all self-center shadow-sm flex-shrink-0">${actionBtnText}</a>
                         </div>
                         <div class="mt-4 bg-slate-50/50 p-3 rounded-xl border border-slate-100/70">
-                            <p id="desc-${index}" class="text-xs text-slate-500 leading-relaxed desc-collapsed whitespace-pre-line">${game.description || '暂无描述。'}</p>
-                            <button id="btn-${index}" onclick="toggleDesc(${index})" class="text-indigo-600 font-semibold text-[11px] mt-2 block hover:text-indigo-800 transition-colors">展开详细描述</button>
+                            <p id="desc-${index}" class="text-xs text-slate-500 leading-relaxed desc-collapsed whitespace-pre-line">${game.description}</p>
+                            <button id="btn-${index}" onclick="toggleDesc(${index})" class="text-indigo-600 font-semibold text-[11px] mt-2 block hover:text-indigo-800">展开详细描述</button>
                         </div>
                         <div class="mt-4 pt-3 border-t border-slate-100 space-y-2">
-                            <div class="text-[11px] font-bold text-slate-400 px-1 flex items-center gap-1"><i class="fa-regular fa-comment-dots text-indigo-500"></i> AI 专家购买建议：</div>
+                            <div class="text-[11px] font-bold text-slate-400 px-1 flex items-center gap-1"><i class="fa-regular fa-comment-dots text-indigo-500"></i> 精选购买建议与真实反馈：</div>
                             ${reviewsHtml}
                         </div>
                     </div>`;
