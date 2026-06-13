@@ -1,54 +1,14 @@
 {
-  "updateTime": "2026-06-13T02:05:08.870Z",
+  "updateTime": "2026-06-13T03:57:16.822Z",
   "regions": {
-    "free": {
-      "games": [
-        {
-          "rank": "✨ 喜加一",
-          "appId": "epic-7f0ab2828f9743d0abc6612a11222fdf",
-          "name": "[限免] The Ouroboros King",
-          "developer": "Plug In Digital SAS",
-          "icon": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
-          "primaryGenre": "PC正版限免",
-          "description": "The Ouroboros King combines the strategic depth of chess with the build variety and replayability of roguelikes. Assemble a formidable army, discover powerful relics, and buy surprising gadgets to defeat the Coven.",
-          "ratingCount": "限时免费",
-          "reviews": [
-            {
-              "author": "Wannet 福利官",
-              "rating": "🎁 必入",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/the-ouroboros-king-e1d547"
-        },
-        {
-          "rank": "✨ 喜加一",
-          "appId": "epic-eb6ae87e73d94d2c96bab3c4da4dd3de",
-          "name": "[限免] Warhammer 40K Speed Freeks",
-          "developer": "Wired Productions",
-          "icon": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
-          "primaryGenre": "PC正版限免",
-          "description": "High-octane combat racing in the Warhammer 40,000 universe.",
-          "ratingCount": "限时免费",
-          "reviews": [
-            {
-              "author": "Wannet 福利官",
-              "rating": "🎁 必入",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/warhammer-40k-speed-freeks-12879c"
-        }
-      ]
-    },
     "steam": {
       "games": [
         {
           "rank": 1,
           "appId": "steam-seller-4148240",
-          "name": "Road to Empress Ⅱ",
+          "name": "女王的游戏：盛世天下 女帝篇",
           "developer": " New One Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/bf648d7ecd91d614cf5b5dc5d5b138c3bc38c1f3/capsule_616x353.jpg?t=1781165139",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/ad47878cf250027da631c4678102b8167fd166c1/capsule_616x353_schinese.jpg?t=1781165139",
           "primaryGenre": "冒险",
           "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
           "ratingCount": "热销爆款",
@@ -56,28 +16,30 @@
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4148240/"
+          "appStoreUrl": "https://store.steampowered.com/app/4148240/",
+          "isFreeToKeep": false
         },
         {
           "rank": 2,
           "appId": "steam-seller-77115",
-          "name": "Road to Empress Collection",
+          "name": "《女王的游戏：盛世天下》媚娘篇与女帝篇合集",
           "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/77115/1hrsbv4wokbvv1h9/0ff9a7c9a711643bd696be12ba7a3dd0dce6bcdf/capsule_616x353.jpg?t=1780022991",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/77115/1hrsbv4wokbvv1h9/8755c3c5e416514ce84b328d152f7b7d929d8fa0/capsule_616x353_schinese.jpg?t=1780022991",
           "primaryGenre": "热门大作",
-          "description": "【Wannet 智能看盘】收录于 Steam 核心数据库的高热度神作《Road to Empress Collection》。核心游玩机制非常硬核，拥有极高的社区讨论度与生态活跃度。",
+          "description": "【Wannet 实时流】收录于 Steam 核心数据库的高热度作品《《女王的游戏：盛世天下》媚娘篇与女帝篇合集》。具备极高社区讨论度。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/77115/"
+          "appStoreUrl": "https://store.steampowered.com/app/77115/",
+          "isFreeToKeep": false
         },
         {
           "rank": 3,
@@ -92,53 +54,18 @@
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3405690/"
+          "appStoreUrl": "https://store.steampowered.com/app/3405690/",
+          "isFreeToKeep": false
         },
         {
           "rank": 4,
-          "appId": "steam-seller-322330",
-          "name": "Don't Starve Together",
-          "developer": "Klei Entertainment",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/d06913ca46e5068feee25b350cb2ca6e4d693897/capsule_616x353_alt_assets_50.jpg?t=1781284732",
-          "primaryGenre": "动作",
-          "description": "在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/322330/"
-        },
-        {
-          "rank": 5,
-          "appId": "steam-seller-322330",
-          "name": "Don't Starve Together",
-          "developer": "Klei Entertainment",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/d06913ca46e5068feee25b350cb2ca6e4d693897/capsule_616x353_alt_assets_50.jpg?t=1781284732",
-          "primaryGenre": "动作",
-          "description": "在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/322330/"
-        },
-        {
-          "rank": 6,
           "appId": "steam-seller-3478050",
-          "name": "Road to Empress I",
+          "name": "女王的游戏：盛世天下 媚娘篇",
           "developer": " New One Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478050/fa469f01336258e5d76b35ea0315264ca26e7103/capsule_616x353.jpg?t=1780237631",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478050/0e3d390564332c03dd980d0b295cb533d0ecb7a7/capsule_616x353_schinese.jpg?t=1780237631",
           "primaryGenre": "冒险",
           "description": "这是一款你做主角，真人互动的宫廷冒险游戏！你的选择，将决定所有人的命运。面对多线分支剧情和超高死亡率的挑战，你能否活下去，走向权力巅峰？《隐形守护者》团队全新力作《女王的游戏：盛世天下》之媚娘篇，诚邀您踏上惊险刺激的东方宫廷权谋之旅。",
           "ratingCount": "热销爆款",
@@ -146,15 +73,54 @@
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3478050/"
+          "appStoreUrl": "https://store.steampowered.com/app/3478050/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-seller-322330",
+          "name": "饥荒联机版",
+          "developer": "Klei Entertainment",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "动作",
+          "description": "在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/322330/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 6,
+          "appId": "steam-seller-322330",
+          "name": "饥荒联机版",
+          "developer": "Klei Entertainment",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "动作",
+          "description": "在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/322330/",
+          "isFreeToKeep": false
         },
         {
           "rank": 7,
           "appId": "steam-seller-4394810",
-          "name": "DAVE THE DIVER - In the Jungle Content Pack",
+          "name": "潜水员戴夫 - 丛林 Content Pack",
           "developer": "MINTROCKET",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394810/30413bff2a422fb750070354b7fbf8136c24f19a/capsule_616x353.jpg?t=1781200442",
           "primaryGenre": "冒险",
@@ -164,35 +130,37 @@
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4394810/"
+          "appStoreUrl": "https://store.steampowered.com/app/4394810/",
+          "isFreeToKeep": false
         },
         {
           "rank": 8,
           "appId": "steam-seller-72233",
           "name": "Destiny 2: The Collection",
           "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/72233/10mlyrwt89khh346/54b31bd91ce1869e9bd4004f1dd693da8f34ef8e/capsule_616x353.jpg?t=1781235088",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/72233/10mlyrwt89khh346/7875cf482f9e231036f47295ea4839ad84322828/capsule_616x353_schinese.jpg?t=1781235088",
           "primaryGenre": "热门大作",
-          "description": "【Wannet 智能看盘】收录于 Steam 核心数据库的高热度神作《Destiny 2: The Collection》。核心游玩机制非常硬核，拥有极高的社区讨论度与生态活跃度。",
+          "description": "【Wannet 实时流】收录于 Steam 核心数据库的高热度作品《Destiny 2: The Collection》。具备极高社区讨论度。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/72233/"
+          "appStoreUrl": "https://store.steampowered.com/app/72233/",
+          "isFreeToKeep": false
         },
         {
           "rank": 9,
           "appId": "steam-seller-431960",
-          "name": "Wallpaper Engine",
+          "name": "Wallpaper Engine：壁纸引擎",
           "developer": "Wallpaper Engine Team",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_616x353.jpg?t=1779452230",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_616x353_schinese.jpg?t=1779452230",
           "primaryGenre": "休闲",
           "description": "您可以在桌面上使用惊艳的动态壁纸。可以将您自己的图片制成动画以创建新壁纸，或导入视频/网站并在 Steam 创意工坊上分享！",
           "ratingCount": "热销爆款",
@@ -200,28 +168,30 @@
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/431960/"
+          "appStoreUrl": "https://store.steampowered.com/app/431960/",
+          "isFreeToKeep": false
         },
         {
           "rank": 10,
-          "appId": "steam-seller-23266",
-          "name": "Oxygen Not Included Complete Bundle",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/23266/p29p0imjegaxruvt/9bd9e5591d480ef3ab64d041472c7769c4c99c9f/capsule_616x353.jpg?t=1781213525",
-          "primaryGenre": "热门大作",
-          "description": "【Wannet 智能看盘】收录于 Steam 核心数据库的高热度神作《Oxygen Not Included Complete Bundle》。核心游玩机制非常硬核，拥有极高的社区讨论度与生态活跃度。",
+          "appId": "steam-seller-2483190",
+          "name": "极限竞速：地平线 6",
+          "developer": "Playground Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/e8e49b907c171a8036e9430eadf13306a085533d/capsule_616x353.jpg?t=1781040370",
+          "primaryGenre": "竞速",
+          "description": "驾驶超过 550 辆真实存在的赛车，探索日本的绝美风光，在 极限竞速：地平线 有史以来最宏大的冒险中成为竞速传奇。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
               "author": "Wannet 趋势洞察",
               "rating": "🔥 推荐指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/23266/"
+          "appStoreUrl": "https://store.steampowered.com/app/2483190/",
+          "isFreeToKeep": false
         }
       ]
     },
@@ -230,56 +200,59 @@
         {
           "rank": 1,
           "appId": "steam-sale-322330",
-          "name": "[特惠] Don't Starve Together",
+          "name": "[特惠] 饥荒联机版",
           "developer": "Klei Entertainment",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/d06913ca46e5068feee25b350cb2ca6e4d693897/capsule_616x353_alt_assets_50.jpg?t=1781284732",
-          "primaryGenre": "突发折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥48.00，现官方特价仅需 ¥4.80！\n官方产品简介：在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "折扣 -90%",
+          "description": "【实时特惠折扣 -90%】原价 ¥48.00，当前促销现价仅需 ¥4.80！\n官方简介：在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
           "ratingCount": "直降 ¥43.20",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/322330/"
+          "appStoreUrl": "https://store.steampowered.com/app/322330/",
+          "isFreeToKeep": false
         },
         {
           "rank": 2,
           "appId": "steam-sale-322330",
-          "name": "[特惠] Don't Starve Together",
+          "name": "[特惠] 饥荒联机版",
           "developer": "Klei Entertainment",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/d06913ca46e5068feee25b350cb2ca6e4d693897/capsule_616x353_alt_assets_50.jpg?t=1781284732",
-          "primaryGenre": "突发折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥48.00，现官方特价仅需 ¥4.80！\n官方产品简介：在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "折扣 -90%",
+          "description": "【实时特惠折扣 -90%】原价 ¥48.00，当前促销现价仅需 ¥4.80！\n官方简介：在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。",
           "ratingCount": "直降 ¥43.20",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/322330/"
+          "appStoreUrl": "https://store.steampowered.com/app/322330/",
+          "isFreeToKeep": false
         },
         {
           "rank": 3,
           "appId": "steam-sale-4148240",
-          "name": "[特惠] Road to Empress Ⅱ",
+          "name": "[特惠] 女王的游戏：盛世天下 女帝篇",
           "developer": " New One Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/bf648d7ecd91d614cf5b5dc5d5b138c3bc38c1f3/capsule_616x353.jpg?t=1781165139",
-          "primaryGenre": "突发折扣 -20%",
-          "description": "【实时特惠折扣 -20%】原价 ¥74.00，现官方特价仅需 ¥59.20！\n官方产品简介：你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/ad47878cf250027da631c4678102b8167fd166c1/capsule_616x353_schinese.jpg?t=1781165139",
+          "primaryGenre": "折扣 -20%",
+          "description": "【实时特惠折扣 -20%】原价 ¥74.00，当前促销现价仅需 ¥59.20！\n官方简介：你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
           "ratingCount": "直降 ¥14.80",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4148240/"
+          "appStoreUrl": "https://store.steampowered.com/app/4148240/",
+          "isFreeToKeep": false
         },
         {
           "rank": 4,
@@ -287,107 +260,113 @@
           "name": "[特惠] Resident Evil 4",
           "developer": "CAPCOM Co., Ltd.",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg?t=1772502922",
-          "primaryGenre": "突发折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥198.00，现官方特价仅需 ¥49.50！\n官方产品简介：成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n官方简介：成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。",
           "ratingCount": "直降 ¥148.50",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2050650/"
+          "appStoreUrl": "https://store.steampowered.com/app/2050650/",
+          "isFreeToKeep": false
         },
         {
           "rank": 5,
           "appId": "steam-sale-1868140",
-          "name": "[特惠] DAVE THE DIVER",
+          "name": "[特惠] 潜水员戴夫 DAVE THE DIVER",
           "developer": "MINTROCKET",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/890058df24a6b0c8a768ef2573a700c00ff67463/capsule_616x353.jpg?t=1781198537",
-          "primaryGenre": "突发折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥80.00，现官方特价仅需 ¥40.00！\n官方产品简介：欢迎访问以神秘蓝洞为背景的海洋冒险游戏【潜水员戴夫 DAVE THE DIVER】。 白天在美丽的大海里打鱼，晚上经营寿司店赚钱。 伴随着个性强的同事们的故事展开的海底谜团。神秘又崭新的乐趣正在等着您！",
+          "primaryGenre": "折扣 -50%",
+          "description": "【实时特惠折扣 -50%】原价 ¥80.00，当前促销现价仅需 ¥40.00！\n官方简介：欢迎访问以神秘蓝洞为背景的海洋冒险游戏【潜水员戴夫 DAVE THE DIVER】。 白天在美丽的大海里打鱼，晚上经营寿司店赚钱。 伴随着个性强的同事们的故事展开的海底谜团。神秘又崭新的乐趣正在等着您！",
           "ratingCount": "直降 ¥40.00",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1868140/"
+          "appStoreUrl": "https://store.steampowered.com/app/1868140/",
+          "isFreeToKeep": false
         },
         {
           "rank": 6,
-          "appId": "steam-sale-2668510",
-          "name": "[特惠] Red Dead Redemption",
-          "developer": "Rockstar Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/8f73dc378141e642d00e40484adde709e0ad33cb/capsule_616x353.jpg?t=1781132266",
-          "primaryGenre": "突发折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥249.00，现官方特价仅需 ¥124.50！\n官方产品简介：广受好评的 Red Dead Redemption 2 的前作首次登陆 PC 平台，在这款游戏中体验前亡命之徒约翰·马斯顿追捕臭名昭著的范德林德帮最后残余成员的故事。",
-          "ratingCount": "直降 ¥124.50",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2668510/"
-        },
-        {
-          "rank": 7,
-          "appId": "steam-sale-2004680",
-          "name": "[特惠] Voidling Bound",
-          "developer": "Hatchery Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/dd142d6dc10f8ef8daa4f852022c47bc74ffe65d/capsule_616x353_alt_assets_0.jpg?t=1781263470",
-          "primaryGenre": "突发折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥93.00，现官方特价仅需 ¥83.70！\n官方产品简介：在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
-          "ratingCount": "直降 ¥9.30",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2004680/"
-        },
-        {
-          "rank": 8,
           "appId": "steam-sale-1551360",
-          "name": "[特惠] Forza Horizon 5",
+          "name": "[特惠] 极限竞速：地平线 5",
           "developer": "Playground Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_616x353.jpg?t=1746471508",
-          "primaryGenre": "突发折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥198.00，现官方特价仅需 ¥99.00！\n官方产品简介：驾驶世界上最棒的赛车，探索墨西哥生机勃勃的开放世界景观，体验无限的驾驶乐趣。",
+          "primaryGenre": "折扣 -50%",
+          "description": "【实时特惠折扣 -50%】原价 ¥198.00，当前促销现价仅需 ¥99.00！\n官方简介：驾驶世界上最棒的赛车，探索墨西哥生机勃勃的开放世界景观，体验无限的驾驶乐趣。",
           "ratingCount": "直降 ¥99.00",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1551360/"
+          "appStoreUrl": "https://store.steampowered.com/app/1551360/",
+          "isFreeToKeep": false
         },
         {
-          "rank": 9,
-          "appId": "steam-sale-3241660",
-          "name": "[特惠] R.E.P.O.",
-          "developer": "semiwork",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/134bb2a6b8dd945af183f4fa38ac56f8f9f9e0de/capsule_616x353_alt_assets_2.jpg?t=1778158882",
-          "primaryGenre": "突发折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥35.00，现官方特价仅需 ¥24.50！\n官方产品简介：An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
-          "ratingCount": "直降 ¥10.50",
+          "rank": 7,
+          "appId": "steam-sale-2004680",
+          "name": "[特惠] 沃德灵：共生",
+          "developer": "Hatchery Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/71bf660e0a72aa8d809bbc2ee5f0b4d7162907d0/capsule_616x353_alt_assets_0_schinese.jpg?t=1781263470",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥93.00，当前促销现价仅需 ¥83.70！\n官方简介：在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
+          "ratingCount": "直降 ¥9.30",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3241660/"
+          "appStoreUrl": "https://store.steampowered.com/app/2004680/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 8,
+          "appId": "steam-sale-2050650",
+          "name": "[特惠] Resident Evil 4",
+          "developer": "CAPCOM Co., Ltd.",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg?t=1772502922",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n官方简介：成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。",
+          "ratingCount": "直降 ¥148.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2050650/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 9,
+          "appId": "steam-sale-394360",
+          "name": "[特惠] Hearts of Iron IV",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/357ca8b177c72aa1484df8f4439ca85f13e884c1/capsule_616x353_alt_assets_9_schinese.jpg?t=1781197164",
+          "primaryGenre": "折扣 -80%",
+          "description": "【实时特惠折扣 -80%】原价 ¥198.00，当前促销现价仅需 ¥39.60！\n官方简介：【Wannet 实时流】收录于 Steam 核心数据库的高热度作品《Hearts of Iron IV》。具备极高社区讨论度。",
+          "ratingCount": "直降 ¥158.40",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/394360/",
+          "isFreeToKeep": false
         },
         {
           "rank": 10,
@@ -395,19 +374,63 @@
           "name": "[特惠] FINAL FANTASY VII REMAKE INTERGRADE",
           "developer": "Square Enix",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_616x353.jpg?t=1773895755",
-          "primaryGenre": "突发折扣 -65%",
-          "description": "【实时特惠折扣 -65%】原价 ¥198.00，现官方特价仅需 ¥69.30！\n官方产品简介：身背毁灭剑的前神罗战士克劳德踏入魔晄都市米德加。 运用最先进技术制作的画面、融合战略性与直觉式动作操作的战斗系统—— 不朽名作《FINAL FANTASY VII》的世界重生为“全新故事”。",
+          "primaryGenre": "折扣 -65%",
+          "description": "【实时特惠折扣 -65%】原价 ¥198.00，当前促销现价仅需 ¥69.30！\n官方简介：身背毁灭剑的前神罗战士克劳德踏入魔晄都市米德加。 运用最先进技术制作的画面、融合战略性与直觉式动作操作的战斗系统—— 不朽名作《FINAL FANTASY VII》的世界重生为“全新故事”。",
           "ratingCount": "直降 ¥128.70",
           "reviews": [
             {
               "author": "价格风向标",
               "rating": "💰 购买指数",
-              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1462040/"
+          "appStoreUrl": "https://store.steampowered.com/app/1462040/",
+          "isFreeToKeep": false
         }
       ]
+    },
+    "free": {
+      "games": [
+        {
+          "rank": "Epic 限免",
+          "appId": "epic-7f0ab2828f9743d0abc6612a11222fdf",
+          "name": "[Epic] The Ouroboros King",
+          "developer": "Plug In Digital SAS",
+          "icon": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+          "primaryGenre": "正版限时免费",
+          "description": "The Ouroboros King combines the strategic depth of chess with the build variety and replayability of roguelikes. Assemble a formidable army, discover powerful relics, and buy surprising gadgets to defeat the Coven.",
+          "ratingCount": "0元入库",
+          "reviews": [
+            {
+              "author": "Wannet 福利官",
+              "rating": "🎁 必入",
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/the-ouroboros-king-e1d547"
+        },
+        {
+          "rank": "Epic 限免",
+          "appId": "epic-eb6ae87e73d94d2c96bab3c4da4dd3de",
+          "name": "[Epic] Warhammer 40K Speed Freeks",
+          "developer": "Wired Productions",
+          "icon": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+          "primaryGenre": "正版限时免费",
+          "description": "High-octane combat racing in the Warhammer 40,000 universe.",
+          "ratingCount": "0元入库",
+          "reviews": [
+            {
+              "author": "Wannet 福利官",
+              "rating": "🎁 必入",
+              "content": "核心玩法在同类作品中素质过硬，目前价格机制性价比良好，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/warhammer-40k-speed-freeks-12879c"
+        }
+      ]
+    },
+    "itch": {
+      "games": []
     }
   }
 }
