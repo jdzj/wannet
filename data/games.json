@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-06-13T01:06:52.444Z",
+  "updateTime": "2026-06-13T01:31:43.355Z",
   "regions": {
     "cn": {
       "games": []
@@ -16,14 +16,14 @@
           "developer": "Steam精品大作",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1781108224",
           "primaryGenre": "PC/Console",
-          "description": "Steam全球实时畅销大作！当前国内参考价：¥4.79。含丰富的成就系统、高端画质选项与社区创意工坊生态。",
-          "rating": "9.3",
-          "ratingCount": "特别好评",
+          "description": "Steam全球实时畅销榜前列作品。当前国内参考价：¥4.79。支持Steam社区创意工坊、全成就与高端硬件优化。",
+          "rating": "9.2",
+          "ratingCount": "全球热销",
           "reviews": [
             {
-              "author": "DeepSeek 深度透视",
-              "rating": "🔥 独家盘点",
-              "content": "作为一款PC/Console定位的作品，MECCHA CHAMELEON在玩法设计上有着鲜明的Steam大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "author": "DeepSeek 核心洞察",
+              "rating": "💰 购买建议",
+              "content": "作为一款PC/Console定位的作品，MECCHA CHAMELEON具备鲜明的Steam大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/4704690/"
@@ -35,14 +35,14 @@
           "developer": "Steam精品大作",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/72233/10mlyrwt89khh346/54b31bd91ce1869e9bd4004f1dd693da8f34ef8e/capsule_616x353.jpg?t=1781235088",
           "primaryGenre": "PC/Console",
-          "description": "Steam全球实时畅销大作！当前国内参考价：¥25.63。含丰富的成就系统、高端画质选项与社区创意工坊生态。",
-          "rating": "9.3",
-          "ratingCount": "特别好评",
+          "description": "Steam全球实时畅销榜前列作品。当前国内参考价：¥25.63。支持Steam社区创意工坊、全成就与高端硬件优化。",
+          "rating": "9.2",
+          "ratingCount": "全球热销",
           "reviews": [
             {
-              "author": "DeepSeek 深度透视",
-              "rating": "🔥 独家盘点",
-              "content": "作为一款PC/Console定位的作品，Destiny 2: The Collection在玩法设计上有着鲜明的Steam大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "author": "DeepSeek 核心洞察",
+              "rating": "💰 购买建议",
+              "content": "作为一款PC/Console定位的作品，Destiny 2: The Collection具备鲜明的Steam大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/72233/"
@@ -54,94 +54,113 @@
           "developer": "Steam精品大作",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/b779b481bdcfbd0fe04bdab741be885d1d13ed14/capsule_616x353.jpg?t=1781100001",
           "primaryGenre": "PC/Console",
-          "description": "Steam全球实时畅销大作！当前国内参考价：¥8.99。含丰富的成就系统、高端画质选项与社区创意工坊生态。",
-          "rating": "9.3",
-          "ratingCount": "特别好评",
+          "description": "Steam全球实时畅销榜前列作品。当前国内参考价：¥8.99。支持Steam社区创意工坊、全成就与高端硬件优化。",
+          "rating": "9.2",
+          "ratingCount": "全球热销",
           "reviews": [
             {
-              "author": "DeepSeek 深度透视",
-              "rating": "🔥 独家盘点",
-              "content": "作为一款PC/Console定位的作品，Burglin' Gnomes在玩法设计上有着鲜明的Steam大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "author": "DeepSeek 核心洞察",
+              "rating": "💰 购买建议",
+              "content": "作为一款PC/Console定位的作品，Burglin' Gnomes具备鲜明的Steam大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/3844970/"
         },
         {
           "rank": 4,
-          "appId": "3186540",
-          "name": "Destiny 2: Renegades",
-          "developer": "Steam精品大作",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3186540/a870d779cb294072c410ca6e90d3c869b05b7233/capsule_616x353.jpg?t=1781025513",
-          "primaryGenre": "PC/Console",
-          "description": "Steam全球实时畅销大作！当前国内参考价：¥11.99。含丰富的成就系统、高端画质选项与社区创意工坊生态。",
-          "rating": "9.3",
-          "ratingCount": "特别好评",
-          "reviews": [
-            {
-              "author": "DeepSeek 深度透视",
-              "rating": "🔥 独家盘点",
-              "content": "作为一款PC/Console定位的作品，Destiny 2: Renegades在玩法设计上有着鲜明的Steam大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3186540/"
-        },
-        {
-          "rank": 5,
-          "appId": "2483190",
-          "name": "Forza Horizon 6",
-          "developer": "Steam精品大作",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/e8e49b907c171a8036e9430eadf13306a085533d/capsule_616x353.jpg?t=1781040370",
-          "primaryGenre": "PC/Console",
-          "description": "Steam全球实时畅销大作！当前国内参考价：¥69.99。含丰富的成就系统、高端画质选项与社区创意工坊生态。",
-          "rating": "9.3",
-          "ratingCount": "特别好评",
-          "reviews": [
-            {
-              "author": "DeepSeek 深度透视",
-              "rating": "🔥 独家盘点",
-              "content": "作为一款PC/Console定位的作品，Forza Horizon 6在玩法设计上有着鲜明的Steam大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2483190/"
-        },
-        {
-          "rank": 6,
           "appId": "1675200",
           "name": "Steam Deck",
           "developer": "Steam精品大作",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg?t=1781214136",
           "primaryGenre": "PC/Console",
-          "description": "Steam全球实时畅销大作！当前国内参考价：¥399.00。含丰富的成就系统、高端画质选项与社区创意工坊生态。",
-          "rating": "9.3",
-          "ratingCount": "特别好评",
+          "description": "Steam全球实时畅销榜前列作品。当前国内参考价：¥399.00。支持Steam社区创意工坊、全成就与高端硬件优化。",
+          "rating": "9.2",
+          "ratingCount": "全球热销",
           "reviews": [
             {
-              "author": "DeepSeek 深度透视",
-              "rating": "🔥 独家盘点",
-              "content": "作为一款PC/Console定位的作品，Steam Deck在玩法设计上有着鲜明的Steam大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "author": "DeepSeek 核心洞察",
+              "rating": "💰 购买建议",
+              "content": "作为一款PC/Console定位的作品，Steam Deck具备鲜明的Steam大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1675200/"
+        },
+        {
+          "rank": 5,
+          "appId": "1675200",
+          "name": "Steam Deck",
+          "developer": "Steam精品大作",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/ce93cfd12a888ecfbb5428b11bcc15e4352a21d0/capsule_616x353.jpg?t=1781214136",
+          "primaryGenre": "PC/Console",
+          "description": "Steam全球实时畅销榜前列作品。当前国内参考价：¥399.00。支持Steam社区创意工坊、全成就与高端硬件优化。",
+          "rating": "9.2",
+          "ratingCount": "全球热销",
+          "reviews": [
+            {
+              "author": "DeepSeek 核心洞察",
+              "rating": "💰 购买建议",
+              "content": "作为一款PC/Console定位的作品，Steam Deck具备鲜明的Steam大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1675200/"
+        },
+        {
+          "rank": 6,
+          "appId": "3186540",
+          "name": "Destiny 2: Renegades",
+          "developer": "Steam精品大作",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3186540/a870d779cb294072c410ca6e90d3c869b05b7233/capsule_616x353.jpg?t=1781025513",
+          "primaryGenre": "PC/Console",
+          "description": "Steam全球实时畅销榜前列作品。当前国内参考价：¥11.99。支持Steam社区创意工坊、全成就与高端硬件优化。",
+          "rating": "9.2",
+          "ratingCount": "全球热销",
+          "reviews": [
+            {
+              "author": "DeepSeek 核心洞察",
+              "rating": "💰 购买建议",
+              "content": "作为一款PC/Console定位的作品，Destiny 2: Renegades具备鲜明的Steam大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3186540/"
         }
       ]
     },
     "free": {
       "games": [
         {
+          "rank": "✨ 经典限免",
+          "appId": "free-ios-default",
+          "name": "[精选限免] iHour - 时间投资计划",
+          "developer": "Clover.ly",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/93/90/6b939023-e60d-4581-ba5b-21d3be2bc403/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/120x120bb.webp",
+          "primaryGenre": "效率 / 限时特惠",
+          "description": "【App Store 官方特惠】原价 ¥12 -> 现价 ¥0！一款帮助你记录时间投入的知名效率工具，支持一万小时黄金定律追踪。",
+          "rating": "4.9",
+          "ratingCount": "特惠精选",
+          "reviews": [
+            {
+              "author": "Wannet 情报官",
+              "rating": "🔥 极高推荐",
+              "content": "老牌时间管理App，长期保持超高评分，界面精致干净，非常推荐点击前往下载收录。"
+            }
+          ],
+          "appStoreUrl": "https://apps.apple.com/cn/app/id687624831"
+        },
+        {
           "rank": 1,
           "appId": "epic-4704690",
-          "name": "[特惠] MECCHA CHAMELEON",
+          "name": "[折扣] MECCHA CHAMELEON",
           "developer": "Epic / Steam 促销",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1781108224",
           "primaryGenre": "限时特惠",
-          "description": "【今日跨平台特惠风向标】精品游戏举办史低促销。折扣率 -20%，原价 ¥5.99，现价仅需 ¥4.79。",
+          "description": "【今日促销特惠】史低级促销来袭。折扣率 -20%，原价 ¥5.99，精选现价仅需 ¥4.79。",
           "rating": "8.8",
-          "ratingCount": "白嫖必备",
+          "ratingCount": "特惠专区",
           "reviews": [
             {
               "author": "DeepSeek 价格估算",
-              "rating": "💰 购买建议",
-              "content": "作为一款限时特惠定位的作品，MECCHA CHAMELEON在玩法设计上有着鲜明的特惠大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "rating": "🔥 价格风向标",
+              "content": "作为一款折扣特惠定位的作品，MECCHA CHAMELEON具备鲜明的特惠大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.epicgames.com/"
@@ -149,18 +168,18 @@
         {
           "rank": 2,
           "appId": "epic-3844970",
-          "name": "[特惠] Burglin' Gnomes",
+          "name": "[折扣] Burglin' Gnomes",
           "developer": "Epic / Steam 促销",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/b779b481bdcfbd0fe04bdab741be885d1d13ed14/capsule_616x353.jpg?t=1781100001",
           "primaryGenre": "限时特惠",
-          "description": "【今日跨平台特惠风向标】精品游戏举办史低促销。折扣率 -10%，原价 ¥9.99，现价仅需 ¥8.99。",
+          "description": "【今日促销特惠】史低级促销来袭。折扣率 -10%，原价 ¥9.99，精选现价仅需 ¥8.99。",
           "rating": "8.8",
-          "ratingCount": "白嫖必备",
+          "ratingCount": "特惠专区",
           "reviews": [
             {
               "author": "DeepSeek 价格估算",
-              "rating": "💰 购买建议",
-              "content": "作为一款限时特惠定位的作品，Burglin' Gnomes在玩法设计上有着鲜明的特惠大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "rating": "🔥 价格风向标",
+              "content": "作为一款折扣特惠定位的作品，Burglin' Gnomes具备鲜明的特惠大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.epicgames.com/"
@@ -168,18 +187,18 @@
         {
           "rank": 3,
           "appId": "epic-2909400",
-          "name": "[特惠] FINAL FANTASY VII REBIRTH",
+          "name": "[折扣] FINAL FANTASY VII REBIRTH",
           "developer": "Epic / Steam 促销",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/c4e617a13d511a72b2787c91e0e08fbe57c99191/capsule_616x353.jpg?t=1775124617",
           "primaryGenre": "限时特惠",
-          "description": "【今日跨平台特惠风向标】精品游戏举办史低促销。折扣率 -60%，原价 ¥49.99，现价仅需 ¥19.99。",
+          "description": "【今日促销特惠】史低级促销来袭。折扣率 -60%，原价 ¥49.99，精选现价仅需 ¥19.99。",
           "rating": "8.8",
-          "ratingCount": "白嫖必备",
+          "ratingCount": "特惠专区",
           "reviews": [
             {
               "author": "DeepSeek 价格估算",
-              "rating": "💰 购买建议",
-              "content": "作为一款限时特惠定位的作品，FINAL FANTASY VII REBIRTH在玩法设计上有着鲜明的特惠大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "rating": "🔥 价格风向标",
+              "content": "作为一款折扣特惠定位的作品，FINAL FANTASY VII REBIRTH具备鲜明的特惠大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.epicgames.com/"
@@ -187,37 +206,18 @@
         {
           "rank": 4,
           "appId": "epic-3892270",
-          "name": "[特惠] Gamble With Your Friends",
+          "name": "[折扣] Gamble With Your Friends",
           "developer": "Epic / Steam 促销",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/78a9deef0ef784825518781a668724e219099d1f/capsule_616x353.jpg?t=1778274309",
           "primaryGenre": "限时特惠",
-          "description": "【今日跨平台特惠风向标】精品游戏举办史低促销。折扣率 -20%，原价 ¥7.99，现价仅需 ¥6.39。",
+          "description": "【今日促销特惠】史低级促销来袭。折扣率 -20%，原价 ¥7.99，精选现价仅需 ¥6.39。",
           "rating": "8.8",
-          "ratingCount": "白嫖必备",
+          "ratingCount": "特惠专区",
           "reviews": [
             {
               "author": "DeepSeek 价格估算",
-              "rating": "💰 购买建议",
-              "content": "作为一款限时特惠定位的作品，Gamble With Your Friends在玩法设计上有着鲜明的特惠大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
-            }
-          ],
-          "appStoreUrl": "https://store.epicgames.com/"
-        },
-        {
-          "rank": 5,
-          "appId": "epic-2004680",
-          "name": "[特惠] Voidling Bound",
-          "developer": "Epic / Steam 促销",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/dd142d6dc10f8ef8daa4f852022c47bc74ffe65d/capsule_616x353_alt_assets_0.jpg?t=1781263470",
-          "primaryGenre": "限时特惠",
-          "description": "【今日跨平台特惠风向标】精品游戏举办史低促销。折扣率 -10%，原价 ¥24.99，现价仅需 ¥22.49。",
-          "rating": "8.8",
-          "ratingCount": "白嫖必备",
-          "reviews": [
-            {
-              "author": "DeepSeek 价格估算",
-              "rating": "💰 购买建议",
-              "content": "作为一款限时特惠定位的作品，Voidling Bound在玩法设计上有着鲜明的特惠大作风格。核心机制有一定上手门槛，对核心受众有着不错的吸引力。"
+              "rating": "🔥 价格风向标",
+              "content": "作为一款折扣特惠定位的作品，Gamble With Your Friends具备鲜明的特惠大作烙印。核心机制有一定门槛，建议根据功能刚需或玩法喜好对号入座。"
             }
           ],
           "appStoreUrl": "https://store.epicgames.com/"
