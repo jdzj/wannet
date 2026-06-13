@@ -29,7 +29,7 @@
                 <span class="text-xl font-bold bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent">Wannet Hub</span>
             </div>
             <div class="flex bg-slate-900 p-1 rounded-xl border border-slate-800 gap-0.5" id="tabs">
-                <button onclick="switchPlatform('free')" id="tab-free" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-600 text-white shadow-sm flex items-center gap-1 animate-pulse"><i class="fa-solid fa-gift"></i> 今日限免</button>
+                <button onclick="switchPlatform('free')" id="tab-free" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-600 text-white shadow-sm flex items-center gap-1"><i class="fa-solid fa-gift"></i> 今日限免</button>
                 <button onclick="switchPlatform('steam')" id="tab-steam" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 flex items-center gap-1"><i class="fa-brands fa-steam"></i> Steam 畅销榜</button>
                 <button onclick="switchPlatform('sale')" id="tab-sale" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 flex items-center gap-1"><i class="fa-solid fa-tags"></i> Steam 特惠区</button>
             </div>
@@ -39,9 +39,9 @@
     <main class="max-w-4xl mx-auto px-4 py-8">
         <div class="flex items-center justify-between mb-6 border-b border-slate-800 pb-4">
             <h1 class="text-xl font-bold text-slate-100 flex items-center gap-2" id="boardTitle">
-                <i class="fa-solid fa-gift text-red-500"></i> Epic & Steam 今日正版游戏限免
+                <i class="fa-solid fa-gift text-red-500"></i> Epic & Steam 线上真实限免大作
             </h1>
-            <p class="text-xs text-slate-500" id="updateTime">引擎加载中...</p>
+            <p class="text-xs text-slate-500" id="updateTime">正在建立实时同步...</p>
         </div>
         <div id="gameList" class="space-y-4"></div>
     </main>
@@ -56,7 +56,7 @@
                 globalData = await response.json();
                 render();
             } catch (error) {
-                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb- block text-amber-500"></i>游戏库同步中，请刷新或等待 Action 调度。</div>`;
+                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb- block text-amber-500"></i>实时云数据建立中，请稍后刷新。</div>`;
             }
         }
 
@@ -73,6 +73,8 @@
             });
             render();
         }
+
+        window.onload = init;
 
         window.toggleDesc = function(index) {
             const el = document.getElementById(`desc-${index}`);
@@ -94,12 +96,12 @@
             if (!globalData) return;
 
             const titleMap = {
-                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic Games & Steam 今日正版游戏“喜加一”限免',
-                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Valve 官方底层数据：Steam 全球实时畅销大作榜',
-                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 平台今日史低、高折扣特惠专区'
+                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic Games 官方实时在线“喜加一”限免大作',
+                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Steam 全球同步：实时热门畅销大作榜',
+                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 今日突发促销特惠高分作品专区'
             };
 
-            document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform] || '游戏看盘';
+            document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform];
             if (globalData.updateTime) {
                 document.getElementById('updateTime').innerText = `同步完成: ${new Date(globalData.updateTime).toLocaleString()}`;
             }
@@ -108,13 +110,13 @@
             const container = document.getElementById('gameList');
 
             if(!regionData || !regionData.games || regionData.games.length === 0) {
-                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-circle-nodes text-3xl text-slate-700 mb-3 block"></i><p class="text-sm text-slate-500">该游戏分类数据流正在加载，请等待 Actions 定时刷新。</p></div>`;
+                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-ban text-3xl text-red-500/80 mb-3 block"></i><p class="text-sm text-slate-400">当前分类在线流为空。后台脚本已彻底断开兜底保护。</p></div>`;
                 return;
             }
 
             container.innerHTML = regionData.games.map((game, index) => {
                 const actionBtnColor = currentPlatform === 'free' ? 'bg-red-600 text-white hover:bg-red-700' : 'bg-slate-800 text-slate-200 hover:bg-indigo-600 hover:text-white border border-slate-700';
-                const actionBtnText = currentPlatform === 'free' ? '一键入库 ¥0' : '进入商店';
+                const actionBtnText = currentPlatform === 'free' ? '立即秒杀 ¥0' : '进入商店';
                 const badgeStyle = currentPlatform === 'free' ? 'bg-red-950/60 text-red-400 border border-red-900/50' : 'bg-slate-800 text-slate-300 border border-slate-700';
 
                 const reviewsHtml = (game.reviews && Array.isArray(game.reviews)) ? game.reviews.map(r => `
@@ -138,7 +140,7 @@
                                 <div class="flex items-center gap-3 mt-1.5 text-xs">
                                     <span class="${badgeStyle} px-2 py-0.5 rounded text-[11px]">${game.primaryGenre}</span>
                                     <span class="text-amber-500 font-semibold flex items-center gap-0.5">
-                                        <i class="fa-solid fa-fire-flame-curved"></i> ${game.ratingCount}
+                                        <i class="fa-solid fa-bolt-lightning"></i> ${game.ratingCount}
                                     </span>
                                 </div>
                             </div>
@@ -149,14 +151,12 @@
                             <button id="btn-${index}" onclick="toggleDesc(${index})" class="text-indigo-400 font-semibold text-[11px] mt-2 block hover:text-indigo-300">展开游戏简介</button>
                         </div>
                         <div class="mt-4 pt-3 border-t border-slate-900 space-y-2">
-                            <div class="text-[11px] font-bold text-slate-500 px-1 flex items-center gap-1"><i class="fa-regular fa-comment-dots text-indigo-400"></i> AI 核心诊断报告：</div>
+                            <div class="text-[11px] font-bold text-slate-500 px-1 flex items-center gap-1"><i class="fa-regular fa-comment-dots text-indigo-400"></i> AI 实时看盘诊断：</div>
                             ${reviewsHtml}
                         </div>
                     </div>`;
             }).join('');
         }
-
-        window.onload = init;
     </script>
 </body>
 </html>
