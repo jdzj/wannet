@@ -3,90 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wannet - 游戏探索与评价</title>
+    <title>Wannet - 玩你想玩</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        .line-clamp-3 {
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;  
-            overflow: hidden;
-        }
-    </style>
+    <style>.line-clamp-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }</style>
 </head>
 <body class="bg-slate-50 text-slate-800 font-sans min-h-screen">
 
     <nav class="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-sm">
         <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
             <div class="flex items-center space-x-3">
-                <div class="bg-indigo-600 text-white p-2 rounded-xl shadow-md shadow-indigo-100">
-                    <i class="fa-solid class fa-gamepad text-xl"></i>
+                <div class="bg-indigo-600 text-white p-2 rounded-xl shadow-md">
+                    <i class="fa-solid fa-gamepad text-xl"></i>
                 </div>
-                <span class="text-xl font-bold tracking-tight bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">Wannet</span>
+                <span class="text-xl font-bold tracking-tight bg-gradient-to-r from-indigo-600 to-violet-600 bg-clip-text text-transparent">Wannet Hub</span>
             </div>
             <div class="flex bg-slate-100 p-1 rounded-xl" id="regionTabs">
-                <button onclick="switchRegion('cn')" id="tab-cn" class="px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 bg-white text-indigo-600 shadow-sm">中国区</button>
-                <button onclick="switchRegion('us')" id="tab-us" class="px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 text-slate-600 hover:text-slate-900">美国区</button>
+                <button onclick="switchPlatform('cn')" id="tab-cn" class="px-4 py-1.5 rounded-lg text-xs font-medium transition-all bg-white text-indigo-600 shadow-sm">App Store (国区)</button>
+                <button onclick="switchPlatform('us')" id="tab-us" class="px-4 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-600">App Store (美区)</button>
+                <button onclick="switchPlatform('steam')" id="tab-steam" class="px-4 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-600 flex items-center gap-1"><i class="fa-brands fa-steam"></i> Steam热销</button>
             </div>
         </div>
     </nav>
 
     <main class="max-w-4xl mx-auto px-4 py-8">
         <div class="flex items-center justify-between mb-6">
-            <h1 class="text-2xl font-bold text-slate-900 flex items-center gap-2">
-                <i class="fa-solid fa-fire text-orange-500"></i> App Store 热门游戏榜
+            <h1 class="text-2xl font-bold text-slate-900 flex items-center gap-2" id="boardTitle">
+                <i class="fa-solid fa-fire text-orange-500"></i> 正在加载数据...
             </h1>
-            <p class="text-xs text-slate-400" id="updateTime">正在同步最新数据...</p>
+            <p class="text-xs text-slate-400" id="updateTime">同步中...</p>
         </div>
 
-        <div id="gameList" class="space-y-4">
-            <div class="animate-pulse bg-white p-6 rounded-2xl border border-slate-100 flex gap-4">
-                <div class="w-12 h-12 bg-slate-200 rounded-xl"></div>
-                <div class="flex-1 space-y-2 py-1">
-                    <div class="h-4 bg-slate-200 rounded w-1/4"></div>
-                    <div class="h-3 bg-slate-200 rounded w-1/2"></div>
-                </div>
-            </div>
-        </div>
+        <div id="gameList" class="space-y-4"></div>
     </main>
 
     <script>
         let globalData = null;
-        let currentRegion = 'cn';
+        let currentPlatform = 'cn';
 
-        // 初始化获取数据
         async function init() {
             try {
-                // 读取同级目录或 data 目录下的 json
                 const response = await fetch('./data/games.json');
                 globalData = await response.json();
                 render();
             } catch (error) {
-                console.error("加载数据失败:", error);
-                document.getElementById('gameList').innerHTML = `
-                    <div class="text-center py-12 bg-white rounded-2xl border border-dashed border-slate-200">
-                        <i class="fa-solid fa-circle-exclamation text-3xl text-red-400 mb-2"></i>
-                        <p class="text-slate-500 text-sm">未能加载到游戏数据，请检查 data/games.json 是否生成成功。</p>
-                    </div>`;
+                document.getElementById('gameList').innerHTML = `<div class='text-center py-8 text-red-500'>数据加载失败，请确保 GitHub Actions 脚本已执行成功。</div>`;
             }
         }
 
-        // 切换国家/地区榜单
-        function switchRegion(region) {
-            currentRegion = region;
-            ['cn', 'us'].forEach(r => {
-                const btn = document.getElementById(`tab-${r}`);
-                if (r === region) {
-                    btn.className = "px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 bg-white text-indigo-600 shadow-sm";
+        function switchPlatform(platform) {
+            currentPlatform = platform;
+            ['cn', 'us', 'steam'].forEach(p => {
+                const btn = document.getElementById(`tab-${p}`);
+                if (p === platform) {
+                    btn.className = "px-4 py-1.5 rounded-lg text-xs font-medium transition-all bg-white text-indigo-600 shadow-sm flex items-center gap-1";
                 } else {
-                    btn.className = "px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 text-slate-600 hover:text-slate-900";
+                    btn.className = "px-4 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-600 flex items-center gap-1";
                 }
             });
             render();
         }
 
-        // 切换介绍的展开/折叠
+        // 折叠控制
         function toggleDesc(index) {
             const el = document.getElementById(`desc-${index}`);
             const btn = document.getElementById(`btn-${index}`);
@@ -99,97 +77,67 @@
             }
         }
 
-        // 核心渲染逻辑
         function render() {
-            if (!globalData || !globalData.regions[currentRegion]) return;
+            if (!globalData || !globalData.regions[currentPlatform]) return;
 
-            const regionData = globalData.regions[currentRegion];
-            const games = regionData.games;
+            // 动态修改标题
+            const titleMap = { 'cn': 'App Store 国区畅销游戏', 'us': 'App Store 美区畅销游戏', 'steam': 'Steam 平台全球热门神作' };
+            document.getElementById('boardTitle').innerHTML = `<i class="fa-solid fa-chess-queen text-indigo-600"></i> ${titleMap[currentPlatform]}`;
             
-            // 更新时间本地化展示
-            const ut = new Date(regionData.updateTime);
-            document.getElementById('updateTime').innerText = `更新于: ${ut.toLocaleString()}`;
+            // 展现更新时间
+            const ut = new Date(globalData.updateTime);
+            document.getElementById('updateTime').innerText = `全网同步时间: ${ut.toLocaleString()}`;
 
+            const games = globalData.regions[currentPlatform].games;
             const container = document.getElementById('gameList');
-            if (games.length === 0) {
-                container.innerHTML = `<p class="text-center text-slate-400 py-8">该区域暂无数据</p>`;
-                return;
-            }
 
             container.innerHTML = games.map((game, index) => {
-                // 渲染玩家评论 HTML
-                let reviewsHtml = '';
-                if (game.reviews && game.reviews.length > 0) {
-                    reviewsHtml = `
-                        <div class="mt-4 pt-4 border-t border-slate-100">
-                            <h4 class="text-xs font-semibold text-slate-500 uppercase tracking-wider mb-2 flex items-center gap-1">
-                                <i class="fa-regular fa-comment-dots text-indigo-500"></i> 玩家真实评价（最新）
-                            </h4>
-                            <div class="space-y-2">
-                                ${game.reviews.map(rev => `
-                                    <div class="bg-slate-50 p-3 rounded-xl border border-slate-100 text-xs">
-                                        <div class="flex justify-between items-center mb-1 text-slate-400">
-                                            <span class="font-medium text-slate-600">${rev.author}</span>
-                                            <span class="text-amber-500"><i class="fa-solid fa-star"></i> ${rev.rating}</span>
-                                        </div>
-                                        ${rev.title ? `<div class="font-semibold text-slate-700 mb-0.5">${rev.title}</div>` : ''}
-                                        <p class="text-slate-500 leading-relaxed">${rev.content}</p>
-                                    </div>
-                                `).join('')}
-                            </div>
-                        </div>
-                    `;
-                } else {
-                    reviewsHtml = `
-                        <div class="mt-4 pt-4 border-t border-slate-100 text-xs text-slate-400 text-center py-2">
-                            暂无玩家文字评价
-                        </div>
-                    `;
-                }
-
-                // 榜单排名样式
-                let rankBadge = `<span class="text-lg font-bold text-slate-400 w-6">${game.rank}</span>`;
-                if (game.rank === 1) rankBadge = `<span class="text-xl font-black text-amber-500 w-6 flex justify-center"><i class="fa-solid fa-crown"></i></span>`;
-                if (game.rank === 2) rankBadge = `<span class="text-xl font-black text-slate-400 w-6 flex justify-center"><i class="fa-solid fa-medal text-slate-400"></i></span>`;
-                if (game.rank === 3) rankBadge = `<span class="text-xl font-black text-amber-700 w-6 flex justify-center"><i class="fa-solid fa-medal text-amber-600"></i></span>`;
+                const subCountDisplay = currentPlatform === 'steam' ? game.ratingCount : `${Number(game.ratingCount).toLocaleString()}个评分`;
+                const actionBtnText = currentPlatform === 'steam' ? '前往商店' : '获取';
 
                 return `
                     <div class="bg-white rounded-2xl border border-slate-100 p-5 shadow-sm hover:shadow-md transition-all duration-300">
                         <div class="flex items-start gap-4">
-                            <div class="flex items-center justify-center pt-3">
-                                ${rankBadge}
-                            </div>
-                            <img src="${game.icon}" class="w-14 h-14 rounded-2xl shadow-sm object-cover border border-slate-100" alt="${game.name}">
+                            <span class="text-xl font-bold text-slate-300 w-6 pt-3 text-center">${game.rank}</span>
+                            <img src="${game.icon}" class="w-16 h-16 rounded-2xl shadow-inner object-cover border border-slate-100" alt="">
                             <div class="flex-1 min-w-0">
                                 <h3 class="font-bold text-slate-900 truncate text-base">${game.name}</h3>
                                 <p class="text-xs text-slate-400 truncate mt-0.5">${game.developer}</p>
                                 <div class="flex items-center gap-3 mt-2 text-xs">
-                                    <span class="bg-indigo-50 text-indigo-600 px-2 py-0.5 rounded-md font-medium">${game.primaryGenre}</span>
+                                    <span class="bg-slate-100 text-slate-600 px-2 py-0.5 rounded-md font-medium">${game.primaryGenre}</span>
                                     <span class="text-amber-500 font-semibold flex items-center gap-1">
                                         <i class="fa-solid fa-star"></i> ${game.rating}
-                                        <span class="text-slate-400 font-normal">(${Number(game.ratingCount).toLocaleString()}评分)</span>
+                                        <span class="text-slate-400 font-normal">(${subCountDisplay})</span>
                                     </span>
                                 </div>
                             </div>
-                            <a href="${game.appStoreUrl}" target="_blank" class="bg-slate-100 hover:bg-indigo-600 hover:text-white text-slate-600 px-4 py-1.5 rounded-full text-xs font-semibold transition-all self-center">
-                                获取
+                            <a href="${game.appStoreUrl}" target="_blank" class="bg-indigo-50 hover:bg-indigo-600 hover:text-white text-indigo-600 px-4 py-1.5 rounded-full text-xs font-semibold transition-all self-center">
+                                ${actionBtnText}
                             </a>
                         </div>
 
-                        <div class="mt-4 bg-slate-50/50 p-3 rounded-xl border border-slate-100/50">
+                        <div class="mt-4 bg-slate-50 p-3 rounded-xl">
                             <p id="desc-${index}" class="text-xs text-slate-500 leading-relaxed line-clamp-3 whitespace-pre-line">${game.description}</p>
-                            <button id="btn-${index}" onclick="toggleDesc(${index})" class="text-indigo-600 hover:text-indigo-700 font-medium text-xs mt-2 flex items-center gap-0.5">
-                                展开详情 <i class="fa-solid fa-chevron-down ml-1"></i>
-                            </button>
+                            <button id="btn-${index}" onclick="toggleDesc(${index})" class="text-indigo-600 font-medium text-xs mt-2 inline-block">展开详情 <i class="fa-solid fa-chevron-down"></i></button>
                         </div>
 
-                        ${reviewsHtml}
+                        <div class="mt-4 pt-3 border-t border-slate-100 space-y-2">
+                            <div class="text-xs font-bold text-slate-400 mb-1 flex items-center gap-1"><i class="fa-regular fa-comments text-indigo-500"></i> 玩家热评 / 社区动态</div>
+                            ${game.reviews.map(r => `
+                                <div class="bg-slate-50/50 p-2.5 rounded-lg text-xs border border-slate-100">
+                                    <div class="flex justify-between text-slate-400 mb-0.5">
+                                        <span class="font-medium text-slate-600">${r.author}</span>
+                                        <span class="text-amber-500 text-[10px]">${r.rating}</span>
+                                    </div>
+                                    <p class="text-slate-500 leading-snug">${r.content}</p>
+                                </div>
+                            `).join('')}
+                        </div>
                     </div>
                 `;
             }).join('');
         }
 
-        // 入口
         window.onload = init;
     </script>
 </body>
