@@ -1,37 +1,31 @@
-name: Update App Store Games
+name: Update Games Data
 
 on:
   schedule:
-    # 每6小时执行一次 (UTC 时间)
-    - cron: '0 */6 * * *'
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 0 * * *' # 每天国际标准时间 0点（北京时间早上8点）自动执行
+  workflow_dispatch: # 允许你像刚才一样在界面上手动点击触发
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # 允许 Action 推送代码
+    timeout-minutes: 15 # 给予充足的爬取超时时间，防止被强行中断
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
 
-      - name: Fetch App Store RSS & generate games.json
-        run: node scripts/fetch-games.js
+    - name: Run Fetch Script
+      run: node scripts/fetch-games.js
 
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/games.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto update games data [skip ci]"
-            git push
-          fi
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add data/games.json
+        git diff-index --quiet HEAD || git commit -m "自动更新：AppStore榜单、Steam大作及限免游戏"
+        git push
