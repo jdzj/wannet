@@ -40,9 +40,9 @@
     <main class="max-w-4xl mx-auto px-4 py-8">
         <div class="flex items-center justify-between mb-6 border-b border-slate-800 pb-4">
             <h1 class="text-xl font-bold text-slate-100 flex items-center gap-2" id="boardTitle">
-                <i class="fa-solid fa-gift text-red-500"></i> Epic & Steam 限免大作
+                <i class="fa-solid fa-gift text-red-500"></i> Epic & Steam 线上聚合限免大作
             </h1>
-            <p class="text-xs text-slate-500" id="updateTime">正在同步最新元数据...</p>
+            <p class="text-xs text-slate-500" id="updateTime">正在穿透多维百科元数据...</p>
         </div>
         <div id="gameList" class="space-y-4"></div>
     </main>
@@ -57,7 +57,7 @@
                 globalData = await response.json();
                 render();
             } catch (error) {
-                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>真实云数据未落盘，请等待 GitHub Actions 调度抓取。</div>`;
+                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>全景数据未落盘，请等待 GitHub Actions 调度抓取。</div>`;
             }
         }
 
@@ -82,11 +82,11 @@
                 if (el.classList.contains('desc-collapsed')) {
                     el.classList.remove('desc-collapsed');
                     el.classList.add('desc-expanded');
-                    btn.innerText = "收起游戏简介";
+                    btn.innerText = "收起全景简介";
                 } else {
                     el.classList.remove('desc-expanded');
                     el.classList.add('desc-collapsed');
-                    btn.innerText = "展开游戏简介";
+                    btn.innerText = "展开全景简介";
                 }
             }
         }
@@ -95,22 +95,22 @@
             if (!globalData) return;
 
             const titleMap = {
-                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic Games & Steam 正版游戏“喜加一”',
-                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Steam 全球同步：热销大作排行',
-                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 今日大促、高折扣特惠专区',
-                'itch': '<i class="fa-solid fa-flask text-fuchsia-400"></i> Itch.io 全球独立游戏特惠区'
+                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic & Steam“喜加一”限免',
+                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Steam 热销畅销榜',
+                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 促销折扣区',
+                'itch': '<i class="fa-solid fa-flask text-fuchsia-400"></i> Itch.io 优质独立游戏'
             };
 
             document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform] || '游戏看盘';
             if (globalData.updateTime) {
-                document.getElementById('updateTime').innerText = `同步完成: ${new Date(globalData.updateTime).toLocaleString()}`;
+                document.getElementById('updateTime').innerText = `更新于: ${new Date(globalData.updateTime).toLocaleString()}`;
             }
 
             const regionData = globalData.regions ? globalData.regions[currentPlatform] : null;
             const container = document.getElementById('gameList');
 
             if(!regionData || !regionData.games || regionData.games.length === 0) {
-                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-box-open text-3xl text-slate-700 mb-3 block"></i><p class="text-sm text-slate-400">当前在线流中暂无符合条件的特惠/限免信息。</p></div>`;
+                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-box-open text-3xl text-slate-700 mb-3 block"></i><p class="text-sm text-slate-400">当前在线流中暂无符合条件的元数据。</p></div>`;
                 return;
             }
 
@@ -149,10 +149,10 @@
                         </div>
                         <div class="mt-4 bg-slate-900/50 p-3 rounded-xl border border-slate-800">
                             <p id="desc-${index}" class="text-xs text-slate-400 leading-relaxed desc-collapsed whitespace-pre-line">${game.description}</p>
-                            <button id="btn-${index}" onclick="toggleDesc(${index})" class="text-indigo-400 font-semibold text-[11px] mt-2 block hover:text-indigo-300">展开游戏简介</button>
+                            <button id="btn-${index}" onclick="toggleDesc(${index})" class="text-indigo-400 font-semibold text-[11px] mt-2 block hover:text-indigo-300">展开全景简介 (多维度/剧情/关卡)</button>
                         </div>
                         <div class="mt-4 pt-3 border-t border-slate-900 space-y-2">
-                            <div class="text-[11px] font-bold text-slate-500 px-1 flex items-center gap-1"><i class="fa-regular fa-comment-dots text-indigo-400"></i> AI 实时看盘诊断：</div>
+                            <div class="text-[11px] font-bold text-slate-500 px-1 flex items-center gap-1"><i class="fa-regular fa-comment-dots text-indigo-400"></i> AI 视角看盘诊断：</div>
                             ${reviewsHtml}
                         </div>
                     </div>`;
