@@ -2,30 +2,48 @@ name: Update Games Data
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天国际标准时间 0点（北京时间早上8点）自动执行
-  workflow_dispatch: # 允许你像刚才一样在界面上手动点击触发
+    - cron: '0 0 * * *' # 每天北京时间早上8点自动执行
+  workflow_dispatch: # 支持手动点击触发
+
+# 🎯 核心修复：显式允许 GitHub Actions 机器人修改并提交代码
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15 # 给予充足的爬取超时时间，防止被强行中断
+    timeout-minutes: 15
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true # 保持认证状态用于后续 Push
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '20'
+        node-version: '22' # 响应组件升级，使用更稳定的现代 LTS 版本
 
     - name: Run Fetch Script
       run: node scripts/fetch-games.js
 
     - name: Commit and Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 注入官方内置 Token
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 强制设置远程仓库 URL 携带认证 Token，彻底解决 exit code 128 
+        git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+        
         git add data/games.json
-        git diff-index --quiet HEAD || git commit -m "自动更新：AppStore榜单、Steam大作及限免游戏"
-        git push
+        
+        # 检查是否有文件变动，有变动则提交并推送
+        if ! git diff-index --quiet HEAD; then
+          git commit -m "自动更新：AppStore榜单、Steam大作及限免游戏"
+          git push origin main
+        else
+          echo "数据未发生变化，无需推送。"
+        fi
