@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-06-13T04:15:40.549Z",
+  "updateTime": "2026-06-13T04:27:38.023Z",
   "regions": {
     "steam": {
       "games": [
@@ -86,7 +86,7 @@
           "developer": "Klei Entertainment",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：35,521 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：37,505 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -166,7 +166,7 @@
           "developer": "CAPCOM Co., Ltd.",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg?t=1772502922",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：18,850 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：19,055 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥148.50",
           "reviews": [
             {
@@ -185,7 +185,7 @@
           "developer": "MINTROCKET",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/890058df24a6b0c8a768ef2573a700c00ff67463/capsule_616x353.jpg?t=1781198537",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥80.00，当前促销现价仅需 ¥40.00！\n\n【当前Steam实时在线人数】：8,749 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎访问以神秘蓝洞为背景的海洋冒险游戏【潜水员戴夫 DAVE THE DIVER】。 白天在美丽的大海里打鱼，晚上经营寿司店赚钱。 伴随着个性强的同事们的故事展开的海底谜团。神秘又崭新的乐趣正在等着您！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥80.00，当前促销现价仅需 ¥40.00！\n\n【当前Steam实时在线人数】：9,119 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎访问以神秘蓝洞为背景的海洋冒险游戏【潜水员戴夫 DAVE THE DIVER】。 白天在美丽的大海里打鱼，晚上经营寿司店赚钱。 伴随着个性强的同事们的故事展开的海底谜团。神秘又崭新的乐趣正在等着您！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥40.00",
           "reviews": [
             {
@@ -240,7 +240,98 @@
       ]
     },
     "itch": {
-      "games": []
+      "games": [
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-0",
+          "name": "[独立] Milki Delivery Demo [Free] [Simulation] [Windows] [Linux]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nCozy delivery adventure 🐮🚲🌻\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://dodoot.itch.io/milki-delivery-demo"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-1",
+          "name": "[独立] Don&#039;t Sleep With The Fishes [$1.99] [Survival] [Windows]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nHow long can you survive?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://dopplerghost.itch.io/dont-sleep-with-the-fishes"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
+          "name": "[独立] ALTEREDBLOOD+ [DEMO] [Free] [Shooter] [Windows]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nAn FPS about standing in the blood of your enemies\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://trueworldstudios.itch.io/alteredblood"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-3",
+          "name": "[独立] Fugue Shot (Pre-Demo) [Free] [Action] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nMultiple arcade game modes, one roguelike run\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://raredialect.itch.io/fugue-shot-pre-demo"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
+          "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWill you write the way into her heart?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
+        }
+      ]
     }
   }
 }
