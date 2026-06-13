@@ -5,7 +5,7 @@ const { URL } = require('url');
 
 const DEEPSEEK_FULL_URL = "https://api.newsspace.cn/v1/chat/completions";
 
-// 🛡️ 终极防御网络请求工具：任何解析失败均降级为普通文本，绝不抛出崩溃
+// 🛡️ 终极防御网络请求工具
 function makeRequest(targetUrl, method = 'GET', headers = {}, postData = null) {
   return new Promise((resolve) => {
     const parsedUrl = new URL(targetUrl);
@@ -15,7 +15,7 @@ function makeRequest(targetUrl, method = 'GET', headers = {}, postData = null) {
       method: method,
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'application/json, text/plain, */*',
+        'Accept': 'application/json, application/xml, text/xml, */*',
         'Accept-Language': 'zh-CN,zh;q=0.9',
         ...headers
       }
@@ -26,11 +26,10 @@ function makeRequest(targetUrl, method = 'GET', headers = {}, postData = null) {
       res.on('data', chunk => data += chunk);
       res.on('end', () => {
         try { 
-          // 确保只有合法的 JSON 字符串才会被解析
           if (data.trim().startsWith('{') || data.trim().startsWith('[')) {
             resolve(JSON.parse(data)); 
           } else {
-            resolve(data);
+            resolve(data); // XML/RSS 文本流直接返回
           }
         } catch (e) { 
           resolve(data); 
@@ -39,11 +38,11 @@ function makeRequest(targetUrl, method = 'GET', headers = {}, postData = null) {
     });
     
     req.on('error', (err) => {
-      console.error(`      ⚠️ [网络网络警告] 请求 ${targetUrl} 失败: ${err.message}`);
-      resolve(null); // 返回 null 允许上层逻辑自愈
+      console.error(`      ⚠️ [网络警告] 请求 ${targetUrl} 失败: ${err.message}`);
+      resolve(null);
     });
     
-    req.setTimeout(10000, () => { 
+    req.setTimeout(12000, () => { 
       req.destroy(); 
       resolve(null); 
     });
@@ -107,7 +106,7 @@ async function generateDeepFullDescription(gameName, rawShortDesc, onlinePlayers
   } catch (err) {
     console.error(`     ⚠️ AI全景生成受阻: ${err.message}`);
   }
-  return fallbackText; // 核心自愈：AI 熔断时提供结构化格式保护
+  return fallbackText;
 }
 
 /**
@@ -241,7 +240,7 @@ async function fetchSteamMainData() {
   const rawData = await makeRequest(url);
   
   const topSellers = rawData?.top_sellers?.items || [];
-  for (let i = 0; i < Math.min(topSellers.length, 5); i++) { // 控制在前 5 核心大作，加快 GitHub 编译效率
+  for (let i = 0; i < Math.min(topSellers.length, 5); i++) {
     const item = topSellers[i];
     const meta = await fetchSteamGameDescription(item.id, item.name);
     console.log(`      -> [全景信息注入完毕] ${item.name}`);
@@ -301,40 +300,59 @@ async function fetchSteamMainData() {
 }
 
 /**
- * 🕹️ 3. 获取 Itch.io 独立游戏促销流
+ * 🕹️ 3. 【彻底修复】实时对接 Itch.io 官方高热度精选 RSS 核心流
  */
 async function fetchItchioIndependentSales() {
   const list = [];
   try {
-    console.log("🔮 正在连线 Itch.io 全球独立游戏开放流...");
-    const url = "https://itch.io/games/on-sale.json";
-    const res = await makeRequest(url);
-    const games = res?.games || [];
+    console.log("🔮 正在通过官方安全信道拉取 Itch.io 热门独立游戏流...");
+    const rssXml = await makeRequest("https://itch.io/games/featured.xml");
+    
+    if (!rssXml || typeof rssXml !== 'string') {
+      console.error("⚠️ Itch.io 核心流响应格式异常。");
+      return list;
+    }
 
-    for (let i = 0; i < Math.min(games.length, 5); i++) {
-      const g = games[i];
-      const name = g.title;
-      const baseText = g.short_text || "";
-      const fullRichDesc = await generateDeepFullDescription(name, baseText);
-      const priceText = g.price || "特惠促销中";
+    // 纯正则极速安全切分 `<item>` 标签
+    const itemMatches = rssXml.match(/<item>([\s\S]*?)<\/item>/g) || [];
+    console.log(`   [Itch.io 核心流通报] 成功拦截到 ${itemMatches.length} 款全球精选独立游戏。`);
+
+    for (let i = 0; i < Math.min(itemMatches.length, 5); i++) {
+      const itemXml = itemMatches[i];
+      
+      // 提取标题
+      const titleMatch = itemXml.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || itemXml.match(/<title>(.*?)<\/title>/);
+      // 提取链接
+      const linkMatch = itemXml.match(/<link>(.*?)<\/link>/);
+      // 提取原始纯文本简介
+      let plainDesc = "充满极高创意与独立极客精神的神作，玩法机制独特，极具艺术发掘价值。";
+      const descMatch = itemXml.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/) || itemXml.match(/<description>([\s\S]*?)<\/description>/);
+      if (descMatch && descMatch[1]) {
+        plainDesc = descMatch[1].replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim().substring(0, 150);
+      }
+
+      const name = titleMatch ? titleMatch[1] : "未名独立神作";
+      const appUrl = linkMatch ? linkMatch[1] : "https://itch.io";
+
       console.log(`   [独立游多维合成] -> ${name}`);
+      const fullRichDesc = await generateDeepFullDescription(name, plainDesc);
+      const aiReview = await generateUniqueAIReview(name, "全球热门独立精选", fullRichDesc);
 
-      const aiReview = await generateUniqueAIReview(name, "独立精品促销", fullRichDesc);
       list.push({
-        rank: `独立精选`,
-        appId: `itch-${g.id}`,
+        rank: `热门精选`,
+        appId: `itch-featured-${i}`,
         name: `[独立] ${name}`,
-        developer: g.user?.username || "独立工作室",
-        icon: g.cover_url || "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-        primaryGenre: "Itch.io 独立游戏",
-        description: `【Itch.io 独立特惠】售价：${priceText}。\n\n${fullRichDesc}`,
-        ratingCount: "创意爆表",
+        developer: "Itch.io 独立极客",
+        icon: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300", // 精选池使用通用艺术质感图
+        primaryGenre: "Itch.io 热门榜",
+        description: `【Itch.io 官方精选推荐】\n\n${fullRichDesc}`,
+        ratingCount: "全球高热度",
         reviews: [{ author: "Wannet 独立游戏人", rating: "🎨 艺术评级", content: aiReview }],
-        appStoreUrl: g.url || "https://itch.io"
+        appStoreUrl: appUrl
       });
     }
   } catch (e) {
-    console.error("⚠️ Itch.io 独立游戏流断开。");
+    console.error("⚠️ Itch.io 独立游戏流处理受阻: " + e.message);
   }
   return list;
 }
@@ -357,7 +375,6 @@ async function fetchItchioIndependentSales() {
     const itchGames = await fetchItchioIndependentSales();
     result.regions['itch'] = { games: itchGames };
 
-    // 只有在数据彻底为空白（底层网络挂掉）时才触发断流错误，单接口报错不会受阻
     const total = aggregatedFree.length + steamMain.steam.length + steamMain.sale.length + itchGames.length;
     if (total === 0) throw new Error("❌ 各公开平台网络接口全线彻底挂断，拦截空数据！");
 
