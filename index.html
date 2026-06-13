@@ -41,7 +41,7 @@
             <h1 class="text-xl font-bold text-slate-100 flex items-center gap-2" id="boardTitle">
                 <i class="fa-solid fa-gift text-red-500"></i> Epic & Steam 线上真实限免大作
             </h1>
-            <p class="text-xs text-slate-500" id="updateTime">正在建立实时同步...</p>
+            <p class="text-xs text-slate-500" id="updateTime">正在同步最新元数据...</p>
         </div>
         <div id="gameList" class="space-y-4"></div>
     </main>
@@ -56,7 +56,7 @@
                 globalData = await response.json();
                 render();
             } catch (error) {
-                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb- block text-amber-500"></i>实时云数据建立中，请稍后刷新。</div>`;
+                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>真实元数据未落盘，请等待 GitHub Actions 首次抓取完成。</div>`;
             }
         }
 
@@ -74,8 +74,6 @@
             render();
         }
 
-        window.onload = init;
-
         window.toggleDesc = function(index) {
             const el = document.getElementById(`desc-${index}`);
             const btn = document.getElementById(`btn-${index}`);
@@ -83,11 +81,11 @@
                 if (el.classList.contains('desc-collapsed')) {
                     el.classList.remove('desc-collapsed');
                     el.classList.add('desc-expanded');
-                    if (btn) btn.innerText = "收起游戏简介";
+                    btn.innerText = "收起游戏简介";
                 } else {
                     el.classList.remove('desc-expanded');
                     el.classList.add('desc-collapsed');
-                    if (btn) btn.innerText = "展开游戏简介";
+                    btn.innerText = "展开游戏简介";
                 }
             }
         }
@@ -96,9 +94,9 @@
             if (!globalData) return;
 
             const titleMap = {
-                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic Games 官方实时在线“喜加一”限免大作',
-                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Steam 全球同步：实时热门畅销大作榜',
-                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 今日突发促销特惠高分作品专区'
+                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic Games 官方实时在线“喜加一”正版大作（含完整简介）',
+                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Steam 全球同步：热销畅销大作排行（含官方描述穿透）',
+                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 今日突发大促、高折扣精选特惠专区'
             };
 
             document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform];
@@ -110,7 +108,7 @@
             const container = document.getElementById('gameList');
 
             if(!regionData || !regionData.games || regionData.games.length === 0) {
-                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-ban text-3xl text-red-500/80 mb-3 block"></i><p class="text-sm text-slate-400">当前分类在线流为空。后台脚本已彻底断开兜底保护。</p></div>`;
+                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-ban text-3xl text-red-500/80 mb-3 block"></i><p class="text-sm text-slate-400">当前实时在线流为空，已触发断流保护。</p></div>`;
                 return;
             }
 
@@ -157,6 +155,8 @@
                     </div>`;
             }).join('');
         }
+
+        window.onload = init;
     </script>
 </body>
 </html>
