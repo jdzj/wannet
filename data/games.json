@@ -1,49 +1,43 @@
 {
-  "updateTime": "2026-06-13T01:39:40.722Z",
+  "updateTime": "2026-06-13T01:57:19.986Z",
   "regions": {
-    "cn": {
+    "free": {
       "games": [
         {
-          "rank": 1,
-          "appId": "default-cn",
-          "name": "🚀 剪映 - 视频剪辑与创作",
-          "developer": "Bytedance Inc.",
-          "icon": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=120&auto=format&fit=crop",
-          "primaryGenre": "摄影与录像",
-          "description": "全能易用的创作工具，轻而易举让你的创意变成精彩大片。提供丰富的滤镜、特效、音频库以及智能字幕剪辑机制。",
-          "rating": "4.9",
-          "ratingCount": "852,142",
+          "rank": "✨ 喜加一",
+          "appId": "epic-7f0ab2828f9743d0abc6612a11222fdf",
+          "name": "[限免] The Ouroboros King",
+          "developer": "Plug In Digital SAS",
+          "icon": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+          "primaryGenre": "PC正版限免",
+          "description": "The Ouroboros King combines the strategic depth of chess with the build variety and replayability of roguelikes. Assemble a formidable army, discover powerful relics, and buy surprising gadgets to defeat the Coven.",
+          "ratingCount": "限时免费",
           "reviews": [
             {
-              "author": "系统推荐",
-              "rating": "★ 5",
-              "content": "业界公认的顶流创作工具，功能迭代极快，生态健全，极度推荐装机必备。"
+              "author": "Wannet 福利官",
+              "rating": "🎁 必入",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://apps.apple.com/"
-        }
-      ]
-    },
-    "us": {
-      "games": [
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/the-ouroboros-king-e1d547"
+        },
         {
-          "rank": 1,
-          "appId": "default-us",
-          "name": "Procreate Pocket",
-          "developer": "Savage Interactive",
-          "icon": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=120&auto=format&fit=crop",
-          "primaryGenre": "摄影与录像",
-          "description": "全能易用的创作工具，轻而易举让你的创意变成精彩大片。提供丰富的滤镜、特效、音频库以及智能字幕剪辑机制。",
-          "rating": "4.9",
-          "ratingCount": "852,142",
+          "rank": "✨ 喜加一",
+          "appId": "epic-eb6ae87e73d94d2c96bab3c4da4dd3de",
+          "name": "[限免] Warhammer 40K Speed Freeks",
+          "developer": "Wired Productions",
+          "icon": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+          "primaryGenre": "PC正版限免",
+          "description": "High-octane combat racing in the Warhammer 40,000 universe.",
+          "ratingCount": "限时免费",
           "reviews": [
             {
-              "author": "系统推荐",
-              "rating": "★ 5",
-              "content": "业界公认的顶流创作工具，功能迭代极快，生态健全，极度推荐装机必备。"
+              "author": "Wannet 福利官",
+              "rating": "🎁 必入",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://apps.apple.com/"
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/warhammer-40k-speed-freeks-12879c"
         }
       ]
     },
@@ -51,45 +45,367 @@
       "games": [
         {
           "rank": 1,
-          "appId": "730",
-          "name": "Counter-Strike 2",
-          "developer": "Valve",
-          "icon": "https://shared.fastly.steamstatic.com/store_images/shipping/capsules/730/capsule_184x69.jpg",
-          "primaryGenre": "射击 / 竞技",
-          "description": "二十多年来，在全球数百万玩家的共同铸就下，Counter-Strike 提供了精益求精的竞技体验。而现在，CS 传奇的下一章即将揭开序幕。",
-          "rating": "4.6",
-          "ratingCount": "全球热销",
+          "appId": "steam-seller-4148240",
+          "name": "女王的游戏：盛世天下 女帝篇",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/ad47878cf250027da631c4678102b8167fd166c1/capsule_616x353_schinese.jpg?t=1781165139",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 1 名大作。当前全球玩家正疯狂涌入，实时售价：¥59.20。",
+          "ratingCount": "热销爆款",
           "reviews": [
             {
-              "author": "Steam官方",
-              "rating": "特别好评",
-              "content": "竞技游戏的常青树，新引擎升级后射击反馈与画面效果提升明显。"
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/730/CounterStrike_2/"
+          "appStoreUrl": "https://store.steampowered.com/app/4148240/"
+        },
+        {
+          "rank": 2,
+          "appId": "steam-seller-77115",
+          "name": "《女王的游戏：盛世天下》媚娘篇与女帝篇合集",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/77115/1hrsbv4wokbvv1h9/8755c3c5e416514ce84b328d152f7b7d929d8fa0/capsule_616x353_schinese.jpg?t=1780022991",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 2 名大作。当前全球玩家正疯狂涌入，实时售价：¥88.72。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/77115/"
+        },
+        {
+          "rank": 3,
+          "appId": "steam-seller-3405690",
+          "name": "EA SPORTS FC™ 26",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/7bee4fc257ccc11a9496f0c19c553cccfb9fafa9/capsule_616x353_alt_assets_3.jpg?t=1781025991",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 3 名大作。当前全球玩家正疯狂涌入，实时售价：¥23.60。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3405690/"
+        },
+        {
+          "rank": 4,
+          "appId": "steam-seller-322330",
+          "name": "饥荒联机版",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 4 名大作。当前全球玩家正疯狂涌入，实时售价：¥4.80。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/322330/"
+        },
+        {
+          "rank": 5,
+          "appId": "steam-seller-322330",
+          "name": "饥荒联机版",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 5 名大作。当前全球玩家正疯狂涌入，实时售价：¥4.80。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/322330/"
+        },
+        {
+          "rank": 6,
+          "appId": "steam-seller-3478050",
+          "name": "女王的游戏：盛世天下 媚娘篇",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3478050/0e3d390564332c03dd980d0b295cb533d0ecb7a7/capsule_616x353_schinese.jpg?t=1780237631",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 6 名大作。当前全球玩家正疯狂涌入，实时售价：¥49.00。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3478050/"
+        },
+        {
+          "rank": 7,
+          "appId": "steam-seller-4394810",
+          "name": "潜水员戴夫 - 丛林 Content Pack",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394810/30413bff2a422fb750070354b7fbf8136c24f19a/capsule_616x353.jpg?t=1781200442",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 7 名大作。当前全球玩家正疯狂涌入，实时售价：¥35.10。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4394810/"
+        },
+        {
+          "rank": 8,
+          "appId": "steam-seller-72233",
+          "name": "Destiny 2: The Collection",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/72233/10mlyrwt89khh346/7875cf482f9e231036f47295ea4839ad84322828/capsule_616x353_schinese.jpg?t=1781235088",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 8 名大作。当前全球玩家正疯狂涌入，实时售价：¥102.09。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/72233/"
+        },
+        {
+          "rank": 9,
+          "appId": "steam-seller-431960",
+          "name": "Wallpaper Engine：壁纸引擎",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_616x353_schinese.jpg?t=1779452230",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 9 名大作。当前全球玩家正疯狂涌入，实时售价：¥22.90。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/431960/"
+        },
+        {
+          "rank": 10,
+          "appId": "steam-seller-23266",
+          "name": "缺氧完整包",
+          "developer": "Steam 热门厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/23266/p29p0imjegaxruvt/ff7242275e9789e5f3788707aa0de2d07d1e7449/capsule_616x353_schinese.jpg?t=1781213525",
+          "primaryGenre": "实时热销榜",
+          "description": "Steam官方实时热销榜第 10 名大作。当前全球玩家正疯狂涌入，实时售价：¥87.29。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/23266/"
         }
       ]
     },
-    "free": {
+    "sale": {
       "games": [
         {
-          "rank": "✨ 限免",
-          "appId": "default-cn",
-          "name": "[今日限免] 🚀 剪映 - 视频剪辑与创作",
-          "developer": "Bytedance Inc.",
-          "icon": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=120&auto=format&fit=crop",
-          "primaryGenre": "应用 / 限时免费",
-          "description": "【限时免费福利】原价高昂，今日限时免费（现价 ¥0），点击即可永久收录。功能简介：全能易用的创作工具，轻而易举让你的创意变成精彩大片。提供丰富的滤镜、特效、音频库以及智能字幕剪辑机制。",
-          "rating": "4.9",
-          "ratingCount": "852,142",
+          "rank": 1,
+          "appId": "steam-sale-322330",
+          "name": "[特惠] 饥荒联机版",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "突发折扣 -90%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -90%！现价仅需 ¥4.80（原价 ¥48.00）。",
+          "ratingCount": "直降 ¥43.20",
           "reviews": [
             {
-              "author": "系统推荐",
-              "rating": "★ 5",
-              "content": "业界公认的顶流创作工具，功能迭代极快，生态健全，极度推荐装机必备。"
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://apps.apple.com/"
+          "appStoreUrl": "https://store.steampowered.com/app/322330/"
+        },
+        {
+          "rank": 2,
+          "appId": "steam-sale-322330",
+          "name": "[特惠] 饥荒联机版",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781284732",
+          "primaryGenre": "突发折扣 -90%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -90%！现价仅需 ¥4.80（原价 ¥48.00）。",
+          "ratingCount": "直降 ¥43.20",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/322330/"
+        },
+        {
+          "rank": 3,
+          "appId": "steam-sale-4148240",
+          "name": "[特惠] 女王的游戏：盛世天下 女帝篇",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/ad47878cf250027da631c4678102b8167fd166c1/capsule_616x353_schinese.jpg?t=1781165139",
+          "primaryGenre": "突发折扣 -20%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -20%！现价仅需 ¥59.20（原价 ¥74.00）。",
+          "ratingCount": "直降 ¥14.80",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4148240/"
+        },
+        {
+          "rank": 4,
+          "appId": "steam-sale-2050650",
+          "name": "[特惠] Resident Evil 4",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg?t=1772502922",
+          "primaryGenre": "突发折扣 -75%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -75%！现价仅需 ¥49.50（原价 ¥198.00）。",
+          "ratingCount": "直降 ¥148.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2050650/"
+        },
+        {
+          "rank": 5,
+          "appId": "steam-sale-1868140",
+          "name": "[特惠] 潜水员戴夫 DAVE THE DIVER",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/890058df24a6b0c8a768ef2573a700c00ff67463/capsule_616x353.jpg?t=1781198537",
+          "primaryGenre": "突发折扣 -50%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -50%！现价仅需 ¥40.00（原价 ¥80.00）。",
+          "ratingCount": "直降 ¥40.00",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1868140/"
+        },
+        {
+          "rank": 6,
+          "appId": "steam-sale-2668510",
+          "name": "[特惠] Red Dead Redemption",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/33c9213e20feb05a9ae4144beb6b66e4b6d254f3/capsule_616x353_schinese.jpg?t=1781132266",
+          "primaryGenre": "突发折扣 -50%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -50%！现价仅需 ¥124.50（原价 ¥249.00）。",
+          "ratingCount": "直降 ¥124.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2668510/"
+        },
+        {
+          "rank": 7,
+          "appId": "steam-sale-2004680",
+          "name": "[特惠] 沃德灵：共生",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/71bf660e0a72aa8d809bbc2ee5f0b4d7162907d0/capsule_616x353_alt_assets_0_schinese.jpg?t=1781263470",
+          "primaryGenre": "突发折扣 -10%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -10%！现价仅需 ¥83.70（原价 ¥93.00）。",
+          "ratingCount": "直降 ¥9.30",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2004680/"
+        },
+        {
+          "rank": 8,
+          "appId": "steam-sale-3241660",
+          "name": "[特惠] R.E.P.O.",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/134bb2a6b8dd945af183f4fa38ac56f8f9f9e0de/capsule_616x353_alt_assets_2.jpg?t=1778158882",
+          "primaryGenre": "突发折扣 -30%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -30%！现价仅需 ¥24.50（原价 ¥35.00）。",
+          "ratingCount": "直降 ¥10.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3241660/"
+        },
+        {
+          "rank": 9,
+          "appId": "steam-sale-1462040",
+          "name": "[特惠] FINAL FANTASY VII REMAKE INTERGRADE",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_616x353.jpg?t=1773895755",
+          "primaryGenre": "突发折扣 -65%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -65%！现价仅需 ¥69.30（原价 ¥198.00）。",
+          "ratingCount": "直降 ¥128.70",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1462040/"
+        },
+        {
+          "rank": 10,
+          "appId": "steam-sale-1551360",
+          "name": "[特惠] 极限竞速：地平线 5",
+          "developer": "Steam 特惠精选",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/capsule_616x353.jpg?t=1746471508",
+          "primaryGenre": "突发折扣 -50%",
+          "description": "【Steam 实时特惠暴击】该作正在进行史低级特价促销，折扣率高达 -50%！现价仅需 ¥99.00（原价 ¥198.00）。",
+          "ratingCount": "直降 ¥99.00",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "实时游玩生态表现稳定，在同类作品中具备一定特色，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1551360/"
         }
       ]
     }
