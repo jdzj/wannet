@@ -28,10 +28,11 @@
                 <div class="bg-indigo-600 text-white p-2 rounded-xl shadow-md"><i class="fa-solid fa-gamepad text-lg"></i></div>
                 <span class="text-xl font-bold bg-gradient-to-r from-indigo-400 to-violet-400 bg-clip-text text-transparent">Wannet Hub</span>
             </div>
-            <div class="flex bg-slate-900 p-1 rounded-xl border border-slate-800 gap-0.5" id="tabs">
-                <button onclick="switchPlatform('free')" id="tab-free" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-600 text-white shadow-sm flex items-center gap-1"><i class="fa-solid fa-gift"></i> 今日限免</button>
-                <button onclick="switchPlatform('steam')" id="tab-steam" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 flex items-center gap-1"><i class="fa-brands fa-steam"></i> Steam 畅销榜</button>
-                <button onclick="switchPlatform('sale')" id="tab-sale" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 flex items-center gap-1"><i class="fa-solid fa-tags"></i> Steam 特惠区</button>
+            <div class="flex bg-slate-900 p-1 rounded-xl border border-slate-800 gap-0.5 overflow-x-auto max-w-[70%]" id="tabs">
+                <button onclick="switchPlatform('free')" id="tab-free" class="px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-600 text-white shadow-sm flex items-center gap-1 flex-shrink-0"><i class="fa-solid fa-gift"></i> 今日限免</button>
+                <button onclick="switchPlatform('steam')" id="tab-steam" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 flex items-center gap-1 flex-shrink-0"><i class="fa-brands fa-steam"></i> Steam 畅销榜</button>
+                <button onclick="switchPlatform('sale')" id="tab-sale" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 flex items-center gap-1 flex-shrink-0"><i class="fa-solid fa-tags"></i> Steam 特惠区</button>
+                <button onclick="switchPlatform('itch')" id="tab-itch" class="px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 flex items-center gap-1 flex-shrink-0"><i class="fa-solid fa-flask"></i> 独立游戏特惠</button>
             </div>
         </div>
     </nav>
@@ -39,7 +40,7 @@
     <main class="max-w-4xl mx-auto px-4 py-8">
         <div class="flex items-center justify-between mb-6 border-b border-slate-800 pb-4">
             <h1 class="text-xl font-bold text-slate-100 flex items-center gap-2" id="boardTitle">
-                <i class="fa-solid fa-gift text-red-500"></i> Epic & Steam 线上真实限免大作
+                <i class="fa-solid fa-gift text-red-500"></i> Epic & Steam 限免大作
             </h1>
             <p class="text-xs text-slate-500" id="updateTime">正在同步最新元数据...</p>
         </div>
@@ -56,19 +57,19 @@
                 globalData = await response.json();
                 render();
             } catch (error) {
-                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>真实元数据未落盘，请等待 GitHub Actions 首次抓取完成。</div>`;
+                document.getElementById('gameList').innerHTML = `<div class='text-center py-12 text-slate-500'><i class="fa-solid fa-triangle-exclamation text-xl mb-2 block text-amber-500"></i>真实云数据未落盘，请等待 GitHub Actions 调度抓取。</div>`;
             }
         }
 
         function switchPlatform(platform) {
             currentPlatform = platform;
-            ['free', 'steam', 'sale'].forEach(p => {
+            ['free', 'steam', 'sale', 'itch'].forEach(p => {
                 const btn = document.getElementById(`tab-${p}`);
                 if (!btn) return;
                 if (p === platform) {
-                    btn.className = p === 'free' ? "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-600 text-white shadow-sm flex items-center gap-1" : "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-slate-800 text-indigo-400 border border-slate-700";
+                    btn.className = p === 'free' ? "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-red-600 text-white shadow-sm flex items-center gap-1 flex-shrink-0" : "px-3 py-1.5 rounded-lg text-xs font-bold transition-all bg-slate-800 text-indigo-400 border border-slate-700 flex-shrink-0";
                 } else {
-                    btn.className = p === 'free' ? "px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-red-500 hover:bg-red-950/30 flex items-center gap-1" : "px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 hover:text-slate-200 flex items-center gap-1";
+                    btn.className = p === 'free' ? "px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-red-500 hover:bg-red-950/30 flex items-center gap-1 flex-shrink-0" : "px-3 py-1.5 rounded-lg text-xs font-medium transition-all text-slate-400 hover:text-slate-200 flex items-center gap-1 flex-shrink-0";
                 }
             });
             render();
@@ -94,12 +95,13 @@
             if (!globalData) return;
 
             const titleMap = {
-                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic Games 官方实时在线“喜加一”正版大作（含完整简介）',
-                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Steam 全球同步：热销畅销大作排行（含官方描述穿透）',
-                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 今日突发大促、高折扣精选特惠专区'
+                'free': '<i class="fa-solid fa-gift text-red-500"></i> Epic Games & Steam 正版游戏“喜加一”',
+                'steam': '<i class="fa-brands fa-steam text-slate-400"></i> Steam 全球同步：热销大作排行',
+                'sale': '<i class="fa-solid fa-tags text-emerald-500"></i> Steam 今日大促、高折扣特惠专区',
+                'itch': '<i class="fa-solid fa-flask text-fuchsia-400"></i> Itch.io 全球独立游戏特惠区'
             };
 
-            document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform];
+            document.getElementById('boardTitle').innerHTML = titleMap[currentPlatform] || '游戏看盘';
             if (globalData.updateTime) {
                 document.getElementById('updateTime').innerText = `同步完成: ${new Date(globalData.updateTime).toLocaleString()}`;
             }
@@ -108,14 +110,15 @@
             const container = document.getElementById('gameList');
 
             if(!regionData || !regionData.games || regionData.games.length === 0) {
-                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-ban text-3xl text-red-500/80 mb-3 block"></i><p class="text-sm text-slate-400">当前实时在线流为空，已触发断流保护。</p></div>`;
+                container.innerHTML = `<div class="text-center py-12 bg-slate-950 rounded-2xl border border-slate-800 p-8"><i class="fa-solid fa-box-open text-3xl text-slate-700 mb-3 block"></i><p class="text-sm text-slate-400">当前在线流中暂无符合条件的特惠/限免信息。</p></div>`;
                 return;
             }
 
             container.innerHTML = regionData.games.map((game, index) => {
-                const actionBtnColor = currentPlatform === 'free' ? 'bg-red-600 text-white hover:bg-red-700' : 'bg-slate-800 text-slate-200 hover:bg-indigo-600 hover:text-white border border-slate-700';
-                const actionBtnText = currentPlatform === 'free' ? '立即秒杀 ¥0' : '进入商店';
-                const badgeStyle = currentPlatform === 'free' ? 'bg-red-950/60 text-red-400 border border-red-900/50' : 'bg-slate-800 text-slate-300 border border-slate-700';
+                const isFreeTag = currentPlatform === 'free';
+                const actionBtnColor = isFreeTag ? 'bg-red-600 text-white hover:bg-red-700' : 'bg-slate-800 text-slate-200 hover:bg-indigo-600 hover:text-white border border-slate-700';
+                const actionBtnText = isFreeTag ? '立即秒杀 ¥0' : '进入商店';
+                const badgeStyle = isFreeTag ? 'bg-red-950/60 text-red-400 border border-red-900/50' : 'bg-slate-800 text-slate-300 border border-slate-700';
 
                 const reviewsHtml = (game.reviews && Array.isArray(game.reviews)) ? game.reviews.map(r => `
                     <div class="bg-slate-950/60 p-3 rounded-xl text-xs border border-slate-800/80 shadow-md">
