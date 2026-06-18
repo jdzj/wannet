@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-06-17T04:19:14.838Z",
+  "updateTime": "2026-06-18T04:11:30.885Z",
   "regions": {
     "steam": {
       "games": [
@@ -10,7 +10,7 @@
           "developer": "lemorion_1224",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1781108224",
           "primaryGenre": "休闲",
-          "description": "【当前Steam实时在线人数】：95,773 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：105,575 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -24,25 +24,6 @@
         },
         {
           "rank": 2,
-          "appId": "steam-seller-4528730",
-          "name": "Scroll Of Taiwu - 促织化影",
-          "developer": "ConchShip Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528730/c85cbfdbb79323baa5a3ab542f43624a70190443/capsule_616x353_schinese.jpg?t=1781665360",
-          "primaryGenre": "冒险",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n幻形凝影，仙姿天成；身怀奇技，赤心相从。 微躯亦有江湖梦，今朝化影伴君行！ 《太吾绘卷》为您献上玩法DLC《促织化影》，祝您得遇草间益友，妙趣长存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4528730/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
           "appId": "steam-seller-77115",
           "name": "《女王的游戏：盛世天下》媚娘篇与女帝篇合集",
           "developer": "Steam 精选厂商",
@@ -61,13 +42,32 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 3,
+          "appId": "steam-seller-838350",
+          "name": "太吾绘卷：天幕心帷",
+          "developer": "ConchShip Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/3d881f88965781fe8b8b4f2cc2d0852038e5578e/capsule_616x353_schinese.jpg?t=1781692191",
+          "primaryGenre": "冒险",
+          "description": "【当前Steam实时在线人数】：19,776 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/838350/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 4,
           "appId": "steam-seller-4148240",
           "name": "女王的游戏：盛世天下 女帝篇",
           "developer": " New One Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/ad47878cf250027da631c4678102b8167fd166c1/capsule_616x353_schinese.jpg?t=1781165139",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/ad47878cf250027da631c4678102b8167fd166c1/capsule_616x353_schinese.jpg?t=1781677683",
           "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：6,774 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：6,132 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -86,7 +86,7 @@
           "developer": "Hazelight Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：1,869 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：2,226 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -109,7 +109,7 @@
           "developer": "Hazelight Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
           "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：1,869 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：2,226 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥69.30",
           "reviews": [
             {
@@ -128,7 +128,7 @@
           "developer": "Klei Entertainment",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781363712",
           "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥48.00，当前促销现价仅需 ¥4.80！\n\n【当前Steam实时在线人数】：34,510 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -90%】原价 ¥48.00，当前促销现价仅需 ¥4.80！\n\n【当前Steam实时在线人数】：33,860 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥43.20",
           "reviews": [
             {
@@ -142,13 +142,13 @@
         },
         {
           "rank": 3,
-          "appId": "steam-sale-4528730",
-          "name": "[特惠] Scroll Of Taiwu - 促织化影",
+          "appId": "steam-sale-838350",
+          "name": "[特惠] 太吾绘卷：天幕心帷",
           "developer": "ConchShip Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528730/c85cbfdbb79323baa5a3ab542f43624a70190443/capsule_616x353_schinese.jpg?t=1781665360",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/3d881f88965781fe8b8b4f2cc2d0852038e5578e/capsule_616x353_schinese.jpg?t=1781692191",
           "primaryGenre": "折扣 -20%",
-          "description": "【实时特惠折扣 -20%】原价 ¥28.00，当前促销现价仅需 ¥22.40！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n幻形凝影，仙姿天成；身怀奇技，赤心相从。 微躯亦有江湖梦，今朝化影伴君行！ 《太吾绘卷》为您献上玩法DLC《促织化影》，祝您得遇草间益友，妙趣长存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥5.60",
+          "description": "【实时特惠折扣 -20%】原价 ¥108.00，当前促销现价仅需 ¥86.40！\n\n【当前Steam实时在线人数】：19,776 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥21.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -156,36 +156,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4528730/",
+          "appStoreUrl": "https://store.steampowered.com/app/838350/",
           "isFreeToKeep": false
         },
         {
           "rank": 4,
-          "appId": "steam-sale-381210",
-          "name": "[特惠] 黎明杀机",
-          "developer": "Behaviour Interactive Inc.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/a1fd8eb372877c6939bbd62ca325ad710b5e24c6/capsule_616x353_alt_assets_8.jpg?t=1781638389",
-          "primaryGenre": "折扣 -60%",
-          "description": "【实时特惠折扣 -60%】原价 ¥93.75，当前促销现价仅需 ¥37.50！\n\n【当前Steam实时在线人数】：80,276 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n10年恐惧相伴。10年的惊吓与刺激体验。10年的残暴献祭与惊险逃脱。 永久困于邪恶的幻境之中，即使死亡也无法逃脱，这是一场需要勇气和智慧的较量，四名意志坚定的逃生者在残忍对局中面对嗜血杀手。选择一方，进入多人非对称竞技游戏世界，获得最佳恐怖游戏体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥56.25",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/381210/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
           "appId": "steam-sale-322330",
           "name": "[特惠] 饥荒联机版",
           "developer": "Klei Entertainment",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781363712",
           "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥48.00，当前促销现价仅需 ¥4.80！\n\n【当前Steam实时在线人数】：34,510 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -90%】原价 ¥48.00，当前促销现价仅需 ¥4.80！\n\n【当前Steam实时在线人数】：33,860 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥43.20",
           "reviews": [
             {
@@ -195,6 +176,25 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/322330/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-sale-2050650",
+          "name": "[特惠] Resident Evil 4",
+          "developer": "CAPCOM Co., Ltd.",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg?t=1772502922",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：14,116 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥148.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2050650/",
           "isFreeToKeep": false
         }
       ]
@@ -262,6 +262,42 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
+          "name": "[独立] 13 Bones [Free] [Card Game]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA fast-paced card battler. Like BLACKJACK, but with added MONSTERS and VIOLENCE.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://solroo.itch.io/13-bones"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
+          "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRide it, see where it takes you.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://jonnys-games.itch.io/slide-in-the-woods"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-3",
           "name": "[独立] Don&#039;t Let It Starve [Free] [Strategy] [Windows] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -279,25 +315,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-2",
-          "name": "[独立] ALTEREDBLOOD+ [DEMO] [Free] [Shooter] [Windows]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nAn FPS about standing in the blood of your enemies\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://trueworldstudios.itch.io/alteredblood"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-3",
+          "appId": "itch-featured-4",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -312,24 +330,6 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
-          "name": "[独立] 13 Bones [Free] [Card Game]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA fast-paced card battler. Like BLACKJACK, but with added MONSTERS and VIOLENCE.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://solroo.itch.io/13-bones"
         }
       ]
     }
