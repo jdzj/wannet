@@ -1,16 +1,35 @@
 {
-  "updateTime": "2026-06-21T04:24:46.617Z",
+  "updateTime": "2026-06-22T04:27:33.828Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
+          "appId": "steam-seller-4704690",
+          "name": "MECCHA CHAMELEON",
+          "developer": "lemorion_1224",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1781108224",
+          "primaryGenre": "休闲",
+          "description": "【当前Steam实时在线人数】：150,089 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4704690/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-seller-32470",
           "name": "《赛博朋克 2077：终极版》",
           "developer": "Petroglyph",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/c015195727f22e3462e98747d750772ef0512f8c/capsule_616x353_schinese.jpg?t=1746520128",
           "primaryGenre": "策略",
-          "description": "【当前Steam实时在线人数】：1,794 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nCommand or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：1,579 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nCommand or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -23,13 +42,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
+          "rank": 3,
           "appId": "steam-seller-1091500",
           "name": "赛博朋克 2077",
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1769690377",
           "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：46,225 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：38,435 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -39,25 +58,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1091500/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-seller-4704690",
-          "name": "MECCHA CHAMELEON",
-          "developer": "lemorion_1224",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1781108224",
-          "primaryGenre": "休闲",
-          "description": "【当前Steam实时在线人数】：188,219 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4704690/",
           "isFreeToKeep": false
         },
         {
@@ -109,7 +109,7 @@
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1769690377",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：46,225 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：38,435 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥208.60",
           "reviews": [
             {
@@ -166,7 +166,7 @@
           "developer": "Hazelight Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
           "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：4,494 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：2,532 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥69.30",
           "reviews": [
             {
@@ -185,7 +185,7 @@
           "developer": "Hazelight Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_616x353.jpg?t=1777395376",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥198.00，当前促销现价仅需 ¥59.40！\n\n【当前Steam实时在线人数】：5,679 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥198.00，当前促销现价仅需 ¥59.40！\n\n【当前Steam实时在线人数】：3,539 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥138.60",
           "reviews": [
             {
@@ -262,11 +262,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
-          "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
+          "name": "[独立] Don&#039;t Sleep With The Fishes [$1.99] [Survival] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRide it, see where it takes you.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nHow long can you survive?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -275,7 +275,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://jonnys-games.itch.io/slide-in-the-woods"
+          "appStoreUrl": "https://dopplerghost.itch.io/dont-sleep-with-the-fishes"
         },
         {
           "rank": "热门精选",
@@ -298,11 +298,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-3",
-          "name": "[独立] Don&#039;t Sleep With The Fishes [$1.99] [Survival] [Windows]",
+          "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nHow long can you survive?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRide it, see where it takes you.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -311,16 +311,16 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://dopplerghost.itch.io/dont-sleep-with-the-fishes"
+          "appStoreUrl": "https://jonnys-games.itch.io/slide-in-the-woods"
         },
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Odd Realm [$19.99] [Simulation] [Windows] [macOS] [Linux]",
+          "name": "[独立] ROLLA [Free] [Action] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nTake control of a group of settlers to build a settlement that survives the passing seasons.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nROLL. EAT. GROW. REPEAT.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://unknownorigingames.itch.io/oddrealm"
+          "appStoreUrl": "https://pantaloon-io.itch.io/rolla"
         }
       ]
     }
