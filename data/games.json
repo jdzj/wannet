@@ -1,16 +1,16 @@
 {
-  "updateTime": "2026-06-25T03:47:03.728Z",
+  "updateTime": "2026-06-26T03:55:20.307Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
-          "appId": "steam-seller-4704690",
-          "name": "MECCHA CHAMELEON",
-          "developer": "lemorion_1224",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1781108224",
-          "primaryGenre": "休闲",
-          "description": "【当前Steam实时在线人数】：157,738 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-2405",
+          "name": "The Binding of Isaac: Rebirth Complete Bundle",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/2405/12hy4z7jy2ssyi46/capsule_616x353.jpg?t=1617171075",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -19,17 +19,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4704690/",
+          "appStoreUrl": "https://store.steampowered.com/app/2405/",
           "isFreeToKeep": false
         },
         {
           "rank": 2,
-          "appId": "steam-seller-32470",
-          "name": "《赛博朋克 2077：终极版》",
-          "developer": "Petroglyph",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/c015195727f22e3462e98747d750772ef0512f8c/capsule_616x353_schinese.jpg?t=1746520128",
-          "primaryGenre": "策略",
-          "description": "【当前Steam实时在线人数】：1,569 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nCommand or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-783409",
+          "name": "Call of Duty®: Modern Warfare® II",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/783409/e721ed57e72a12603f306e094669050cbfc5bbe3/header_ratio.jpg?t=1778260335",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -38,17 +38,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/32470/",
+          "appStoreUrl": "https://store.steampowered.com/app/783409/",
           "isFreeToKeep": false
         },
         {
           "rank": 3,
-          "appId": "steam-seller-1091500",
-          "name": "赛博朋克 2077",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1769690377",
-          "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：40,154 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-250900",
+          "name": "The Binding of Isaac: Rebirth",
+          "developer": "Nicalis, Inc.",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/capsule_616x353.jpg?t=1731977365",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：35,877 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -57,17 +57,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
+          "appStoreUrl": "https://store.steampowered.com/app/250900/",
           "isFreeToKeep": false
         },
         {
           "rank": 4,
-          "appId": "steam-seller-2138330",
-          "name": "《赛博朋克 2077：往日之影》",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/db88128180c02332b94460c74354a5d807267c49/capsule_616x353_schinese.jpg?t=1768305060",
-          "primaryGenre": "角色扮演",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《往日之影》是开放世界动作冒险角色扮演游戏《赛博朋克 2077》的全新谍战悬疑风格资料片。玩家扮演经过义体强化的雇佣兵 V，和秘密特工所罗门·李德一起，共同解开一片由忠诚、背叛，以及险恶政治阴谋交织而成的罗网。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-3240220",
+          "name": "Grand Theft Auto V 增强版",
+          "developer": "Rockstar North",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：43,978 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -76,17 +76,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2138330/",
+          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-seller-1374490",
-          "name": "RuneScape: Dragonwilds 符文世界：龙之荒野",
-          "developer": "Jagex Ltd",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/ae328b9105d32c375360b0a6114f6fb86c63b28e/capsule_616x353_alt_assets_2_schinese.jpg?t=1782209165",
+          "appId": "steam-seller-3240220",
+          "name": "Grand Theft Auto V 增强版",
+          "developer": "Rockstar North",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：8,928 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：43,978 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1374490/",
+          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
           "isFreeToKeep": false
         }
       ]
@@ -104,12 +104,69 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-3240220",
+          "name": "[特惠] Grand Theft Auto V 增强版",
+          "developer": "Rockstar North",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
+          "primaryGenre": "折扣 -50%",
+          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：43,978 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥74.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
+          "appId": "steam-sale-3240220",
+          "name": "[特惠] Grand Theft Auto V 增强版",
+          "developer": "Rockstar North",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
+          "primaryGenre": "折扣 -50%",
+          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：43,978 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥74.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
+          "appId": "steam-sale-1174180",
+          "name": "[特惠] Red Dead Redemption 2",
+          "developer": "Rockstar Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：18,716 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥209.25",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1174180/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
           "appId": "steam-sale-1091500",
           "name": "[特惠] 赛博朋克 2077",
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1769690377",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：40,154 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：40,296 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥208.60",
           "reviews": [
             {
@@ -122,71 +179,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
-          "appId": "steam-sale-1374490",
-          "name": "[特惠] RuneScape: Dragonwilds 符文世界：龙之荒野",
-          "developer": "Jagex Ltd",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/ae328b9105d32c375360b0a6114f6fb86c63b28e/capsule_616x353_alt_assets_2_schinese.jpg?t=1782209165",
-          "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥118.00，当前促销现价仅需 ¥82.60！\n\n【当前Steam实时在线人数】：8,928 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥35.40",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1374490/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-sale-322330",
-          "name": "[特惠] 饥荒联机版",
-          "developer": "Klei Entertainment",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/4725f175a5f63abdf250862cfa17377915547c35/capsule_616x353_alt_assets_50_schinese.jpg?t=1781363712",
-          "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥48.00，当前促销现价仅需 ¥4.80！\n\n【当前Steam实时在线人数】：32,033 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在绝不妥协的荒野生存游戏《饥荒》的多人联机版中一起战斗、耕种、建设和探索吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥43.20",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/322330/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-sale-124923",
-          "name": "[特惠] 《巫师 3：狂猎 - 完全版》",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/124923/a2fb2a96c3debc255b89a6b5609e9c7f12c42d58/capsule_616x353_schinese.jpg?t=1775042338",
-          "primaryGenre": "折扣 -80%",
-          "description": "【实时特惠折扣 -80%】原价 ¥199.00，当前促销现价仅需 ¥39.80！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥159.20",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/124923/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 5,
-          "appId": "steam-sale-2138330",
-          "name": "[特惠] 《赛博朋克 2077：往日之影》",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/db88128180c02332b94460c74354a5d807267c49/capsule_616x353_schinese.jpg?t=1768305060",
-          "primaryGenre": "折扣 -40%",
-          "description": "【实时特惠折扣 -40%】原价 ¥149.00，当前促销现价仅需 ¥89.40！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《往日之影》是开放世界动作冒险角色扮演游戏《赛博朋克 2077》的全新谍战悬疑风格资料片。玩家扮演经过义体强化的雇佣兵 V，和秘密特工所罗门·李德一起，共同解开一片由忠诚、背叛，以及险恶政治阴谋交织而成的罗网。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥59.60",
+          "appId": "steam-sale-1086940",
+          "name": "[特惠] 博德之门3",
+          "developer": "Larian Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
+          "primaryGenre": "折扣 -25%",
+          "description": "【实时特惠折扣 -25%】原价 ¥298.00，当前促销现价仅需 ¥223.50！\n\n【当前Steam实时在线人数】：36,252 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥74.50",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2138330/",
+          "appStoreUrl": "https://store.steampowered.com/app/1086940/",
           "isFreeToKeep": false
         }
       ]
@@ -203,30 +203,12 @@
       "games": [
         {
           "rank": "Epic 限免",
-          "appId": "epic-ea365d314ecf4224a5f58d2d7430e7aa",
-          "name": "[Epic] 深空梦里人",
-          "developer": "Surprise Attack Pty Ltd DBA Fellow Traveller Games",
-          "icon": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-17dh5.jpg",
-          "primaryGenre": "正版限时免费",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在星际资本主义的废墟里体验出逃员工的人生，如丧家之犬般游荡在寰宇社会边缘的法外空间站。本作承袭桌上角色扮演游戏的灵活性与自由度，玩家可以尽情探索空间站，自主决定与谁交好，逃离过去，改变未来。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "0元入库",
-          "reviews": [
-            {
-              "author": "Wannet 福利官",
-              "rating": "🎁 必入",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/citizen-sleeper-944858"
-        },
-        {
-          "rank": "Epic 限免",
-          "appId": "epic-aee7ec395d054078a48d867849e2a550",
-          "name": "[Epic] ROBOBEAT",
+          "appId": "epic-bbccf66ad70e492d812e031e17f93b9d",
+          "name": "[Epic] Voidwrought",
           "developer": "Kwalee",
-          "icon": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png",
+          "icon": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
           "primaryGenre": "正版限时免费",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n永远不要松开扣动扳机的手指！在音游射击游戏《ROBOBEAT》中，你将扮演正在执行任务的赏金猎手Ace，你要做的就是在叛乱机器人Frazzer的变换巢穴中将其抓捕。通过飞檐走壁、滑铲与节奏射击来突破机器人军团，追逐你的目标吧。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《Voidwrought》是一款设定在宇宙恐怖世界中的手绘2D动作类平台游戏。探索第一文明留下的冰雪逐渐消融的遗迹，击败栖身在那里的众神。不断提升你的力量，发现远古神器，在残垣断壁之间扩张你的神庙吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "0元入库",
           "reviews": [
             {
@@ -235,7 +217,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/robobeat-5f084b"
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/voidwrought-ce8f4b"
         }
       ]
     },
@@ -244,24 +226,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-0",
-          "name": "[独立] Don&#039;t Sleep With The Fishes [$1.99] [Survival] [Windows]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nHow long can you survive?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://dopplerghost.itch.io/dont-sleep-with-the-fishes"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-1",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -276,6 +240,24 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-1",
+          "name": "[独立] Don&#039;t Sleep With The Fishes [$1.99] [Survival] [Windows]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nHow long can you survive?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://dopplerghost.itch.io/dont-sleep-with-the-fishes"
         },
         {
           "rank": "热门精选",
