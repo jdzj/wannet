@@ -1,16 +1,16 @@
 {
-  "updateTime": "2026-07-10T03:31:16.109Z",
+  "updateTime": "2026-07-11T02:47:13.079Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
-          "appId": "steam-seller-3839790",
-          "name": "碧蓝幻想Relink 无尽黄昏 升级扩展包（普通版）",
-          "developer": "Cygames, Inc.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/535e83714c9d614041b546fca1b036d26f527809/capsule_616x353.jpg?t=1783522815",
+          "appId": "steam-seller-1623730",
+          "name": "Palworld / 幻兽帕鲁",
+          "developer": "Pocketpair",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/f6a29f2291e13ba9d9481f7c1e3d433046e16278/capsule_616x353_schinese.jpg?t=1783654507",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n角色众多、战斗酣畅淋漓的ARPG大幅进化。继承并深化此前备受好评的多人联机相关内容，更追加了众多单人离线挑战的新元素。空之世界的冒险之旅自此踏入“无尽之战”的新舞台。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：424,054 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -19,7 +19,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3839790/",
+          "appStoreUrl": "https://store.steampowered.com/app/1623730/",
           "isFreeToKeep": false
         },
         {
@@ -29,7 +29,7 @@
           "developer": "Ubisoft Singapore",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/57ec4d2eb79d8da8f9ef9f1662de3490f6a1f3c2/capsule_616x353_schinese.jpg?t=1783617053",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：57,637 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：64,229 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -48,7 +48,7 @@
           "developer": "Ubisoft Singapore",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/57ec4d2eb79d8da8f9ef9f1662de3490f6a1f3c2/capsule_616x353_schinese.jpg?t=1783617053",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：57,637 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：64,229 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -62,12 +62,12 @@
         },
         {
           "rank": 4,
-          "appId": "steam-seller-1091500",
-          "name": "赛博朋克 2077",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1769690377",
-          "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：55,140 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-3839790",
+          "name": "碧蓝幻想Relink 无尽黄昏 升级扩展包（普通版）",
+          "developer": "Cygames, Inc.",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839790/535e83714c9d614041b546fca1b036d26f527809/capsule_616x353.jpg?t=1783675384",
+          "primaryGenre": "动作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n角色众多、战斗酣畅淋漓的ARPG大幅进化。继承并深化此前备受好评的多人联机相关内容，更追加了众多单人离线挑战的新元素。空之世界的冒险之旅自此踏入“无尽之战”的新舞台。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -76,17 +76,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
+          "appStoreUrl": "https://store.steampowered.com/app/3839790/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-seller-1623730",
-          "name": "Palworld / 幻兽帕鲁",
-          "developer": "Pocketpair",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/f6a29f2291e13ba9d9481f7c1e3d433046e16278/capsule_616x353_schinese.jpg?t=1783652952",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：44,534 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-4704690",
+          "name": "MECCHA CHAMELEON",
+          "developer": "lemorion_1224",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1782561846",
+          "primaryGenre": "休闲",
+          "description": "【当前Steam实时在线人数】：101,190 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1623730/",
+          "appStoreUrl": "https://store.steampowered.com/app/4704690/",
           "isFreeToKeep": false
         }
       ]
@@ -107,9 +107,9 @@
           "appId": "steam-sale-1623730",
           "name": "[特惠] Palworld / 幻兽帕鲁",
           "developer": "Pocketpair",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/f6a29f2291e13ba9d9481f7c1e3d433046e16278/capsule_616x353_schinese.jpg?t=1783652952",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/f6a29f2291e13ba9d9481f7c1e3d433046e16278/capsule_616x353_schinese.jpg?t=1783654507",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥108.00，当前促销现价仅需 ¥75.60！\n\n【当前Steam实时在线人数】：44,534 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥108.00，当前促销现价仅需 ¥75.60！\n\n【当前Steam实时在线人数】：424,054 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥32.40",
           "reviews": [
             {
@@ -128,7 +128,7 @@
           "developer": "Rockstar Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：27,651 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：31,081 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥209.25",
           "reviews": [
             {
@@ -147,7 +147,7 @@
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "折扣 -56%",
-          "description": "【实时特惠折扣 -56%】原价 ¥224.00，当前促销现价仅需 ¥98.56！\n\n【当前Steam实时在线人数】：59,601 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -56%】原价 ¥224.00，当前促销现价仅需 ¥98.56！\n\n【当前Steam实时在线人数】：63,148 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥125.44",
           "reviews": [
             {
@@ -166,7 +166,7 @@
           "developer": "Frontier Developments",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/capsule_616x353.jpg?t=1765896213",
           "primaryGenre": "折扣 -95%",
-          "description": "【实时特惠折扣 -95%】原价 ¥180.00，当前促销现价仅需 ¥9.00！\n\n【当前Steam实时在线人数】：5,711 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《动物园之星》中打造一个野生动物世界。由《过山车之星》(Planet Coaster) 和《动物园大亨》(Zoo Tycoon) 的开发者团队制作，将为你带来极致的动物园模拟游戏体验。建造精细的动物栖息地、管理动物园，并见识栩栩如生、能够思考且富有感情的动物探索你打造的世界。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -95%】原价 ¥180.00，当前促销现价仅需 ¥9.00！\n\n【当前Steam实时在线人数】：6,558 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《动物园之星》中打造一个野生动物世界。由《过山车之星》(Planet Coaster) 和《动物园大亨》(Zoo Tycoon) 的开发者团队制作，将为你带来极致的动物园模拟游戏体验。建造精细的动物栖息地、管理动物园，并见识栩栩如生、能够思考且富有感情的动物探索你打造的世界。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥171.00",
           "reviews": [
             {
@@ -180,13 +180,13 @@
         },
         {
           "rank": 5,
-          "appId": "steam-sale-1771300",
-          "name": "[特惠] 天国：拯救2",
-          "developer": "Warhorse Studios",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/bcad55593058f54e54aee8b6714220e216cf9b0c/capsule_616x353.jpg?t=1777975568",
-          "primaryGenre": "折扣 -60%",
-          "description": "【实时特惠折扣 -60%】原价 ¥228.00，当前促销现价仅需 ¥91.20！\n\n【当前Steam实时在线人数】：11,804 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中世纪冒险，扮演年轻的亨利，踏上一场史诗级的旅程。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥136.80",
+          "appId": "steam-sale-2749950",
+          "name": "[特惠] Esports Manager 2026",
+          "developer": "Neurona Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/eddaddc1b8752c6f64f1d32ca42095d0611c21c8/capsule_616x353.jpg?t=1783451404",
+          "primaryGenre": "折扣 -20%",
+          "description": "【实时特惠折扣 -20%】原价 ¥68.00，当前促销现价仅需 ¥54.40！\n\n【当前Steam实时在线人数】：3,910 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n建立并领导您自己的职业电子竞技组织。招募球员、管理合同、培养人才、聘请员工、打造品牌，并在深度逼真的管理模拟中争夺冠军头衔。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥13.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1771300/",
+          "appStoreUrl": "https://store.steampowered.com/app/2749950/",
           "isFreeToKeep": false
         }
       ]
@@ -262,24 +262,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
-          "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe automation tower defense game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://anuke.itch.io/mindustry"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-2",
           "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -297,12 +279,12 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-3",
-          "name": "[独立] Soul of Sovereignty Prelude [$9.99] [Visual Novel] [Windows] [macOS] [Linux]",
+          "appId": "itch-featured-2",
+          "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\na tale of deadly kindness and selfish virtue\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe automation tower defense game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -311,7 +293,25 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://gigidigi.itch.io/soulsov"
+          "appStoreUrl": "https://anuke.itch.io/mindustry"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-3",
+          "name": "[独立] Late Night Mop [Free] [Adventure] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA haunted house cleaning simulator.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://lixiangames.itch.io/late-night-mop"
         },
         {
           "rank": "热门精选",
