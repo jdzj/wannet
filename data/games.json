@@ -1,16 +1,92 @@
 {
-  "updateTime": "2026-07-29T02:46:47.738Z",
+  "updateTime": "2026-07-30T02:31:16.149Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
+          "appId": "steam-seller-3282300",
+          "name": "雾影猎人",
+          "developer": "Bellring Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/750042d78156ef66d6359230e8326a05d035956a/capsule_616x353_alt_assets_8_schinese.jpg?t=1785373727",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：20,361 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3282300/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
+          "appId": "steam-seller-76900",
+          "name": "雾影猎人-豪华版",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/76900/10shz4st740r010l/85a958925d89de40994a1e3c61aabb0399895ebc/capsule_616x353_schinese.jpg?t=1785335038",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/76900/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
+          "appId": "steam-seller-4572310",
+          "name": "雾影猎人-升级为豪华版",
+          "developer": "Bellring Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572310/9b1e81194b87e9f3a5578efba1076ab6d4b91cd7/capsule_616x353.jpg?t=1785373126",
+          "primaryGenre": "动作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4572310/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
+          "appId": "steam-seller-36119",
+          "name": "《歧路旅人》＋《歧路旅人 II》合辑　",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/36119/azceau83c4hicoqt/capsule_616x353.jpg?t=1717603075",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/36119/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-seller-1091500",
           "name": "赛博朋克 2077",
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
           "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：40,382 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：40,128 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -20,82 +96,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1091500/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
-          "appId": "steam-seller-3722330",
-          "name": "午夜轮班",
-          "developer": "Bun Muen",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/10fa5273d22a51323a8030b0e17814ea7a6e6397/capsule_616x353_schinese.jpg?t=1784981268",
-          "primaryGenre": "独立",
-          "description": "【当前Steam实时在线人数】：13,844 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3722330/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-seller-32470",
-          "name": "《赛博朋克 2077：终极版》",
-          "developer": "Petroglyph",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/c015195727f22e3462e98747d750772ef0512f8c/capsule_616x353_schinese.jpg?t=1746520128",
-          "primaryGenre": "策略",
-          "description": "【当前Steam实时在线人数】：1,241 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nCommand or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/32470/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-seller-2138330",
-          "name": "《赛博朋克 2077：往日之影》",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/db88128180c02332b94460c74354a5d807267c49/capsule_616x353_schinese.jpg?t=1784713876",
-          "primaryGenre": "角色扮演",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《往日之影》是开放世界动作冒险角色扮演游戏《赛博朋克 2077》的全新谍战悬疑风格资料片。玩家扮演经过义体强化的雇佣兵 V，和秘密特工所罗门·李德一起，共同解开一片由忠诚、背叛，以及险恶政治阴谋交织而成的罗网。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2138330/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-seller-3561220",
-          "name": "风暴怕死队",
-          "developer": "PlayMud Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/5e98cf6927c049bebb3fc6b324b7354199e98512/capsule_616x353_schinese.jpg?t=1784799208",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：5,621 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《风暴怕死队》是一款Roguelite弹幕射击游戏。一场魔女之灾突然来临，混沌的魔力化作了风暴之墙，巨大海浪与风暴将主岛围住，没有任何东西可以穿过它。在风暴之墙内，混沌魔力的侵蚀正在扩散，生灵正在逐渐腐化为怪物。身为猎魔人的你需要想尽一切办法逃离这座已经变成���间地狱的小岛。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3561220/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：40,382 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：40,128 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥208.60",
           "reviews": [
             {
@@ -142,13 +142,13 @@
         },
         {
           "rank": 3,
-          "appId": "steam-sale-3722330",
-          "name": "[特惠] 午夜轮班",
-          "developer": "Bun Muen",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/10fa5273d22a51323a8030b0e17814ea7a6e6397/capsule_616x353_schinese.jpg?t=1784981268",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥38.00，当前促销现价仅需 ¥34.20！\n\n【当前Steam实时在线人数】：13,844 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥3.80",
+          "appId": "steam-sale-921570",
+          "name": "[特惠] 歧路旅人",
+          "developer": "Square Enix",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/921570/capsule_616x353.jpg?t=1781762506",
+          "primaryGenre": "折扣 -70%",
+          "description": "【实时特惠折扣 -70%】原价 ¥198.00，当前促销现价仅需 ¥59.40！\n\n【当前Steam实时在线人数】：483 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n八位旅行者的八次冒险之旅。化身为八个角色之一，踏上史诗般的旅程，穿越广阔而神奇的奥鲁斯特拉大陆，探索八位旅行者各自迷人的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥138.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -156,7 +156,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3722330/",
+          "appStoreUrl": "https://store.steampowered.com/app/921570/",
           "isFreeToKeep": false
         },
         {
@@ -166,7 +166,7 @@
           "developer": "lemorion_1224",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/8c199d9c704956104caa7de32cccef828b3cf3d0/capsule_616x353.jpg?t=1785107783",
           "primaryGenre": "折扣 -15%",
-          "description": "【实时特惠折扣 -15%】原价 ¥26.00，当前促销现价仅需 ¥22.10！\n\n【当前Steam实时在线人数】：30,996 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -15%】原价 ¥26.00，当前促销现价仅需 ¥22.10！\n\n【当前Steam实时在线人数】：26,786 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥3.90",
           "reviews": [
             {
@@ -180,13 +180,13 @@
         },
         {
           "rank": 5,
-          "appId": "steam-sale-124923",
-          "name": "[特惠] 《巫师 3：狂猎 - 完全版》",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/124923/a2fb2a96c3debc255b89a6b5609e9c7f12c42d58/capsule_616x353_schinese.jpg?t=1775042338",
-          "primaryGenre": "折扣 -80%",
-          "description": "【实时特惠折扣 -80%】原价 ¥199.00，当前促销现价仅需 ¥39.80！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥159.20",
+          "appId": "steam-sale-4421010",
+          "name": "[特惠] 账单必须支付 Bills Must Be Paid",
+          "developer": "Rike Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19e2dfe63ebe02f77775fd8defd9aa0bc820425c/capsule_616x353_schinese.jpg?t=1785365619",
+          "primaryGenre": "折扣 -30%",
+          "description": "【实时特惠折扣 -30%】原价 ¥28.00，当前促销现价仅需 ¥19.60！\n\n【当前Steam实时在线人数】：3,676 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥8.40",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/124923/",
+          "appStoreUrl": "https://store.steampowered.com/app/4421010/",
           "isFreeToKeep": false
         }
       ]
@@ -262,6 +262,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-2",
+          "name": "[独立] Late Night Mop [Free] [Adventure] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA haunted house cleaning simulator.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://lixiangames.itch.io/late-night-mop"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-3",
           "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -279,7 +297,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-3",
+          "appId": "itch-featured-4",
           "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -294,24 +312,6 @@
             }
           ],
           "appStoreUrl": "https://puppetcombo.itch.io/nun-massacre"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
-          "name": "[独立] Late Night Mop [Free] [Adventure] [Windows] [macOS]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA haunted house cleaning simulator.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://lixiangames.itch.io/late-night-mop"
         }
       ]
     }
