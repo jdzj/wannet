@@ -1,16 +1,35 @@
 {
-  "updateTime": "2026-07-31T02:56:35.899Z",
+  "updateTime": "2026-08-01T02:56:11.339Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
+          "appId": "steam-seller-1368140",
+          "name": "纵横秘湾 Corsair Cove",
+          "developer": "Limbic Entertainment",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/3736f1c210ab1c8a55a3682fe0fd665a63a85beb/capsule_616x353_schinese.jpg?t=1785527747",
+          "primaryGenre": "模拟",
+          "description": "【当前Steam实时在线人数】：3,961 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1368140/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-seller-1086940",
           "name": "博德之门3",
           "developer": "Larian Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
           "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：44,570 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：50,704 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -23,7 +42,26 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "appId": "steam-seller-2651280",
+          "name": "Marvel's Spider-Man 2",
+          "developer": "Insomniac Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/cb8da9b3e99cf7362cd88c10a0544b7fe892ccad/capsule_616x353.jpg?t=1763569811",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：5,628 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nBe Greater. Together. 在广受好评的《Spider-Man》续作PC版的全新激动人心的篇章中，共生体的惊人力量迫使彼得·帕克和迈尔斯·墨拉莱斯身陷绝望的战斗之中，与此同时，他们也要在自己的生活、友谊和保护需要帮助的人的责任之间取得平衡。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2651280/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
           "appId": "steam-seller-36119",
           "name": "《歧路旅人》＋《歧路旅人 II》合辑　",
           "developer": "Steam 精选厂商",
@@ -42,32 +80,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
-          "appId": "steam-seller-1971650",
-          "name": "歧路旅人 II",
-          "developer": "Square Enix",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971650/capsule_616x353.jpg?t=1781762559",
-          "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：958 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n2018年发售的“歧路旅人”在全球实体加线上累计销量超过300万部。本作为“歧路旅人”系列的新作RPG，内容全新。 在本作中，像素风格与3DCG所融合的“HD-2D”画面表现会全面升级。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1971650/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "appId": "steam-seller-1091500",
           "name": "赛博朋克 2077",
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
           "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：40,940 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：45,588 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -77,25 +96,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1091500/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-seller-3282300",
-          "name": "雾影猎人",
-          "developer": "Bellring Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/f413d799123334c6232ccb0bff3c44a0f9caa426/capsule_616x353_schinese.jpg?t=1785434347",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：20,409 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3282300/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "Larian Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥298.00，当前促销现价仅需 ¥208.60！\n\n【当前Steam实时在线人数】：44,570 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥298.00，当前促销现价仅需 ¥208.60！\n\n【当前Steam实时在线人数】：50,704 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥89.40",
           "reviews": [
             {
@@ -123,13 +123,13 @@
         },
         {
           "rank": 2,
-          "appId": "steam-sale-1091500",
-          "name": "[特惠] 赛博朋克 2077",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
-          "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：40,940 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥208.60",
+          "appId": "steam-sale-1368140",
+          "name": "[特惠] 纵横秘湾 Corsair Cove",
+          "developer": "Limbic Entertainment",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/3736f1c210ab1c8a55a3682fe0fd665a63a85beb/capsule_616x353_schinese.jpg?t=1785527747",
+          "primaryGenre": "折扣 -25%",
+          "description": "【实时特惠折扣 -25%】原价 ¥149.00，当前促销现价仅需 ¥111.75！\n\n【当前Steam实时在线人数】：3,961 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥37.25",
           "reviews": [
             {
               "author": "价格风向标",
@@ -137,7 +137,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
+          "appStoreUrl": "https://store.steampowered.com/app/1368140/",
           "isFreeToKeep": false
         },
         {
@@ -147,7 +147,7 @@
           "developer": "Insomniac Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_616x353.jpg?t=1763569047",
           "primaryGenre": "折扣 -60%",
-          "description": "【实时特惠折扣 -60%】原价 ¥414.00，当前促销现价仅需 ¥165.60！\n\n【当前Steam实时在线人数】：4,116 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《Marvel’s Spider-Man Remastered》中，彼得·帕克和蜘蛛侠的世界在动作火爆的原创剧情中碰撞交织。扮演身经百战的彼得·帕克，在漫威宇宙纽约中打击猖獗犯罪，对抗经典反派。蛛丝摆荡，穿梭于充满活力的街区，以炫酷动作把反派打个落花流水。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -60%】原价 ¥414.00，当前促销现价仅需 ¥165.60！\n\n【当前Steam实时在线人数】：6,942 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《Marvel’s Spider-Man Remastered》中，彼得·帕克和蜘蛛侠的世界在动作火爆的原创剧情中碰撞交织。扮演身经百战的彼得·帕克，在漫威宇宙纽约中打击猖獗犯罪，对抗经典反派。蛛丝摆荡，穿梭于充满活力的街区，以炫酷动作把反派打个落花流水。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥248.40",
           "reviews": [
             {
@@ -161,12 +161,31 @@
         },
         {
           "rank": 4,
+          "appId": "steam-sale-1091500",
+          "name": "[特惠] 赛博朋克 2077",
+          "developer": "CD PROJEKT RED",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
+          "primaryGenre": "折扣 -70%",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：45,588 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥208.60",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-sale-2651280",
           "name": "[特惠] Marvel's Spider-Man 2",
           "developer": "Insomniac Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/cb8da9b3e99cf7362cd88c10a0544b7fe892ccad/capsule_616x353.jpg?t=1763569811",
           "primaryGenre": "折扣 -33%",
-          "description": "【实时特惠折扣 -33%】原价 ¥398.00，当前促销现价仅需 ¥266.66！\n\n【当前Steam实时在线人数】：3,715 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nBe Greater. Together. 在广受好评的《Spider-Man》续作PC版的全新激动人心的篇章中，共生体的惊人力量迫使彼得·帕克和迈尔斯·墨拉莱斯身陷绝望的战斗之中，与此同时，他们也要在自己的生活、友谊和保护需要帮助的人的责任之间取得平衡。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -33%】原价 ¥398.00，当前促销现价仅需 ¥266.66！\n\n【当前Steam实时在线人数】：5,628 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nBe Greater. Together. 在广受好评的《Spider-Man》续作PC版的全新激动人心的篇章中，共生体的惊人力量迫使彼得·帕克和迈尔斯·墨拉莱斯身陷绝望的战斗之中，与此同时，他们也要在自己的生活、友谊和保护需要帮助的人的责任之间取得平衡。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥131.34",
           "reviews": [
             {
@@ -176,25 +195,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/2651280/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-3934270",
-          "name": "[特惠] 多少兄弟？",
-          "developer": "Butterscotch Shenanigans",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934270/55b6e2adbe2b7d3b8ba2482ec3605f9ea7d207cb/capsule_616x353_schinese.jpg?t=1785428583",
-          "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥54.00，当前促销现价仅需 ¥35.10！\n\n【当前Steam实时在线人数】：7,358 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款以“兄弟养成”为主题的肉鸽自走棋游戏。招募一支兄弟大军征战荒谬战场，解开人类史上最古老的谜题：需要多少兄弟才能揍趴大猩猩？打赢一千个熊孩子？干翻像马一样大的鸭子？击败神明？走进你的兄弟营地，寻找答案吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥18.90",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3934270/",
           "isFreeToKeep": false
         }
       ]
@@ -262,24 +262,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
-          "name": "[独立] Late Night Mop [Free] [Adventure] [Windows] [macOS]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA haunted house cleaning simulator.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://lixiangames.itch.io/late-night-mop"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-2",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -294,6 +276,24 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
+          "name": "[独立] Late Night Mop [Free] [Adventure] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA haunted house cleaning simulator.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://lixiangames.itch.io/late-night-mop"
         },
         {
           "rank": "热门精选",
