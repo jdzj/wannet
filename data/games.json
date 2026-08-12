@@ -1,16 +1,16 @@
 {
-  "updateTime": "2026-08-11T01:51:14.428Z",
+  "updateTime": "2026-08-12T02:03:39.952Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
-          "appId": "steam-seller-1067360",
-          "name": "暗星铁律",
-          "developer": "Multiverse",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067360/9cd130b5d76f110bbdcdb7cab94b38c76bfcdd45/capsule_616x353_schinese.jpg?t=1786398295",
+          "appId": "steam-seller-2358720",
+          "name": "黑神话：悟空",
+          "developer": "Game Science",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：3,202 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n建立一座伟大的铁律殖民地，然后亲自率领士兵冲入 Roguelite 战场。塑造公民的恐惧、忠诚、羁绊与仇怨。俘虏敌人，将他们改造成真正的信徒。牺牲弱者，供养强者。掌握绝对权力，让所有生命都屈从于你的意志。立即加入愿望单！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：7,052 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -19,17 +19,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1067360/",
+          "appStoreUrl": "https://store.steampowered.com/app/2358720/",
           "isFreeToKeep": false
         },
         {
           "rank": 2,
-          "appId": "steam-seller-1478500",
-          "name": "Big Walk",
-          "developer": "House House",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
-          "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：35,615 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-3595270",
+          "name": "《使命召唤®：现代战争® III 2023》",
+          "developer": "Sledgehammer Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/862980706af9711b9c79ba4be6cb551d72f343a5/capsule_616x353.jpg?t=1778886604",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：3,508 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -38,17 +38,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1478500/",
+          "appStoreUrl": "https://store.steampowered.com/app/3595270/",
           "isFreeToKeep": false
         },
         {
           "rank": 3,
-          "appId": "steam-seller-1091500",
-          "name": "赛博朋克 2077",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
-          "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：46,060 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-648100",
+          "name": "Raging Loop",
+          "developer": "KEMCO",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648100/capsule_616x353.jpg?t=1726532443",
+          "primaryGenre": "冒险",
+          "description": "【当前Steam实时在线人数】：151 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe feast has begun, can you escape the village alive?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -57,7 +57,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
+          "appStoreUrl": "https://store.steampowered.com/app/648100/",
           "isFreeToKeep": false
         },
         {
@@ -67,7 +67,7 @@
           "developer": "Mike Klubnika",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/9735d6d526f030ab3fc4899c6063091602558ac6/capsule_616x353_schinese.jpg?t=1785909320",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：3,527 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：3,606 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -81,12 +81,12 @@
         },
         {
           "rank": 5,
-          "appId": "steam-seller-431960",
-          "name": "Wallpaper Engine：壁纸引擎",
-          "developer": "Wallpaper Engine Team",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_616x353_schinese.jpg?t=1779452230",
-          "primaryGenre": "休闲",
-          "description": "【当前Steam实时在线人数】：59,021 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n您可以在桌面上使用惊艳的动态壁纸。可以将您自己的图片制成动画以创建新壁纸，或导入视频/网站并在 Steam 创意工坊上分享！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-2001120",
+          "name": "双影奇境",
+          "developer": "Hazelight Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：2,177 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/431960/",
+          "appStoreUrl": "https://store.steampowered.com/app/2001120/",
           "isFreeToKeep": false
         }
       ]
@@ -104,12 +104,31 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-2358720",
+          "name": "[特惠] 黑神话：悟空",
+          "developer": "Game Science",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
+          "primaryGenre": "折扣 -30%",
+          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：7,052 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥80.40",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2358720/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-sale-1478500",
           "name": "[特惠] Big Walk",
           "developer": "House House",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
           "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：35,615 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：30,565 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥19.50",
           "reviews": [
             {
@@ -122,32 +141,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
-          "appId": "steam-sale-1067360",
-          "name": "[特惠] 暗星铁律",
-          "developer": "Multiverse",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067360/9cd130b5d76f110bbdcdb7cab94b38c76bfcdd45/capsule_616x353_schinese.jpg?t=1786398295",
-          "primaryGenre": "折扣 -17%",
-          "description": "【实时特惠折扣 -17%】原价 ¥106.00，当前促销现价仅需 ¥87.98！\n\n【当前Steam实时在线人数】：3,202 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n建立一座伟大的铁律殖民地，然后亲自率领士兵冲入 Roguelite 战场。塑造公民的恐惧、忠诚、羁绊与仇怨。俘虏敌人，将他们改造成真正的信徒。牺牲弱者，供养强者。掌握绝对权力，让所有生命都屈从于你的意志。立即加入愿望单！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥18.02",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1067360/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 3,
           "appId": "steam-sale-4108000",
           "name": "[特惠] 机械狂欢",
           "developer": "Mike Klubnika",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/9735d6d526f030ab3fc4899c6063091602558ac6/capsule_616x353_schinese.jpg?t=1785909320",
           "primaryGenre": "折扣 -15%",
-          "description": "【实时特惠折扣 -15%】原价 ¥33.00，当前促销现价仅需 ¥28.05！\n\n【当前Steam实时在线人数】：3,527 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -15%】原价 ¥33.00，当前促销现价仅需 ¥28.05！\n\n【当前Steam实时在线人数】：3,606 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥4.95",
           "reviews": [
             {
@@ -161,31 +161,12 @@
         },
         {
           "rank": 4,
-          "appId": "steam-sale-2950790",
-          "name": "[特惠] 铁巢重炮",
-          "developer": "Nick Nieuwoudt",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/8c15ff0983d2498048eba7feca69dfdd73526f83/capsule_616x353_schinese.jpg?t=1786366652",
-          "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥59.00，当前促销现价仅需 ¥44.25！\n\n【当前Steam实时在线人数】：9,341 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥14.75",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2950790/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
           "appId": "steam-sale-3527290",
           "name": "[特惠] PEAK",
           "developer": "Team PEAK",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/c6791f0f1b7b29f6304e283ac7a2cabc27c7eb0d/capsule_616x353.jpg?t=1775581133",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/b233cb6e95308a74fb8dac2cfc1c1cfcf14a20d5/capsule_616x353_alt_assets_3.jpg?t=1786470571",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：19,945 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：107,472 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥16.50",
           "reviews": [
             {
@@ -195,6 +176,25 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/3527290/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-sale-1222140",
+          "name": "[特惠] 底特律：化身为人",
+          "developer": "Quantic Dream",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_616x353_schinese.jpg?t=1667468479",
+          "primaryGenre": "折扣 -80%",
+          "description": "【实时特惠折扣 -80%】原价 ¥136.00，当前促销现价仅需 ¥27.20！\n\n【当前Steam实时在线人数】：2,560 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《底特律：化身为人》中，人类和机器人的命运都将掌握在您的手中，您将走进一个不远的未来，一个机器人具有比人类更高智慧的时代。您将体验到史上最为复杂的分支故事——您所作出的每个选择都将影响游戏的结局。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥108.80",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1222140/",
           "isFreeToKeep": false
         }
       ]
@@ -262,6 +262,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
+          "name": "[独立] Breakout Baby | Baby&#039;s First Step [Free] [Action]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA blood-pumping, Pac-Man–infused, first-person horror roguelike\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://assemble-entertainment.itch.io/breakout-baby"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -279,7 +297,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-2",
+          "appId": "itch-featured-3",
           "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -297,7 +315,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-3",
+          "appId": "itch-featured-4",
           "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -312,24 +330,6 @@
             }
           ],
           "appStoreUrl": "https://anuke.itch.io/mindustry"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
-          "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nSay your PRAYERS!... a VHS era, low poly slasher (ps1 style survival horror)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://puppetcombo.itch.io/nun-massacre"
         }
       ]
     }
