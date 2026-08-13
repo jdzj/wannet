@@ -1,16 +1,16 @@
 {
-  "updateTime": "2026-08-12T02:03:39.952Z",
+  "updateTime": "2026-08-13T02:05:55.105Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
-          "appId": "steam-seller-2358720",
-          "name": "黑神话：悟空",
-          "developer": "Game Science",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
+          "appId": "steam-seller-4115450",
+          "name": "影之刃零",
+          "developer": "S-GAME Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1786515952",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：7,052 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -19,17 +19,36 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2358720/",
+          "appStoreUrl": "https://store.steampowered.com/app/4115450/",
           "isFreeToKeep": false
         },
         {
           "rank": 2,
+          "appId": "steam-seller-4115450",
+          "name": "影之刃零",
+          "developer": "S-GAME Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1786515952",
+          "primaryGenre": "动作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4115450/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
           "appId": "steam-seller-3595270",
           "name": "《使命召唤®：现代战争® III 2023》",
           "developer": "Sledgehammer Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/862980706af9711b9c79ba4be6cb551d72f343a5/capsule_616x353.jpg?t=1778886604",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：3,508 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：5,766 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -42,32 +61,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
-          "appId": "steam-seller-648100",
-          "name": "Raging Loop",
-          "developer": "KEMCO",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648100/capsule_616x353.jpg?t=1726532443",
-          "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：151 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe feast has begun, can you escape the village alive?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/648100/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 4,
-          "appId": "steam-seller-4108000",
-          "name": "机械狂欢",
-          "developer": "Mike Klubnika",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/9735d6d526f030ab3fc4899c6063091602558ac6/capsule_616x353_schinese.jpg?t=1785909320",
+          "appId": "steam-seller-2358720",
+          "name": "黑神话：悟空",
+          "developer": "Game Science",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：3,606 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：8,760 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -76,17 +76,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4108000/",
+          "appStoreUrl": "https://store.steampowered.com/app/2358720/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-seller-2001120",
-          "name": "双影奇境",
-          "developer": "Hazelight Studios",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：2,177 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-1733690",
+          "name": "烽沙",
+          "developer": "Digital Sky",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1733690/152c8f138f7de222c12aafd70915c1d472f2dbcd/capsule_616x353_schinese.jpg?t=1786523073",
+          "primaryGenre": "独立",
+          "description": "【当前Steam实时在线人数】：793 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《烽沙》是一款以中国古代春秋战国历史为背景的战争模拟建造游戏。修筑城防、发展产业、招揽百家门客，在乱世的古战场上建造你的城邦。融合自由建造、资源物流与战争即时战术，体验古代兵垒建设与大规模战争的完整循环。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2001120/",
+          "appStoreUrl": "https://store.steampowered.com/app/1733690/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：7,052 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：8,760 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥80.40",
           "reviews": [
             {
@@ -128,7 +128,7 @@
           "developer": "House House",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
           "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：30,565 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：28,527 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥19.50",
           "reviews": [
             {
@@ -142,13 +142,13 @@
         },
         {
           "rank": 3,
-          "appId": "steam-sale-4108000",
-          "name": "[特惠] 机械狂欢",
-          "developer": "Mike Klubnika",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/9735d6d526f030ab3fc4899c6063091602558ac6/capsule_616x353_schinese.jpg?t=1785909320",
-          "primaryGenre": "折扣 -15%",
-          "description": "【实时特惠折扣 -15%】原价 ¥33.00，当前促销现价仅需 ¥28.05！\n\n【当前Steam实时在线人数】：3,606 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥4.95",
+          "appId": "steam-sale-553850",
+          "name": "[特惠] HELLDIVERS™ 2",
+          "developer": "Arrowhead Game Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/a97b2665c7c14e87af37889d3a28fc65eda3afbf/capsule_616x353_schinese.jpg?t=1786525389",
+          "primaryGenre": "折扣 -25%",
+          "description": "【实时特惠折扣 -25%】原价 ¥198.00，当前促销现价仅需 ¥148.50！\n\n【当前Steam实时在线人数】：104,268 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的星系，为自由而战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥49.50",
           "reviews": [
             {
               "author": "价格风向标",
@@ -156,7 +156,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4108000/",
+          "appStoreUrl": "https://store.steampowered.com/app/553850/",
           "isFreeToKeep": false
         },
         {
@@ -166,7 +166,7 @@
           "developer": "Team PEAK",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/b233cb6e95308a74fb8dac2cfc1c1cfcf14a20d5/capsule_616x353_alt_assets_3.jpg?t=1786470571",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：107,472 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：88,625 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥16.50",
           "reviews": [
             {
@@ -180,13 +180,13 @@
         },
         {
           "rank": 5,
-          "appId": "steam-sale-1222140",
-          "name": "[特惠] 底特律：化身为人",
-          "developer": "Quantic Dream",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_616x353_schinese.jpg?t=1667468479",
-          "primaryGenre": "折扣 -80%",
-          "description": "【实时特惠折扣 -80%】原价 ¥136.00，当前促销现价仅需 ¥27.20！\n\n【当前Steam实时在线人数】：2,560 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《底特律：化身为人》中，人类和机器人的命运都将掌握在您的手中，您将走进一个不远的未来，一个机器人具有比人类更高智慧的时代。您将体验到史上最为复杂的分支故事——您所作出的每个选择都将影响游戏的结局。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥108.80",
+          "appId": "steam-sale-4108000",
+          "name": "[特惠] 机械狂欢",
+          "developer": "Mike Klubnika",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/9735d6d526f030ab3fc4899c6063091602558ac6/capsule_616x353_schinese.jpg?t=1786561627",
+          "primaryGenre": "折扣 -15%",
+          "description": "【实时特惠折扣 -15%】原价 ¥33.00，当前促销现价仅需 ¥28.05！\n\n【当前Steam实时在线人数】：3,381 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥4.95",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1222140/",
+          "appStoreUrl": "https://store.steampowered.com/app/4108000/",
           "isFreeToKeep": false
         }
       ]
@@ -298,24 +298,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-3",
-          "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRide it, see where it takes you.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://jonnys-games.itch.io/slide-in-the-woods"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
           "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -330,6 +312,24 @@
             }
           ],
           "appStoreUrl": "https://anuke.itch.io/mindustry"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
+          "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRide it, see where it takes you.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://jonnys-games.itch.io/slide-in-the-woods"
         }
       ]
     }
