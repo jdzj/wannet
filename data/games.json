@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-14T02:04:01.554Z",
+  "updateTime": "2026-08-15T01:18:28.950Z",
   "regions": {
     "steam": {
       "games": [
@@ -43,31 +43,12 @@
         },
         {
           "rank": 3,
-          "appId": "steam-seller-3636770",
-          "name": "Servant of the Lake",
-          "developer": "Rusty Lake",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/6a548a0c7f36e279e7ffd899115319cad890527a/capsule_616x353.jpg?t=1786622239",
-          "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：6,675 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3636770/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
           "appId": "steam-seller-2358720",
           "name": "黑神话：悟空",
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：9,329 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：9,495 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -80,13 +61,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 5,
+          "rank": 4,
           "appId": "steam-seller-3595270",
           "name": "《使命召唤®：现代战争® III 2023》",
           "developer": "Sledgehammer Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/862980706af9711b9c79ba4be6cb551d72f343a5/capsule_616x353.jpg?t=1778886604",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：6,168 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：6,165 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -96,6 +77,25 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/3595270/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-seller-3636770",
+          "name": "Servant of the Lake",
+          "developer": "Rusty Lake",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/6a548a0c7f36e279e7ffd899115319cad890527a/capsule_616x353.jpg?t=1786724638",
+          "primaryGenre": "冒险",
+          "description": "【当前Steam实时在线人数】：3,690 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3636770/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：9,329 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：9,495 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥80.40",
           "reviews": [
             {
@@ -123,12 +123,31 @@
         },
         {
           "rank": 2,
+          "appId": "steam-sale-1478500",
+          "name": "[特惠] Big Walk",
+          "developer": "House House",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
+          "primaryGenre": "折扣 -25%",
+          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：26,647 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥19.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1478500/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
           "appId": "steam-sale-3527290",
           "name": "[特惠] PEAK",
           "developer": "Team PEAK",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/b233cb6e95308a74fb8dac2cfc1c1cfcf14a20d5/capsule_616x353_alt_assets_3.jpg?t=1786470571",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：78,164 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：75,412 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥16.50",
           "reviews": [
             {
@@ -141,13 +160,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 4,
           "appId": "steam-sale-553850",
           "name": "[特惠] HELLDIVERS™ 2",
           "developer": "Arrowhead Game Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/a97b2665c7c14e87af37889d3a28fc65eda3afbf/capsule_616x353_schinese.jpg?t=1786525389",
           "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥198.00，当前促销现价仅需 ¥148.50！\n\n【当前Steam实时在线人数】：81,397 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的星系，为自由而战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -25%】原价 ¥198.00，当前促销现价仅需 ¥148.50！\n\n【当前Steam实时在线人数】：88,801 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的星系，为自由而战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥49.50",
           "reviews": [
             {
@@ -160,13 +179,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
+          "rank": 5,
           "appId": "steam-sale-3636770",
           "name": "[特惠] Servant of the Lake",
           "developer": "Rusty Lake",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/6a548a0c7f36e279e7ffd899115319cad890527a/capsule_616x353.jpg?t=1786622239",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/6a548a0c7f36e279e7ffd899115319cad890527a/capsule_616x353.jpg?t=1786724638",
           "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥33.00，当前促销现价仅需 ¥24.75！\n\n【当前Steam实时在线人数】：6,675 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -25%】原价 ¥33.00，当前促销现价仅需 ¥24.75！\n\n【当前Steam实时在线人数】：3,690 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥8.25",
           "reviews": [
             {
@@ -176,25 +195,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/3636770/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-1478500",
-          "name": "[特惠] Big Walk",
-          "developer": "House House",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
-          "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：28,280 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥19.50",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1478500/",
           "isFreeToKeep": false
         }
       ]
@@ -244,6 +244,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-0",
+          "name": "[独立] Servant of the Lake [25% Off] [$5.99] [Adventure] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n暂无核心玩法细节。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://rustylake.itch.io/servant-of-the-lake"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-1",
           "name": "[独立] Breakout Baby | Baby&#039;s First Step [Free] [Action]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -261,7 +279,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-1",
+          "appId": "itch-featured-2",
           "name": "[独立] Good Folk Cafe [Free] [Simulation] [Windows] [macOS]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -279,7 +297,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-2",
+          "appId": "itch-featured-3",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -297,30 +315,12 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-3",
-          "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRide it, see where it takes you.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://jonnys-games.itch.io/slide-in-the-woods"
-        },
-        {
-          "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
+          "name": "[独立] Small Saga [$19.99] [Role Playing] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe automation tower defense game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWhat manner of vermin lurks beneath our feet?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://anuke.itch.io/mindustry"
+          "appStoreUrl": "https://sketchylogic.itch.io/small-saga"
         }
       ]
     }
