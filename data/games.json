@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-16T01:23:34.753Z",
+  "updateTime": "2026-08-17T01:20:35.079Z",
   "regions": {
     "steam": {
       "games": [
@@ -48,7 +48,7 @@
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：11,547 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：9,459 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -62,12 +62,31 @@
         },
         {
           "rank": 4,
+          "appId": "steam-seller-2584270",
+          "name": "《致命躯壳 II》",
+          "developer": "Cold Symmetry",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/5411e243a0d29cf0ee026100adf7a4e1dd07bd41/capsule_616x353_alt_assets_1_schinese.jpg?t=1786719153",
+          "primaryGenre": "动作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2584270/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-seller-3595270",
           "name": "《使命召唤®：现代战争® III 2023》",
           "developer": "Sledgehammer Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/862980706af9711b9c79ba4be6cb551d72f343a5/capsule_616x353.jpg?t=1778886604",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：6,401 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：6,243 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -78,25 +97,6 @@
           ],
           "appStoreUrl": "https://store.steampowered.com/app/3595270/",
           "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-seller-3636770",
-          "name": "Servant of the Lake",
-          "developer": "Rusty Lake",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/6a548a0c7f36e279e7ffd899115319cad890527a/capsule_616x353.jpg?t=1786834992",
-          "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：2,755 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3636770/",
-          "isFreeToKeep": false
         }
       ]
     },
@@ -104,31 +104,12 @@
       "games": [
         {
           "rank": 1,
-          "appId": "steam-sale-2358720",
-          "name": "[特惠] 黑神话：悟空",
-          "developer": "Game Science",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
-          "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：11,547 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥80.40",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2358720/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
           "appId": "steam-sale-1478500",
           "name": "[特惠] Big Walk",
           "developer": "House House",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
           "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：30,149 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -25%】原价 ¥78.00，当前促销现价仅需 ¥58.50！\n\n【当前Steam实时在线人数】：32,987 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥19.50",
           "reviews": [
             {
@@ -141,13 +122,32 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 2,
+          "appId": "steam-sale-2358720",
+          "name": "[特惠] 黑神话：悟空",
+          "developer": "Game Science",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
+          "primaryGenre": "折扣 -30%",
+          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：9,459 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥80.40",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2358720/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 3,
           "appId": "steam-sale-3527290",
           "name": "[特惠] PEAK",
           "developer": "Team PEAK",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/b233cb6e95308a74fb8dac2cfc1c1cfcf14a20d5/capsule_616x353_alt_assets_3.jpg?t=1786470571",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：79,397 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥33.00，当前促销现价仅需 ¥16.50！\n\n【当前Steam实时在线人数】：82,794 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一��需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥16.50",
           "reviews": [
             {
@@ -166,7 +166,7 @@
           "developer": "Arrowhead Game Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/a97b2665c7c14e87af37889d3a28fc65eda3afbf/capsule_616x353_schinese.jpg?t=1786525389",
           "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥198.00，当前促销现价仅需 ¥148.50！\n\n【当前Steam实时在线人数】：81,474 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的星系，为自由而战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -25%】原价 ¥198.00，当前促销现价仅需 ¥148.50！\n\n【当前Steam实时在线人数】：79,866 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的星系，为自由而战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥49.50",
           "reviews": [
             {
@@ -185,7 +185,7 @@
           "developer": "Massive Monster",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313140/8f2d33e301780ac43a01fa5c20f7e53dc45a3995/capsule_616x353_schinese.jpg?t=1786554901",
           "primaryGenre": "折扣 -60%",
-          "description": "【实时特惠折扣 -60%】原价 ¥118.00，当前促销现价仅需 ¥47.20！\n\n【当前Steam实时在线人数】：5,631 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在这片虚假先知横行的土地上，你要建立自己的教派，遍历大陆上神秘无比、风格迥异的各个区域，笼络一群笃信森林的忠诚追随者，广散你的真言，最终一统全境，成为唯一的正教。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -60%】原价 ¥118.00，当前促销现价仅需 ¥47.20！\n\n【当前Steam实时在线人数】：6,398 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在这片虚假先知横行的土地上，你要建立自己的教派，遍历大陆上神秘无比、风格迥异的各个区域，笼络一群笃信森林的忠诚追随者，广散你的真言，最终一统全境，成为唯一的正教。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥70.80",
           "reviews": [
             {
@@ -244,24 +244,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-0",
-          "name": "[独立] Servant of the Lake [25% Off] [$5.99] [Adventure] [Windows] [macOS]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n暂无核心玩法细节。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://rustylake.itch.io/servant-of-the-lake"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-1",
           "name": "[独立] Breakout Baby | Baby&#039;s First Step [Free] [Action]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -276,6 +258,24 @@
             }
           ],
           "appStoreUrl": "https://assemble-entertainment.itch.io/breakout-baby"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-1",
+          "name": "[独立] Servant of the Lake [25% Off] [$5.99] [Adventure] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n暂无核心玩法细节。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://rustylake.itch.io/servant-of-the-lake"
         },
         {
           "rank": "热门精选",
@@ -316,11 +316,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Good Folk Cafe [Free] [Simulation] [Windows] [macOS]",
+          "name": "[独立] Crawl (Horror Game) [Free] [Action] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nForage for wild plants, craft bespoke dishes, and delight your mysterious otherworldly clientele\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nShort horror game, about crawling in a claustrophobic cave.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://not-here-not-there.itch.io/goodfolkcafe"
+          "appStoreUrl": "https://sole-rift.itch.io/crawl"
         }
       ]
     }
