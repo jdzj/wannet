@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-19T01:19:38.744Z",
+  "updateTime": "2026-08-20T01:18:36.162Z",
   "regions": {
     "steam": {
       "games": [
@@ -8,7 +8,7 @@
           "appId": "steam-seller-4115450",
           "name": "影之刃零",
           "developer": "S-GAME Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1786515952",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1787142639",
           "primaryGenre": "动作",
           "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
@@ -27,7 +27,7 @@
           "appId": "steam-seller-4115450",
           "name": "影之刃零",
           "developer": "S-GAME Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1786515952",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1787142639",
           "primaryGenre": "动作",
           "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
@@ -43,12 +43,12 @@
         },
         {
           "rank": 3,
-          "appId": "steam-seller-2584270",
-          "name": "《致命躯壳 II》",
-          "developer": "Cold Symmetry",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/1b4b6b8d7bd2ecd0dcaadbca07f312edb1e3f4c2/capsule_616x353_schinese.jpg?t=1787083092",
+          "appId": "steam-seller-4435490",
+          "name": "使命召唤®：现代战争® 4",
+          "developer": "Infinity Ward",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/d7668f880e901b1f5525b635063dde804642016e/capsule_616x353_alt_assets_0_schinese.jpg?t=1787160683",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -57,7 +57,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2584270/",
+          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
           "isFreeToKeep": false
         },
         {
@@ -67,7 +67,7 @@
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：9,039 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：9,031 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -81,12 +81,12 @@
         },
         {
           "rank": 5,
-          "appId": "steam-seller-4435490",
-          "name": "使命召唤®：现代战争® 4",
-          "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/d7668f880e901b1f5525b635063dde804642016e/capsule_616x353_alt_assets_0_schinese.jpg?t=1787071126",
+          "appId": "steam-seller-2584270",
+          "name": "《致命躯壳 II》",
+          "developer": "Cold Symmetry",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/1b4b6b8d7bd2ecd0dcaadbca07f312edb1e3f4c2/capsule_616x353_schinese.jpg?t=1787146410",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
+          "appStoreUrl": "https://store.steampowered.com/app/2584270/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：9,039 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：9,031 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥80.40",
           "reviews": [
             {
@@ -123,12 +123,31 @@
         },
         {
           "rank": 2,
+          "appId": "steam-sale-4315040",
+          "name": "[特惠] 放置领主：财富之城",
+          "developer": "Phorust Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4315040/6d483278730a9b8ec1e1055649cbc1ff11e4b615/capsule_616x353_schinese.jpg?t=1787170538",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥33.00，当前促销现价仅需 ¥29.70！\n\n【当前Steam实时在线人数】：5,212 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n收集资源，轻松规划，自动运转，持续成长，建立属于你的财富之城。从一处篝火营地开始，分配工人，扩大领地，与其他城邦进行贸易，不断解锁新的建筑、技术、政策，甚至神秘魔法，逐渐发展为大陆上最强大的王国。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥3.30",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4315040/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
           "appId": "steam-sale-1771300",
           "name": "[特惠] 天国：拯救2",
           "developer": "Warhorse Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/bcad55593058f54e54aee8b6714220e216cf9b0c/capsule_616x353.jpg?t=1777975568",
           "primaryGenre": "折扣 -60%",
-          "description": "【实时特惠折扣 -60%】原价 ¥228.00，当前促销现价仅需 ¥91.20！\n\n【当前Steam实时在线人数】：8,088 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中世纪冒险，扮演年轻的亨利，踏上一场史诗级的旅程。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -60%】原价 ¥228.00，当前促销现价仅需 ¥91.20！\n\n【当前Steam实时在线人数】：8,363 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中世纪冒险，扮演年轻的亨利，踏上一场史诗级的旅程。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥136.80",
           "reviews": [
             {
@@ -141,13 +160,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 4,
           "appId": "steam-sale-694280",
           "name": "[特惠] Zombie Army 4: Dead War",
           "developer": "Rebellion",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/capsule_616x353.jpg?t=1786965015",
           "primaryGenre": "折扣 -95%",
-          "description": "【实时特惠折扣 -95%】原价 ¥168.00，当前促销现价仅需 ¥8.40！\n\n【当前Steam实时在线人数】：1,746 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nHitler’s hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940s Europe, as you fight to save humankind from undead Armageddon!\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -95%】原价 ¥168.00，当前促销现价仅需 ¥8.40！\n\n【当前Steam实时在线人数】：2,314 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nHitler’s hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940s Europe, as you fight to save humankind from undead Armageddon!\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥159.60",
           "reviews": [
             {
@@ -160,33 +179,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
-          "appId": "steam-sale-3729550",
-          "name": "[特惠] 堆叠妖怪",
-          "developer": "Riftpoint Entertainment",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729550/d1a8d2599b2ba1160ba0dcbd22f22b832d40d3e2/capsule_616x353_alt_assets_1_schinese.jpg?t=1787064711",
-          "primaryGenre": "折扣 -15%",
-          "description": "【实时特惠折扣 -15%】原价 ¥45.00，当前促销现价仅需 ¥38.25！\n\n【当前Steam实时在线人数】：762 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n快来游玩这款独具卡牌堆叠特色的宠物收集游戏，堆叠、训练并收集超过 100 种强大的堆叠妖怪！建造你的营地，与对手侦察兵战斗，对抗在你的故乡各处蔓延的神秘腐化现象。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥6.75",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3729550/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 5,
-          "appId": "steam-sale-2754380",
-          "name": "[特惠] 鲁特里一家死了（The Roottrees are Dead）",
-          "developer": "Evil Trout Inc.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2754380/9ba57f201de001b9155fbe6c4c69d30e62191dd7/capsule_616x353_schinese.jpg?t=1778766790",
-          "primaryGenre": "折扣 -25%",
-          "description": "【实时特惠折扣 -25%】原价 ¥76.00，当前促销现价仅需 ¥57.00！\n\n【当前Steam实时在线人数】：416 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一桩来自1998年的家谱谜案。你需要深入早期互联网搜寻线索，发掘隐秘关联，拼凑出神秘的鲁特里公司背后的完整家谱树。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥19.00",
+          "appId": "steam-sale-1408027",
+          "name": "[特惠] STEINS;GATE REBOOT",
+          "developer": "Steam 精选厂商",
+          "icon": "",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥198.00，当前促销现价仅需 ¥178.20！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥19.80",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2754380/",
+          "appStoreUrl": "https://store.steampowered.com/app/1408027/",
           "isFreeToKeep": false
         }
       ]
@@ -262,11 +262,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
-          "name": "[独立] Servant of the Lake [25% Off] [$5.99] [Adventure] [Windows] [macOS]",
+          "name": "[独立] Sally Face [67% Off] [$0.98] [Adventure] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n暂无核心玩法细节。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA Dark Mystery is Unfolding...\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -275,7 +275,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://rustylake.itch.io/servant-of-the-lake"
+          "appStoreUrl": "https://portablemoose.itch.io/sallyface"
         },
         {
           "rank": "热门精选",
@@ -298,6 +298,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-3",
+          "name": "[独立] Servant of the Lake [25% Off] [$5.99] [Adventure] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n暂无核心玩法细节。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://rustylake.itch.io/servant-of-the-lake"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
           "name": "[独立] Little Troubles in Spooky Town [Free] [Adventure] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -312,24 +330,6 @@
             }
           ],
           "appStoreUrl": "https://kenney.itch.io/little-troubles-in-spooky-town"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
-          "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWill you write the way into her heart?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
         }
       ]
     }
