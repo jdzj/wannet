@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-08-23T01:25:00.705Z",
+  "updateTime": "2026-08-24T01:22:30.007Z",
   "regions": {
     "steam": {
       "games": [
@@ -10,7 +10,7 @@
           "developer": "Dazed Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/c5ccd85d2910a21019adb2581011ac186741d030/capsule_616x353.jpg?t=1787234618",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：81,623 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：106,438 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -43,31 +43,12 @@
         },
         {
           "rank": 3,
-          "appId": "steam-seller-4435490",
-          "name": "使命召唤®：现代战争® 4",
-          "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/2ffd6785aaedc55d3f5e0ad2ddd69e4b79398b90/capsule_616x353_alt_assets_1_schinese.jpg?t=1787345750",
-          "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
           "appId": "steam-seller-2358720",
           "name": "黑神话：悟空",
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：15,676 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：12,310 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -80,7 +61,7 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 5,
+          "rank": 4,
           "appId": "steam-seller-4115450",
           "name": "影之刃零",
           "developer": "S-GAME Studio",
@@ -97,6 +78,25 @@
           ],
           "appStoreUrl": "https://store.steampowered.com/app/4115450/",
           "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-seller-3595270",
+          "name": "《使命召唤®：现代战争® III 2023》",
+          "developer": "Sledgehammer Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/862980706af9711b9c79ba4be6cb551d72f343a5/capsule_616x353.jpg?t=1778886604",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：5,793 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在破纪录的《使命召唤®：现代战争® II 2022》®续作中，普莱斯上尉和第 141 特遣队将面对终极威胁。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3595270/",
+          "isFreeToKeep": false
         }
       ]
     },
@@ -109,7 +109,7 @@
           "developer": "Dazed Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/c5ccd85d2910a21019adb2581011ac186741d030/capsule_616x353.jpg?t=1787234618",
           "primaryGenre": "折扣 -38%",
-          "description": "【实时特惠折扣 -38%】原价 ¥33.00，当前促销现价仅需 ¥20.46！\n\n【当前Steam实时在线人数】：81,623 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -38%】原价 ¥33.00，当前促销现价仅需 ¥20.46！\n\n【当前Steam实时在线人数】：106,438 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥12.54",
           "reviews": [
             {
@@ -128,7 +128,7 @@
           "developer": "Game Science",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/8d0f458f0a3cd290c210dd053ae913cd1c7127f0/capsule_616x353_schinese.jpg?t=1760601605",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：15,676 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥268.00，当前促销现价仅需 ¥187.60！\n\n【当前Steam实时在线人数】：12,310 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥80.40",
           "reviews": [
             {
@@ -147,7 +147,7 @@
           "developer": "Warhorse Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/bcad55593058f54e54aee8b6714220e216cf9b0c/capsule_616x353.jpg?t=1777975568",
           "primaryGenre": "折扣 -60%",
-          "description": "【实时特惠折扣 -60%】原价 ¥228.00，当前促销现价仅需 ¥91.20！\n\n【当前Steam实时在线人数】：10,965 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中世纪冒险，扮演年轻的亨利，踏上一场史诗级的旅程。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -60%】原价 ¥228.00，当前促销现价仅需 ¥91.20！\n\n【当前Steam实时在线人数】：10,491 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中世纪冒险，扮演年轻的亨利，踏上一场史诗级的旅程。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥136.80",
           "reviews": [
             {
@@ -161,12 +161,31 @@
         },
         {
           "rank": 4,
+          "appId": "steam-sale-2161700",
+          "name": "[特惠] 女神异闻录３ Reload",
+          "developer": "ATLUS",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_616x353.jpg?t=1764776430",
+          "primaryGenre": "折扣 -65%",
+          "description": "【实时特惠折扣 -65%】原价 ¥268.00，当前促销现价仅需 ¥93.80！\n\n【当前Steam实时在线人数】：5,475 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《女神异闻录３》整装换新，登陆现行最新游戏平台！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥174.20",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2161700/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-sale-1687950",
           "name": "[特惠] 女神异闻录5皇家版",
           "developer": "ATLUS",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/9c915e996cc52869f7d092ea5006aba34defc2a6/capsule_616x353_schinese.jpg?t=1783356822",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥268.00，当前促销现价仅需 ¥80.40！\n\n【当前Steam实时在线人数】：7,336 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n夺取吧，用那个意志。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥268.00，当前促销现价仅需 ¥80.40！\n\n【当前Steam实时在线人数】：7,450 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n夺取吧，用那个意志。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥187.60",
           "reviews": [
             {
@@ -176,25 +195,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1687950/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-1868140",
-          "name": "[特惠] 潜水员戴夫 DAVE THE DIVER",
-          "developer": "MINTROCKET",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/890058df24a6b0c8a768ef2573a700c00ff67463/capsule_616x353.jpg?t=1786442860",
-          "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥80.00，当前促销现价仅需 ¥40.00！\n\n【当前Steam实时在线人数】：5,237 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎访问以神秘蓝洞为背景的海洋冒险游戏【潜水员戴夫 DAVE THE DIVER】。 白天在美丽的大海里打鱼，晚上经营寿司店赚钱。 伴随着个性强的同事们的故事展开的海底谜团。神秘又崭新的乐趣正在等着您！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥40.00",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1868140/",
           "isFreeToKeep": false
         }
       ]
@@ -316,11 +316,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Theropods [20% Off] [$13.99] [Adventure] [Windows] [macOS]",
+          "name": "[独立] Sally Face [$2.99] [Adventure] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nFace dinosaurs, solve puzzles and travel back to the time of ginormous lizards and pixelated adventure games.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA Dark Mystery is Unfolding...\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://dionous.itch.io/theropods"
+          "appStoreUrl": "https://portablemoose.itch.io/sallyface"
         }
       ]
     }
