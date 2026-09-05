@@ -1,29 +1,10 @@
 {
-  "updateTime": "2026-09-04T03:26:25.090Z",
+  "updateTime": "2026-09-05T03:28:11.090Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
-          "appId": "steam-seller-82650",
-          "name": "FINAL FANTASY VII Remake Series Trilogy Edition",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/82650/pxidim1ccwxm7197/367d5f8be7a52a5f2b8a2dc661b0c26ac7464c5e/capsule_616x353.jpg?t=1788444071",
-          "primaryGenre": "热门大作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/82650/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
           "appId": "steam-seller-4354570",
           "name": "FINAL FANTASY VII REVELATION",
           "developer": "Square Enix",
@@ -42,13 +23,32 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 2,
+          "appId": "steam-seller-82650",
+          "name": "FINAL FANTASY VII Remake Series Trilogy Edition",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/82650/pxidim1ccwxm7197/367d5f8be7a52a5f2b8a2dc661b0c26ac7464c5e/capsule_616x353.jpg?t=1788444071",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/82650/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 3,
           "appId": "steam-seller-2638890",
           "name": "鬼武者 Way of the Sword",
           "developer": "CAPCOM Co., Ltd.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/d1dbd37ec8ae2471bfd07f4235ea57dfc1f2a767/capsule_616x353.jpg?t=1788311809",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/d1dbd37ec8ae2471bfd07f4235ea57dfc1f2a767/capsule_616x353.jpg?t=1788494549",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：48,396 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -65,9 +65,9 @@
           "appId": "steam-seller-4356430",
           "name": "《NBA 2K27》",
           "developer": "Visual Concepts",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/f36173562a29d72ec0da4bfcd5e66e5825b671e0/capsule_616x353.jpg?t=1787958027",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/f36173562a29d72ec0da4bfcd5e66e5825b671e0/capsule_616x353.jpg?t=1788543808",
           "primaryGenre": "体育",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：22,979 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -86,7 +86,7 @@
           "developer": "Square Enix",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/c4e617a13d511a72b2787c91e0e08fbe57c99191/capsule_616x353.jpg?t=1788446361",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：2,394 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n克劳德一行人脱离魔晄都市米德加，踏进广袤的世界展开旅程。 本作有全新的故事、在广阔世界中的自由冒险以及增进与伙伴间情谊的战斗， 带来继《FINAL FANTASY VII REMAKE》之后更加进化的游戏体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：3,156 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n克劳德一行人脱离魔晄都市米德加，踏进广袤的世界展开旅程。 本作有全新的故事、在广阔世界中的自由冒险以及增进与伙伴间情谊的战斗， 带来继《FINAL FANTASY VII REMAKE》之后更加进化的游戏体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -104,12 +104,31 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-3321460",
+          "name": "[特惠] 红色沙漠：增强版",
+          "developer": "Pearl Abyss",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/462488b17602ce734272d6830aa47fc6e8fc6876/capsule_616x353_schinese.jpg?t=1788450739",
+          "primaryGenre": "折扣 -20%",
+          "description": "【实时特惠折扣 -20%】原价 ¥268.00，当前促销现价仅需 ¥214.40！\n\n【当前Steam实时在线人数】：22,457 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥53.60",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3321460/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-sale-2406770",
           "name": "[特惠] Bodycam",
           "developer": "Reissad Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/3aa35f12f9b24b2397f01fdc7312d7b845ffb80e/capsule_616x353_alt_assets_0_schinese.jpg?t=1788471492",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/3aa35f12f9b24b2397f01fdc7312d7b845ffb80e/capsule_616x353_alt_assets_0_schinese.jpg?t=1788548796",
           "primaryGenre": "折扣 -20%",
-          "description": "【实时特惠折扣 -20%】原价 ¥128.00，当前促销现价仅需 ¥102.40！\n\n【当前Steam实时在线人数】：20,081 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nBodycam 是虚幻引擎 5 中第一款具有真实随身摄像机视图的战术多人 FPS。近距离战斗感觉原始而响亮。每个角度、标注和项目符号都很重要。在逼真的地图上玩死亡竞赛、团队死亡竞赛和僚机，其中团队合作、战术和关键技能是关键没有准星、弹药计数器或 HUD。团队协作与战术决策将决定胜负。每一次交火都要求你保持冷静、精准并迅速行动。沉浸在逼真的战场中，与队友配合完成任务。在瞬息万变的战局中，善用掩体、聆听声音并掌握每个关键时刻。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -20%】原价 ¥128.00，当前促销现价仅需 ¥102.40！\n\n【当前Steam实时在线人数】：24,199 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nBodycam 是虚幻引擎 5 中第一款具有真实随身摄像机视图的战术多人 FPS。近距离战斗感觉原始而响亮。每个角度、标注和项目符号都很重要。在逼真的地图上玩死亡竞赛、团队死亡竞赛和僚机，其中团队合作、战术和关键技能是关键没有准星、弹药计数器或 HUD。团队协作与战术决策将决定胜负。每一次交火都要求你保持冷静、精准并迅速行动。沉浸在逼真的战场中，与队友配合完成任务。在瞬息万变的战局中，善用掩体、聆听声音并掌握每个关键时刻。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥25.60",
           "reviews": [
             {
@@ -122,14 +141,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
-          "appId": "steam-sale-1985810",
-          "name": "[特惠] Call of Duty®: Black Ops Cold War",
-          "developer": "Treyarch",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/capsule_616x353.jpg?t=1780964053",
+          "rank": 3,
+          "appId": "steam-sale-1174180",
+          "name": "[特惠] Red Dead Redemption 2",
+          "developer": "Rockstar Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥298.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：609 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《使命召唤®：黑色行动》的直接续作《黑色行动冷战》把时间倒回至上世纪80年代初，让粉丝们亲身体验冷战时期无比激烈的地缘政治对抗。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥223.50",
+          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：35,618 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥209.25",
           "reviews": [
             {
               "author": "价格风向标",
@@ -137,17 +156,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1985810/",
+          "appStoreUrl": "https://store.steampowered.com/app/1174180/",
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 4,
           "appId": "steam-sale-2183900",
           "name": "[特惠] Warhammer 40,000: 星际战士2",
           "developer": "Saber Interactive",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/capsule_616x353_schinese.jpg?t=1787837240",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥249.00，当前促销现价仅需 ¥62.25！\n\n【当前Steam实时在线人数】：10,004 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验星际战士的超人技能和残暴手段。利用致命能力和毁灭性武器消灭无穷无尽的泰伦虫群。选择单人或多人模式，在恢弘的第三人称战斗中保卫帝国。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -75%】原价 ¥249.00，当前促销现价仅需 ¥62.25！\n\n【当前Steam实时在线人数】：13,545 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验星际战士的超人技能和残暴手段。利用致命能力和毁灭性武器消灭无穷无尽的泰伦虫群。选择单人或多人模式，在恢弘的第三人称战斗中保卫帝国。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥186.75",
           "reviews": [
             {
@@ -160,13 +179,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
+          "rank": 5,
           "appId": "steam-sale-4656000",
           "name": "[特惠] BOMBANANA!",
           "developer": "Lefto Studio",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/5c8c9fb42a56e6fd25f2877053158fd207ffb028/capsule_616x353.jpg?t=1788351950",
           "primaryGenre": "折扣 -38%",
-          "description": "【实时特惠折扣 -38%】原价 ¥29.00，当前促销现价仅需 ¥17.98！\n\n【当前Steam实时在线人数】：5,679 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -38%】原价 ¥29.00，当前促销现价仅需 ¥17.98！\n\n【当前Steam实时在线人数】：7,642 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥11.02",
           "reviews": [
             {
@@ -176,25 +195,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/4656000/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-1174180",
-          "name": "[特惠] Red Dead Redemption 2",
-          "developer": "Rockstar Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
-          "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：29,241 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥209.25",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1174180/",
           "isFreeToKeep": false
         }
       ]
@@ -226,6 +226,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-0",
+          "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWill you write the way into her heart?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-1",
           "name": "[独立] OFFBEAT [15% Off] [$10.19] [Simulation] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -243,7 +261,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-1",
+          "appId": "itch-featured-2",
           "name": "[独立] Slide in the woods [Free] [Other] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -258,24 +276,6 @@
             }
           ],
           "appStoreUrl": "https://jonnys-games.itch.io/slide-in-the-woods"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-2",
-          "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWill you write the way into her heart?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
         },
         {
           "rank": "热门精选",
@@ -298,11 +298,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Breakout Baby | Baby&#039;s First Step [Free] [Action]",
+          "name": "[独立] Fears to Fathom - Home Alone [Free] [Adventure] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA blood-pumping, Pac-Man–infused, first-person horror roguelike\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nUnsettling Home Invasion Horror\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -311,7 +311,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://assemble-entertainment.itch.io/breakout-baby"
+          "appStoreUrl": "https://rayll.itch.io/fears-to-fathom"
         }
       ]
     }
