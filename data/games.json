@@ -1,16 +1,54 @@
 {
-  "updateTime": "2026-09-16T03:50:55.309Z",
+  "updateTime": "2026-09-17T03:56:16.785Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
+          "appId": "steam-seller-4225980",
+          "name": "空之轨迹 the 2nd",
+          "developer": "Nihon Falcom",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/99af0ff9bd0433b2e69d7720b69448469ca58161/capsule_616x353_schinese.jpg?t=1789409245",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：5,531 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4225980/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
+          "appId": "steam-seller-1737084",
+          "name": "空之轨迹 the 2nd 数字豪华版",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/7c1c063eaf5da14ba5928fbba7715ddf012f74cf/capsule_616x353_schinese.jpg?t=1789606554",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1737084/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
           "appId": "steam-seller-1867240",
           "name": "WARDOGS",
           "developer": "BULKHEAD",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/4791dfba12a28c7952bb165b544a50b431300c82/capsule_616x353_schinese.jpg?t=1789503126",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：231,359 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：225,398 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -23,13 +61,32 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
+          "rank": 4,
+          "appId": "steam-seller-4764360",
+          "name": "Bantrixia",
+          "developer": "Baypand",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764360/78d512f4d4fa9cc2200fe358737ea735ac909a12/capsule_616x353.jpg?t=1782590528",
+          "primaryGenre": "休闲",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nExperience a minimalist and satisfying 2D arcade slasher. Master your reflexes in this endless zen experience as you strike down objects with precision. Simple to play, impossible to put down—how high can you score?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4764360/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-seller-1086940",
           "name": "博德之门3",
           "developer": "Larian Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
           "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：36,335 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：36,095 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -40,63 +97,6 @@
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1086940/",
           "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-seller-4080220",
-          "name": "EA SPORTS FC™ 27",
-          "developer": "EA CANADA",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/06545f12a4135794d55e087cebea817c75786b7b/capsule_616x353_alt_assets_0.jpg?t=1788235145",
-          "primaryGenre": "模拟",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4080220/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-seller-2001120",
-          "name": "双影奇境",
-          "developer": "Hazelight Studios",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：1,532 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2001120/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-seller-3240220",
-          "name": "Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：35,346 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
-          "isFreeToKeep": false
         }
       ]
     },
@@ -104,12 +104,31 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-4225980",
+          "name": "[特惠] 空之轨迹 the 2nd",
+          "developer": "Nihon Falcom",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/99af0ff9bd0433b2e69d7720b69448469ca58161/capsule_616x353_schinese.jpg?t=1789409245",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥298.00，当前促销现价仅需 ¥268.20！\n\n【当前Steam实时在线人数】：5,531 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥29.80",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4225980/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-sale-1086940",
           "name": "[特惠] 博德之门3",
           "developer": "Larian Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥298.00，当前促销现价仅需 ¥208.60！\n\n【当前Steam实时在线人数】：36,335 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥298.00，当前促销现价仅需 ¥208.60！\n\n【当前Steam实时在线人数】：36,095 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥89.40",
           "reviews": [
             {
@@ -122,13 +141,32 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "appId": "steam-sale-1737084",
+          "name": "[特惠] 空之轨迹 the 2nd 数字豪华版",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/7c1c063eaf5da14ba5928fbba7715ddf012f74cf/capsule_616x353_schinese.jpg?t=1789606554",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥398.00，当前促销现价仅需 ¥358.20！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥39.80",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1737084/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
           "appId": "steam-sale-3240220",
           "name": "[特惠] Grand Theft Auto V 增强版",
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：35,346 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：35,826 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥74.50",
           "reviews": [
             {
@@ -141,13 +179,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 5,
           "appId": "steam-sale-2001120",
           "name": "[特惠] 双影奇境",
           "developer": "Hazelight Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
           "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：1,532 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：1,564 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥69.30",
           "reviews": [
             {
@@ -157,44 +195,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/2001120/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-sale-2402680",
-          "name": "[特惠] 迪姆雷斯",
-          "developer": "Mudtek",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/3ae7abb42a2968848e792ca7bf0486b122d1a102/capsule_616x353.jpg?t=1789492776",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥82.00，当前促销现价仅需 ¥73.80！\n\n【当前Steam实时在线人数】：8,032 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥8.20",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2402680/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-1426210",
-          "name": "[特惠] 双人成行",
-          "developer": "Hazelight Studios",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_616x353.jpg?t=1777395376",
-          "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥198.00，当前促销现价仅需 ¥59.40！\n\n【当前Steam实时在线人数】：1,968 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥138.60",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1426210/",
           "isFreeToKeep": false
         }
       ]
@@ -262,6 +262,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
+          "name": "[独立] Lockpicks-11 [Free] [Puzzle]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA door-picking, lock-picking puzzler\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://digitarium.itch.io/lockpicks-11"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -279,30 +297,12 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-2",
-          "name": "[独立] Prototype N (DEMO) [Free] [Platformer] [Windows] [macOS] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA side-scroller shooting platformer! Starring Nadine, the prototype android!\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://arrietty.itch.io/prototype-n"
-        },
-        {
-          "rank": "热门精选",
           "appId": "itch-featured-3",
-          "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
+          "name": "[独立] Donsol [$5.00] [Puzzle]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe automation tower defense game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nDonsol is a solitary card game in which you must go through the deck in sequences of 4 cards.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -311,16 +311,16 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://anuke.itch.io/mindustry"
+          "appStoreUrl": "https://hundredrabbits.itch.io/donsol"
         },
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
+          "name": "[独立] TurretGirls [$9.99] [Action] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nSay your PRAYERS!... a VHS era, low poly slasher (ps1 style survival horror)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nLock. Load. Look cute. Save Earth.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://puppetcombo.itch.io/nun-massacre"
+          "appStoreUrl": "https://dangen-entertainment.itch.io/turretgirls"
         }
       ]
     }
