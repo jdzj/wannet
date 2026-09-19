@@ -1,92 +1,16 @@
 {
-  "updateTime": "2026-09-18T03:43:08.439Z",
+  "updateTime": "2026-09-19T03:40:05.275Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
-          "appId": "steam-seller-4080220",
-          "name": "EA SPORTS FC™ 27",
-          "developer": "EA CANADA",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/06545f12a4135794d55e087cebea817c75786b7b/capsule_616x353_alt_assets_0.jpg?t=1788235145",
-          "primaryGenre": "模拟",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4080220/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
-          "appId": "steam-seller-4225980",
-          "name": "空之轨迹 the 2nd",
-          "developer": "Nihon Falcom",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/99af0ff9bd0433b2e69d7720b69448469ca58161/capsule_616x353_schinese.jpg?t=1789409245",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：5,357 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4225980/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-seller-4080220",
-          "name": "EA SPORTS FC™ 27",
-          "developer": "EA CANADA",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/06545f12a4135794d55e087cebea817c75786b7b/capsule_616x353_alt_assets_0.jpg?t=1788235145",
-          "primaryGenre": "模拟",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4080220/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-seller-4200780",
-          "name": "《使命召唤®：黑色行动 7》黑色组织（第6赛季）",
-          "developer": "Treyarch",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4200780/7d5fa3866aed3c90b3f8159fb791762a9752f5ab/capsule_616x353_alt_assets_0_schinese.jpg?t=1789661341",
-          "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n获得使命召唤®点数*和《使命召唤®：黑色行动 7》及《使命召唤®：战争地带™》中的游戏内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4200780/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
           "appId": "steam-seller-1867240",
           "name": "WARDOGS",
           "developer": "BULKHEAD",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/4791dfba12a28c7952bb165b544a50b431300c82/capsule_616x353_schinese.jpg?t=1789503126",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：228,255 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：293,815 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -97,24 +21,39 @@
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1867240/",
           "isFreeToKeep": false
-        }
-      ]
-    },
-    "sale": {
-      "games": [
+        },
         {
-          "rank": 1,
-          "appId": "steam-sale-4225980",
-          "name": "[特惠] 空之轨迹 the 2nd",
-          "developer": "Nihon Falcom",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/99af0ff9bd0433b2e69d7720b69448469ca58161/capsule_616x353_schinese.jpg?t=1789409245",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥298.00，当前促销现价仅需 ¥268.20！\n\n【当前Steam实时在线人数】：5,357 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥29.80",
+          "rank": 2,
+          "appId": "steam-seller-4080220",
+          "name": "EA SPORTS FC™ 27",
+          "developer": "EA CANADA",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/06545f12a4135794d55e087cebea817c75786b7b/capsule_616x353_alt_assets_0.jpg?t=1788235145",
+          "primaryGenre": "模拟",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
           "reviews": [
             {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4080220/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
+          "appId": "steam-seller-4225980",
+          "name": "空之轨迹 the 2nd",
+          "developer": "Nihon Falcom",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/99af0ff9bd0433b2e69d7720b69448469ca58161/capsule_616x353_schinese.jpg?t=1789409245",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：8,777 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
@@ -122,13 +61,55 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
+          "rank": 4,
+          "appId": "steam-seller-1086940",
+          "name": "博德之门3",
+          "developer": "Larian Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
+          "primaryGenre": "冒险",
+          "description": "【当前Steam实时在线人数】：47,825 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1086940/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-seller-4080220",
+          "name": "EA SPORTS FC™ 27",
+          "developer": "EA CANADA",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/06545f12a4135794d55e087cebea817c75786b7b/capsule_616x353_alt_assets_0.jpg?t=1788235145",
+          "primaryGenre": "模拟",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4080220/",
+          "isFreeToKeep": false
+        }
+      ]
+    },
+    "sale": {
+      "games": [
+        {
+          "rank": 1,
           "appId": "steam-sale-1086940",
           "name": "[特惠] 博德之门3",
           "developer": "Larian Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/59827b3d0abf2f29adacfe72fdfd11059d6974e2/capsule_616x353.jpg?t=1777363040",
           "primaryGenre": "折扣 -30%",
-          "description": "【实时特惠折扣 -30%】原价 ¥298.00，当前促销现价仅需 ¥208.60！\n\n【当前Steam实时在线人数】：37,029 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -30%】原价 ¥298.00，当前促销现价仅需 ¥208.60！\n\n【当前Steam实时在线人数】：47,825 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《博德之门3》是一款以“龙与地下城”世界为背景的、强调故事与队伍冒险体验的角色扮演游戏。你的每一个选择，都会编织出一段关于同伴与背叛、生存与牺牲，以及至上力量诱惑的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥89.40",
           "reviews": [
             {
@@ -141,13 +122,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 2,
           "appId": "steam-sale-3240220",
           "name": "[特惠] Grand Theft Auto V 增强版",
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：37,384 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：48,551 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥74.50",
           "reviews": [
             {
@@ -160,14 +141,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
-          "appId": "steam-sale-1737084",
-          "name": "[特惠] 空之轨迹 the 2nd 数字豪华版",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/7c1c063eaf5da14ba5928fbba7715ddf012f74cf/capsule_616x353_schinese.jpg?t=1789606554",
+          "rank": 3,
+          "appId": "steam-sale-4225980",
+          "name": "[特惠] 空之轨迹 the 2nd",
+          "developer": "Nihon Falcom",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/99af0ff9bd0433b2e69d7720b69448469ca58161/capsule_616x353_schinese.jpg?t=1789409245",
           "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥398.00，当前促销现价仅需 ¥358.20！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥39.80",
+          "description": "【实时特惠折扣 -10%】原价 ¥298.00，当前促销现价仅需 ¥268.20！\n\n【当前Steam实时在线人数】：8,777 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥29.80",
           "reviews": [
             {
               "author": "价格风向标",
@@ -175,18 +156,37 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1737084/",
+          "appStoreUrl": "https://store.steampowered.com/app/4225980/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
+          "appId": "steam-sale-1462040",
+          "name": "[特惠] FINAL FANTASY VII REMAKE INTERGRADE",
+          "developer": "Square Enix",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_616x353.jpg?t=1789446715",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：2,813 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n身背毁灭剑的前神罗战士克劳德踏入魔晄都市米德加。 运用最先进技术制作的画面、融合战略性与直觉式动作操作的战斗系统—— 不朽名作《FINAL FANTASY VII》的世界重生为“全新故事”。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥148.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1462040/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-sale-2001120",
-          "name": "[特惠] 双影奇境",
-          "developer": "Hazelight Studios",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
-          "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：1,669 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥69.30",
+          "appId": "steam-sale-2909400",
+          "name": "[特惠] FINAL FANTASY VII REBIRTH",
+          "developer": "Square Enix",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/c4e617a13d511a72b2787c91e0e08fbe57c99191/capsule_616x353.jpg?t=1789446799",
+          "primaryGenre": "折扣 -70%",
+          "description": "【实时特惠折扣 -70%】原价 ¥248.00，当前促销现价仅需 ¥74.40！\n\n【当前Steam实时在线人数】：3,043 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n克劳德一行人脱离魔晄都市米德加，踏进广袤的世界展开旅程。 本作有全新的故事、在广阔世界中的自由冒险以及增进与伙伴间情谊的战斗， 带来继《FINAL FANTASY VII REMAKE》之后更加进化的游戏体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥173.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2001120/",
+          "appStoreUrl": "https://store.steampowered.com/app/2909400/",
           "isFreeToKeep": false
         }
       ]
@@ -298,24 +298,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-3",
-          "name": "[独立] Donsol [$5.00] [Puzzle]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nDonsol is a solitary card game in which you must go through the deck in sequences of 4 cards.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://hundredrabbits.itch.io/donsol"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -330,6 +312,24 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
+          "name": "[独立] Donsol [$5.00] [Puzzle]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nDonsol is a solitary card game in which you must go through the deck in sequences of 4 cards.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://hundredrabbits.itch.io/donsol"
         }
       ]
     }
