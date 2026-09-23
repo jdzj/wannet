@@ -1,67 +1,10 @@
 {
-  "updateTime": "2026-09-22T03:50:12.958Z",
+  "updateTime": "2026-09-23T03:48:34.342Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
-          "appId": "steam-seller-1867240",
-          "name": "WARDOGS",
-          "developer": "BULKHEAD",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/4791dfba12a28c7952bb165b544a50b431300c82/capsule_616x353_schinese.jpg?t=1789503126",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：211,127 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1867240/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
-          "appId": "steam-seller-4323380",
-          "name": "This Game Costs 200 Dollars",
-          "developer": "Stolen Valor Studios ",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323380/9f88838f5175541013cb0c0c93ad47e25c5a9ce3/capsule_616x353.jpg?t=1769789324",
-          "primaryGenre": "休闲",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThis psychological &quot;comedic&quot; experience is worth your 200 dollars. Every single cent. This game is unlike anything you've ever seen or ever will see. It's 200 dollars worth of pure joy, amazement, and awkward conversations.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4323380/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-seller-4358690",
-          "name": "守墓人2",
-          "developer": "Lazy Bear Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/7a175688dfa77f6d3231ff86bdc19d8fed2a7304/capsule_616x353_alt_assets_0_schinese.jpg?t=1789990809",
-          "primaryGenre": "冒险",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4358690/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
           "appId": "steam-seller-4080220",
           "name": "EA SPORTS FC™ 27",
           "developer": "EA CANADA",
@@ -80,13 +23,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 5,
-          "appId": "steam-seller-1636440",
-          "name": "SILENT HILL: Townfall",
-          "developer": "Screen Burn",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/7786de9407a63dd4917f2d16844f429007b0a0e0/capsule_616x353.jpg?t=1789974011",
-          "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n为了“让一切重回正轨”，西蒙·奥德尔重返坐落于岛屿的神秘小镇，一步步踏入充满着紧张周旋、激烈冲突与难解谜题的世界。而圣阿米莉亚的真相，也随之悄然浮现。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "rank": 2,
+          "appId": "steam-seller-88711",
+          "name": "The Grave Deal",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/88711/jpkfobapejv1qo2j/10d7ce99c26a5918746c9f809fe4640beef74b44/capsule_616x353.jpg?t=1790093961",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +38,64 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1636440/",
+          "appStoreUrl": "https://store.steampowered.com/app/88711/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
+          "appId": "steam-seller-4358690",
+          "name": "守墓人2",
+          "developer": "Lazy Bear Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/fc3ff0f434adbc08fa3673c1848538b8a729cfbe/capsule_616x353_alt_assets_1_schinese.jpg?t=1790131843",
+          "primaryGenre": "冒险",
+          "description": "【当前Steam实时在线人数】：26,493 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4358690/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
+          "appId": "steam-seller-1867240",
+          "name": "WARDOGS",
+          "developer": "BULKHEAD",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/4791dfba12a28c7952bb165b544a50b431300c82/capsule_616x353_schinese.jpg?t=1789503126",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：203,621 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1867240/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-seller-4165690",
+          "name": "House in a Meadow VR",
+          "developer": "Sergheo Zakh",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165690/45a53cca712716b394fc68708aa4979e40b49e5f/capsule_616x353.jpg?t=1785694831",
+          "primaryGenre": "模拟",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nFuturistic Home Simulator\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4165690/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "Cozy Lives",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/a9333580930faa58b00342f99ab4a7ce971b4256/capsule_616x353_schinese.jpg?t=1790009899",
           "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥59.00，当前促销现价仅需 ¥53.10！\n\n【当前Steam实时在线人数】：7,091 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -10%】原价 ¥59.00，当前促销现价仅需 ¥53.10！\n\n【当前Steam实时在线人数】：10,112 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥5.90",
           "reviews": [
             {
@@ -128,7 +128,7 @@
           "developer": "Hazelight Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
           "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：1,666 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：1,671 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥69.30",
           "reviews": [
             {
@@ -147,7 +147,7 @@
           "developer": "Nihon Falcom",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/99af0ff9bd0433b2e69d7720b69448469ca58161/capsule_616x353_schinese.jpg?t=1789409245",
           "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥298.00，当前促销现价仅需 ¥268.20！\n\n【当前Steam实时在线人数】：6,060 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -10%】原价 ¥298.00，当前促销现价仅需 ¥268.20！\n\n【当前Steam实时在线人数】：5,726 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥29.80",
           "reviews": [
             {
@@ -161,13 +161,13 @@
         },
         {
           "rank": 4,
-          "appId": "steam-sale-1222140",
-          "name": "[特惠] 底特律：化身为人",
-          "developer": "Quantic Dream",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_616x353_schinese.jpg?t=1667468479",
-          "primaryGenre": "折扣 -80%",
-          "description": "【实时特惠折扣 -80%】原价 ¥136.00，当前促销现价仅需 ¥27.20！\n\n【当前Steam实时在线人数】：1,532 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《底特律：化身为人》中，人类和机器人的命运都将掌握在您的手中，您将走进一个不远的未来，一个机器人具有比人类更高智慧的时代。您将体验到史上最为复杂的分支故事——您所作出的每个选择都将影响游戏的结局。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥108.80",
+          "appId": "steam-sale-1426210",
+          "name": "[特惠] 双人成行",
+          "developer": "Hazelight Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_616x353.jpg?t=1777395376",
+          "primaryGenre": "折扣 -70%",
+          "description": "【实时特惠折扣 -70%】原价 ¥198.00，当前促销现价仅需 ¥59.40！\n\n【当前Steam实时在线人数】：2,310 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥138.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -175,18 +175,18 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1222140/",
+          "appStoreUrl": "https://store.steampowered.com/app/1426210/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-sale-1462040",
-          "name": "[特惠] FINAL FANTASY VII REMAKE INTERGRADE",
-          "developer": "Square Enix",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_616x353.jpg?t=1789446715",
-          "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：3,162 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n身背毁灭剑的前神罗战士克劳德踏入魔晄都市米德加。 运用最先进技术制作的画面、融合战略性与直觉式动作操作的战斗系统—— 不朽名作《FINAL FANTASY VII》的世界重生为“全新故事”。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥148.50",
+          "appId": "steam-sale-1390270",
+          "name": "[特惠] 《暗黑破坏神® IV》：“憎恨之王” - 标准版",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
+          "primaryGenre": "折扣 -25%",
+          "description": "【实时特惠折扣 -25%】原价 ¥278.00，当前促销现价仅需 ¥208.50！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥69.50",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1462040/",
+          "appStoreUrl": "https://store.steampowered.com/app/1390270/",
           "isFreeToKeep": false
         }
       ]
@@ -244,24 +244,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-0",
-          "name": "[独立] The No Jumpscare Show [Free] [Adventure] [Windows] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA 100% jumpscare-free experience :)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://polypaw.itch.io/the-no-jumpscare-show"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-1",
           "name": "[独立] JOAN OF ARC - DEUS CONTRA MACHINAM (C64) [$4.99] [Action]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -279,7 +261,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-2",
+          "appId": "itch-featured-1",
           "name": "[独立] Eat not, Want not [Free] [Survival]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -297,7 +279,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-3",
+          "appId": "itch-featured-2",
           "name": "[独立] Rock Declutterer [Free] [Puzzle]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -315,7 +297,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-4",
+          "appId": "itch-featured-3",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -330,6 +312,24 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
+          "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe automation tower defense game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://anuke.itch.io/mindustry"
         }
       ]
     }
