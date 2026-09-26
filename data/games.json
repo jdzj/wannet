@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-09-25T03:56:50.032Z",
+  "updateTime": "2026-09-26T04:01:56.609Z",
   "regions": {
     "steam": {
       "games": [
@@ -8,9 +8,9 @@
           "appId": "steam-seller-4080220",
           "name": "EA SPORTS FC™ 27",
           "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/d3e9a412983e68c39b5751a5fc9480129ce745b3/capsule_616x353.jpg?t=1790290779",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/d3e9a412983e68c39b5751a5fc9480129ce745b3/capsule_616x353.jpg?t=1790357926",
           "primaryGenre": "热门大作",
-          "description": "【当前Steam实时在线人数】：33,589 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：37,860 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -24,31 +24,12 @@
         },
         {
           "rank": 2,
-          "appId": "steam-seller-4259190",
-          "name": "王国保卫战 6：新启程",
-          "developer": "Ironhide Game Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/f9ea339a82ef42b74e44c85cbbafa7c0868baac8/capsule_616x353.jpg?t=1790279936",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：9,664 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《王国保卫战 6：新启程》是一款策略奇幻塔防游戏，将带您穿越时间回到更早些以前的王国，并同时带来大胆的革新。建造防御塔、号令手下的多名英雄……阻止曾经的&quot;卫兹南&quot;踏上魔道，改变魔王到来，为王国带来浩劫的命运吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4259190/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
           "appId": "steam-seller-1057090",
           "name": "Ori and the Will of the Wisps",
           "developer": "Steam 精选厂商",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg?t=1759530749",
           "primaryGenre": "热门大作",
-          "description": "【当前Steam实时在线人数】：1,872 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：5,593 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -61,13 +42,51 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 3,
+          "appId": "steam-seller-4259190",
+          "name": "王国保卫战 6：新启程",
+          "developer": "Ironhide Game Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/f9ea339a82ef42b74e44c85cbbafa7c0868baac8/capsule_616x353.jpg?t=1790279936",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：10,174 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《王国保卫战 6：新启程》是一款策略奇幻塔防游戏，将带您穿越时间回到更早些以前的王国，并同时带来大胆的革新。建造防御塔、号令手下的多名英雄……阻止曾经的&quot;卫兹南&quot;踏上魔道，改变魔王到来，为王国带来浩劫的命运吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4259190/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 4,
+          "appId": "steam-seller-2531310",
+          "name": "The Last of Us™ Part II Remastered",
+          "developer": "Naughty Dog LLC",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1750959180",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：2,277 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验这个荣获超过300项年度最佳游戏奖项肯定的作品，现已登陆PC。通过强化的图形效果、Roguelike生存体验“赴死之旅”等游戏模式以及更多其他内容，探索艾莉和埃比的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2531310/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-seller-3669870",
           "name": "控制: 共振",
           "developer": "Steam 精选厂商",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/d2c7e4d021ce81d9712ce7983efa9327fe29fece/capsule_616x353.jpg?t=1790259464",
           "primaryGenre": "热门大作",
-          "description": "【当前Steam实时在线人数】：26,955 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：28,760 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -77,25 +96,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/3669870/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-seller-80339",
-          "name": "全面战争：战锤3 - 终焉之主",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/80339/g469rsus07j7wxt6/fe3d86924dda4b220e6c585fa69171b0b987e310/capsule_616x353.jpg?t=1787135370",
-          "primaryGenre": "热门大作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/80339/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "Steam 精选厂商",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg?t=1759530749",
           "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥90.00，当前促销现价仅需 ¥9.00！\n\n【当前Steam实时在线人数】：1,872 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -90%】原价 ¥90.00，当前促销现价仅需 ¥9.00！\n\n【当前Steam实时在线人数】：5,593 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥81.00",
           "reviews": [
             {
@@ -128,7 +128,7 @@
           "developer": "Naughty Dog LLC",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1750959180",
           "primaryGenre": "折扣 -33%",
-          "description": "【实时特惠折扣 -33%】原价 ¥345.00，当前促销现价仅需 ¥231.15！\n\n【当前Steam实时在线人数】：1,462 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验这个荣获超过300项年度最佳游戏奖项肯定的作品，现已登陆PC。通过强化的图形效果、Roguelike生存体验“赴死之旅”等游戏模式以及更多其他内容，探索艾莉和埃比的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -33%】原价 ¥345.00，当前促销现价仅需 ¥231.15！\n\n【当前Steam实时在线人数】：2,277 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验这个荣获超过300项年度最佳游戏奖项肯定的作品，现已登陆PC。通过强化的图形效果、Roguelike生存体验“赴死之旅”等游戏模式以及更多其他内容，探索艾莉和埃比的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥113.85",
           "reviews": [
             {
@@ -142,31 +142,12 @@
         },
         {
           "rank": 3,
-          "appId": "steam-sale-246420",
-          "name": "[特惠] Kingdom Rush  - Tower Defense",
-          "developer": "Ironhide Game Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246420/e4de306b1477293344342ba8d0e8491559034c9d/capsule_616x353.jpg?t=1790283781",
-          "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥37.00，当前促销现价仅需 ¥3.70！\n\n【当前Steam实时在线人数】：2,780 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n准备踏上一段史诗之旅，运筹各种防御塔和法术，保卫自己的王国抵御兽人、巨魔、邪恶巫师及其他卑鄙的恶魔！在森林、山脉和荒原与敌交战，以不同防御塔升级和特技，定制你的防御策略！ 对敌人降下火雨，召唤援军，指挥部队，召募精灵战士，正面对抗传奇怪物，完成保护王国，抵御黑暗势力的使命！游戏特色： 让你输小数置身于史诗防御战之中! 高清真人秀卡通艺术。 升级8个专业的防御塔伊自定义你的策略！ 强大的野蛮人、奥术巫师、森林游侠，不一而足。 超过 18 种防御塔技能！ 让你的魔法师召唤元素，将敌人变形！ 包括哥布林、恶魔在内的超过61种不同的敌人，每个都有自己的专属技能！（小心山巨魔！） 防御游戏不会上演激烈的头目战！ 13位英雄：选择你的战士统领你的部队取得胜利！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥33.30",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/246420/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
           "appId": "steam-sale-2161700",
           "name": "[特惠] 女神异闻录３ Reload",
           "developer": "Steam 精选厂商",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_616x353.jpg?t=1764776430",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥268.00，当前促销现价仅需 ¥80.40！\n\n【当前Steam实时在线人数】：3,996 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥268.00，当前促销现价仅需 ¥80.40！\n\n【当前Steam实时在线人数】：5,681 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥187.60",
           "reviews": [
             {
@@ -179,14 +160,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 5,
-          "appId": "steam-sale-94174",
-          "name": "[特惠] DARK SOULS III Deluxe Edition",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
-          "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥398.00，当前促销现价仅需 ¥199.00！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥199.00",
+          "rank": 4,
+          "appId": "steam-sale-1687950",
+          "name": "[特惠] 女神异闻录5皇家版",
+          "developer": "ATLUS",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/9c915e996cc52869f7d092ea5006aba34defc2a6/capsule_616x353_schinese.jpg?t=1783356822",
+          "primaryGenre": "折扣 -70%",
+          "description": "【实时特惠折扣 -70%】原价 ¥268.00，当前促销现价仅需 ¥80.40！\n\n【当前Steam实时在线人数】：7,669 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n夺取吧，用那个意志。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥187.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +175,26 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/94174/",
+          "appStoreUrl": "https://store.steampowered.com/app/1687950/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-sale-1145350",
+          "name": "[特惠] Hades II",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/65e1c51cf2950d70209d63e288d1c5ba3f86044b/capsule_616x353.jpg?t=1779901265",
+          "primaryGenre": "折扣 -30%",
+          "description": "【实时特惠折扣 -30%】原价 ¥108.00，当前促销现价仅需 ¥75.60！\n\n【当前Steam实时在线人数】：3,556 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥32.40",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1145350/",
           "isFreeToKeep": false
         }
       ]
@@ -280,24 +280,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-2",
-          "name": "[独立] Eat not, Want not [Free] [Survival]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nYou&#039;re allergic but so hungry... can you really trust this guy?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://sitrex.itch.io/eat-not-want-not"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-3",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -312,6 +294,24 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-3",
+          "name": "[独立] Eat not, Want not [Free] [Survival]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nYou&#039;re allergic but so hungry... can you really trust this guy?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://sitrex.itch.io/eat-not-want-not"
         },
         {
           "rank": "热门精选",
