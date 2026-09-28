@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-09-27T04:14:35.934Z",
+  "updateTime": "2026-09-28T04:15:54.469Z",
   "regions": {
     "steam": {
       "games": [
@@ -7,10 +7,10 @@
           "rank": 1,
           "appId": "steam-seller-4080220",
           "name": "EA SPORTS FC™ 27",
-          "developer": "Steam 精选厂商",
+          "developer": "EA CANADA",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/d3e9a412983e68c39b5751a5fc9480129ce745b3/capsule_616x353.jpg?t=1790357926",
-          "primaryGenre": "热门大作",
-          "description": "【当前Steam实时在线人数】：35,772 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "primaryGenre": "模拟",
+          "description": "【当前Steam实时在线人数】：25,402 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -24,25 +24,6 @@
         },
         {
           "rank": 2,
-          "appId": "steam-seller-1057090",
-          "name": "Ori and the Will of the Wisps",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg?t=1759530749",
-          "primaryGenre": "热门大作",
-          "description": "【当前Steam实时在线人数】：7,863 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1057090/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
           "appId": "steam-seller-4165690",
           "name": "House in a Meadow VR",
           "developer": "Sergheo Zakh",
@@ -61,13 +42,32 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 3,
+          "appId": "steam-seller-1057090",
+          "name": "Ori and the Will of the Wisps",
+          "developer": "Moon Studios GmbH",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg?t=1759530749",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：6,109 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在充满异域风情的广大世界中开启全新旅程，征服强大的敌人，解开极具挑战性的难题，在一次次任务中，揭开奥里的命运。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1057090/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 4,
           "appId": "steam-seller-4259190",
           "name": "王国保卫战 6：新启程",
           "developer": "Ironhide Game Studio",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/f9ea339a82ef42b74e44c85cbbafa7c0868baac8/capsule_616x353.jpg?t=1790279936",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：9,880 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《王国保卫战 6：新启程》是一款策略奇幻塔防游戏，将带您穿越时间回到更早些以前的王国，并同时带来大胆的革新。建造防御塔、号令手下的多名英雄……阻止曾经的&quot;卫兹南&quot;踏上魔道，改变魔王到来，为王国带来浩劫的命运吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：7,006 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《王国保卫战 6：新启程》是一款策略奇幻塔防游戏，将带您穿越时间回到更早些以前的王国，并同时带来大胆的革新。建造防御塔、号令手下的多名英雄……阻止曾经的&quot;卫兹南&quot;踏上魔道，改变魔王到来，为王国带来浩劫的命运吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -81,12 +81,12 @@
         },
         {
           "rank": 5,
-          "appId": "steam-seller-2531310",
-          "name": "The Last of Us™ Part II Remastered",
-          "developer": "Naughty Dog LLC",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1750959180",
+          "appId": "steam-seller-2288340",
+          "name": "空战奇兵8 希孚之翼 (ACE COMBAT 8: WINGS OF THEVE)",
+          "developer": "Bandai Namco Aces Inc.",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/3bd993fa9f94ebd60c1b05dd61a4315cde829830/capsule_616x353.jpg?t=1790223855",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：2,936 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验这个荣获超过300项年度最佳游戏奖项肯定的作品，现已登陆PC。通过强化的图形效果、Roguelike生存体验“赴死之旅”等游戏模式以及更多其他内容，探索艾莉和埃比的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2531310/",
+          "appStoreUrl": "https://store.steampowered.com/app/2288340/",
           "isFreeToKeep": false
         }
       ]
@@ -106,10 +106,10 @@
           "rank": 1,
           "appId": "steam-sale-1057090",
           "name": "[特惠] Ori and the Will of the Wisps",
-          "developer": "Steam 精选厂商",
+          "developer": "Moon Studios GmbH",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg?t=1759530749",
           "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥90.00，当前促销现价仅需 ¥9.00！\n\n【当前Steam实时在线人数】：7,863 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -90%】原价 ¥90.00，当前促销现价仅需 ¥9.00！\n\n【当前Steam实时在线人数】：6,109 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在充满异域风情的广大世界中开启全新旅程，征服强大的敌人，解开极具挑战性的难题，在一次次任务中，揭开奥里的命运。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥81.00",
           "reviews": [
             {
@@ -123,31 +123,12 @@
         },
         {
           "rank": 2,
-          "appId": "steam-sale-2531310",
-          "name": "[特惠] The Last of Us™ Part II Remastered",
-          "developer": "Naughty Dog LLC",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1750959180",
-          "primaryGenre": "折扣 -33%",
-          "description": "【实时特惠折扣 -33%】原价 ¥345.00，当前促销现价仅需 ¥231.15！\n\n【当前Steam实时在线人数】：2,936 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验这个荣获超过300项年度最佳游戏奖项肯定的作品，现已登陆PC。通过强化的图形效果、Roguelike生存体验“赴死之旅”等游戏模式以及更多其他内容，探索艾莉和埃比的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥113.85",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2531310/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
           "appId": "steam-sale-4019220",
           "name": "[特惠] 针影裁梦",
           "developer": "Cozy Lives",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/a9333580930faa58b00342f99ab4a7ce971b4256/capsule_616x353_schinese.jpg?t=1790176022",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/a9333580930faa58b00342f99ab4a7ce971b4256/capsule_616x353_schinese.jpg?t=1790484978",
           "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥59.00，当前促销现价仅需 ¥53.10！\n\n【当前Steam实时在线人数】：24,589 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -10%】原价 ¥59.00，当前促销现价仅需 ¥53.10！\n\n【当前Steam实时在线人数】：25,195 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥5.90",
           "reviews": [
             {
@@ -160,13 +141,32 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 3,
+          "appId": "steam-sale-2531310",
+          "name": "[特惠] The Last of Us™ Part II Remastered",
+          "developer": "Naughty Dog LLC",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1750959180",
+          "primaryGenre": "折扣 -33%",
+          "description": "【实时特惠折扣 -33%】原价 ¥345.00，当前促销现价仅需 ¥231.15！\n\n【当前Steam实时在线人数】：2,358 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验这个荣获超过300项年度最佳游戏奖项肯定的作品，现已登陆PC。通过强化的图形效果、Roguelike生存体验“赴死之旅”等游戏模式以及更多其他内容，探索艾莉和埃比的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥113.85",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2531310/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 4,
           "appId": "steam-sale-2001120",
           "name": "[特惠] 双影奇境",
-          "developer": "Steam 精选厂商",
+          "developer": "Hazelight Studios",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/5a3209f496e911ff2fa6dccd58c682c89632d09b/capsule_616x353.jpg?t=1763484567",
           "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：3,670 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -35%】原价 ¥198.00，当前促销现价仅需 ¥128.70！\n\n【当前Steam实时在线人数】：1,997 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深入《双影奇境》的多重世界，体验惊心动魄的时刻，完成突破边界的合作冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥69.30",
           "reviews": [
             {
@@ -180,13 +180,13 @@
         },
         {
           "rank": 5,
-          "appId": "steam-sale-2161700",
-          "name": "[特惠] 女神异闻录３ Reload",
-          "developer": "Steam 精选厂商",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/capsule_616x353.jpg?t=1764776430",
+          "appId": "steam-sale-1426210",
+          "name": "[特惠] 双人成行",
+          "developer": "Hazelight Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_616x353.jpg?t=1777395376",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥268.00，当前促销现价仅需 ¥80.40！\n\n【当前Steam实时在线人数】：6,833 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥187.60",
+          "description": "【实时特惠折扣 -70%】原价 ¥198.00，当前促销现价仅需 ¥59.40！\n\n【当前Steam实时在线人数】：3,092 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥138.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2161700/",
+          "appStoreUrl": "https://store.steampowered.com/app/1426210/",
           "isFreeToKeep": false
         }
       ]
@@ -262,11 +262,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
-          "name": "[独立] THRORBS [Free] [Action]",
+          "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\na game about having a little bit, but not too much\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nSay your PRAYERS!... a VHS era, low poly slasher (ps1 style survival horror)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -275,29 +275,11 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://managore.itch.io/throrbs"
+          "appStoreUrl": "https://puppetcombo.itch.io/nun-massacre"
         },
         {
           "rank": "热门精选",
           "appId": "itch-featured-2",
-          "name": "[独立] JOAN OF ARC - DEUS CONTRA MACHINAM (C64) [$4.99] [Action]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA new action-adventure for the C64 from the creators of SHERWOOD!\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://psytronik.itch.io/joa"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-3",
           "name": "[独立] Friday Night Funkin&#039; [Free] [Rhythm] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -315,7 +297,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-4",
+          "appId": "itch-featured-3",
           "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -330,6 +312,24 @@
             }
           ],
           "appStoreUrl": "https://anuke.itch.io/mindustry"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
+          "name": "[独立] THRORBS [Free] [Action]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\na game about having a little bit, but not too much\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://managore.itch.io/throrbs"
         }
       ]
     }
