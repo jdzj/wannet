@@ -1,16 +1,35 @@
 {
-  "updateTime": "2026-10-02T04:35:40.543Z",
+  "updateTime": "2026-10-03T04:18:18.247Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
+          "appId": "steam-seller-1304930",
+          "name": "The Outlast Trials",
+          "developer": "Red Barrels",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/4aaf4d66ab40042a48a69cc8c96c142efc35aa57/capsule_616x353_alt_assets_3.jpg?t=1784123708",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：20,478 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRed Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1304930/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-seller-1091500",
           "name": "赛博朋克 2077",
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
           "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：24,072 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：31,881 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -23,32 +42,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
-          "appId": "steam-seller-413150",
-          "name": "Stardew Valley",
-          "developer": "ConcernedApe",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg?t=1786554168",
-          "primaryGenre": "独立",
-          "description": "【当前Steam实时在线人数】：42,785 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n你继承了你爷爷在星露谷留下的老旧农场。带着爷爷留下的残旧工具和几枚硬币开始了你的新生活。你能适应这小镇上的生活并且将这个杂草丛生的老旧农场变成一个繁荣的家吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/413150/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 3,
-          "appId": "steam-seller-32470",
-          "name": "《赛博朋克 2077：终极版》",
-          "developer": "Petroglyph",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/c015195727f22e3462e98747d750772ef0512f8c/capsule_616x353_schinese.jpg?t=1746520128",
-          "primaryGenre": "策略",
-          "description": "【当前Steam实时在线人数】：1,088 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nCommand or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-4001890",
+          "name": "渔力全开",
+          "developer": "Dazed Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/c5ccd85d2910a21019adb2581011ac186741d030/capsule_616x353.jpg?t=1788788717",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：31,560 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -57,7 +57,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/32470/",
+          "appStoreUrl": "https://store.steampowered.com/app/4001890/",
           "isFreeToKeep": false
         },
         {
@@ -67,7 +67,7 @@
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：35,947 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：41,444 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -86,7 +86,7 @@
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：35,947 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：41,444 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -104,31 +104,12 @@
       "games": [
         {
           "rank": 1,
-          "appId": "steam-sale-1091500",
-          "name": "[特惠] 赛博朋克 2077",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
-          "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：24,072 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥208.60",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
           "appId": "steam-sale-1304930",
           "name": "[特惠] The Outlast Trials",
           "developer": "Red Barrels",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/4aaf4d66ab40042a48a69cc8c96c142efc35aa57/capsule_616x353_alt_assets_3.jpg?t=1784123708",
           "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥136.00，当前促销现价仅需 ¥13.60！\n\n【当前Steam实时在线人数】：8,451 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRed Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -90%】原价 ¥136.00，当前促销现价仅需 ¥13.60！\n\n【当前Steam实时在线人数】：20,478 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRed Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥122.40",
           "reviews": [
             {
@@ -141,13 +122,32 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 2,
+          "appId": "steam-sale-1091500",
+          "name": "[特惠] 赛博朋克 2077",
+          "developer": "CD PROJEKT RED",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
+          "primaryGenre": "折扣 -70%",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：31,881 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥208.60",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 3,
           "appId": "steam-sale-1174180",
           "name": "[特惠] Red Dead Redemption 2",
           "developer": "Rockstar Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：21,219 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：26,438 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥209.25",
           "reviews": [
             {
@@ -166,7 +166,7 @@
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：35,947 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：41,444 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥74.50",
           "reviews": [
             {
@@ -180,13 +180,13 @@
         },
         {
           "rank": 5,
-          "appId": "steam-sale-3240220",
-          "name": "[特惠] Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
-          "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：35,947 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥74.50",
+          "appId": "steam-sale-4001890",
+          "name": "[特惠] 渔力全开",
+          "developer": "Dazed Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/c5ccd85d2910a21019adb2581011ac186741d030/capsule_616x353.jpg?t=1788788717",
+          "primaryGenre": "折扣 -38%",
+          "description": "【实时特惠折扣 -38%】原价 ¥33.00，当前促销现价仅需 ¥20.46！\n\n【当前Steam实时在线人数】：31,560 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥12.54",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
+          "appStoreUrl": "https://store.steampowered.com/app/4001890/",
           "isFreeToKeep": false
         }
       ]
@@ -244,6 +244,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-0",
+          "name": "[独立] The Annual Ghost Town Pumpkin Festival [Free] [Simulation] [Windows] [macOS] [Linux]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\ncarve a lil pumpkin and share it with the world\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://adamgryu.itch.io/pumpkin-carver"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-1",
           "name": "[独立] Spaghetti Celesti: Devour the Heavens [Free] [Puzzle] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -261,7 +279,7 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-1",
+          "appId": "itch-featured-2",
           "name": "[独立] Future? No Thanks! [$15.60] [Adventure] [Windows] [macOS]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -276,24 +294,6 @@
             }
           ],
           "appStoreUrl": "https://molleindustria.itch.io/future-no-thanks"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-2",
-          "name": "[独立] The Annual Ghost Town Pumpkin Festival [Free] [Simulation] [Windows] [macOS] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\ncarve a lil pumpkin and share it with the world\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://adamgryu.itch.io/pumpkin-carver"
         },
         {
           "rank": "热门精选",
