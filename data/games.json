@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-10-10T04:51:25.715Z",
+  "updateTime": "2026-10-11T04:37:56.669Z",
   "regions": {
     "steam": {
       "games": [
@@ -81,12 +81,12 @@
         },
         {
           "rank": 5,
-          "appId": "steam-seller-499170",
-          "name": "沉星之序",
-          "developer": "Thekla, Inc.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/60f77d8342c8537615942c7598eedf88c44ae021/capsule_616x353_schinese.jpg?t=1791571622",
-          "primaryGenre": "冒险",
-          "description": "【当前Steam实时在线人数】：4,459 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由《时空幻境》《见证者》的作者 “吹哥” Jonathan Blow（乔纳森·布洛）打造的全新叙事冒险游戏，《沉星之序》将带你踏入一个魔法与谜团交织的世界。破解超过 1000 个精心设计、相互关联的谜题，邂逅独特的可操控英雄，掌握不断演变的玩法机制，最终揭开一场宏大的谜局。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-2593290",
+          "name": "Dragon's Dogma 2: Dark Arisen Expansion",
+          "developer": "CAPCOM Co., Ltd.",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2593290/32c0344788eaed60230633db5fcf9ee4c9132ad9/capsule_616x353.jpg?t=1791505231",
+          "primaryGenre": "动作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《Dragon's Dogma 2: Dark Arisen Expansion》是《Dragon's Dogma 2》的扩充内容，增加了全新剧情与体验。玩家可在正统的奇幻世界中享受自由冒险的乐趣。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/499170/",
+          "appStoreUrl": "https://store.steampowered.com/app/2593290/",
           "isFreeToKeep": false
         }
       ]
@@ -104,31 +104,12 @@
       "games": [
         {
           "rank": 1,
-          "appId": "steam-sale-3240220",
-          "name": "[特惠] Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
-          "primaryGenre": "折扣 -56%",
-          "description": "【实时特惠折扣 -56%】原价 ¥224.00，当前促销现价仅需 ¥98.56！\n\n【当前Steam实时在线人数】：40,635 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥125.44",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
           "appId": "steam-sale-1174180",
           "name": "[特惠] Red Dead Redemption 2",
           "developer": "Rockstar Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：26,867 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：32,829 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥209.25",
           "reviews": [
             {
@@ -141,14 +122,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
-          "appId": "steam-sale-4656000",
-          "name": "[特惠] BOMBANANA!",
-          "developer": "Lefto Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/5c8c9fb42a56e6fd25f2877053158fd207ffb028/capsule_616x353.jpg?t=1791542068",
-          "primaryGenre": "折扣 -40%",
-          "description": "【实时特惠折扣 -40%】原价 ¥29.00，当前促销现价仅需 ¥17.40！\n\n【当前Steam实时在线人数】：3,785 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥11.60",
+          "rank": 2,
+          "appId": "steam-sale-3240220",
+          "name": "[特惠] Grand Theft Auto V 增强版",
+          "developer": "Rockstar North",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
+          "primaryGenre": "折扣 -56%",
+          "description": "【实时特惠折扣 -56%】原价 ¥224.00，当前促销现价仅需 ¥98.56！\n\n【当前Steam实时在线人数】：47,217 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥125.44",
           "reviews": [
             {
               "author": "价格风向标",
@@ -156,17 +137,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4656000/",
+          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
+          "rank": 3,
           "appId": "steam-sale-1478500",
           "name": "[特惠] Big Walk",
           "developer": "House House",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
           "primaryGenre": "折扣 -20%",
-          "description": "【实时特惠折扣 -20%】原价 ¥78.00，当前促销现价仅需 ¥62.40！\n\n【当前Steam实时在线人数】：5,391 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -20%】原价 ¥78.00，当前促销现价仅需 ¥62.40！\n\n【当前Steam实时在线人数】：6,216 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥15.60",
           "reviews": [
             {
@@ -179,14 +160,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 5,
-          "appId": "steam-sale-2254990",
-          "name": "[特惠] 永冻纪元 - Permafrost",
-          "developer": "SpaceRocket Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/322d6c88c579a5ebad51c3dba9d1255b9ec3399a/capsule_616x353.jpg?t=1791551921",
-          "primaryGenre": "折扣 -20%",
-          "description": "【实时特惠折扣 -20%】原价 ¥119.00，当前促销现价仅需 ¥95.20！\n\n【当前Steam实时在线人数】：2,688 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《永冻纪元》是一款以剧情驱动的生存沙盒游戏，背景设定在一个被冰封的末日世界。你可以独自一人，或与最多3名玩家一同合作，探索一个充满故事与背景的开放世界。探索、搜集、制作，并建立属于你的避难所，在严寒中生存下去。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥23.80",
+          "rank": 4,
+          "appId": "steam-sale-105600",
+          "name": "[特惠] Terraria",
+          "developer": "Re-Logic",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/capsule_616x353.jpg?t=1769844435",
+          "primaryGenre": "折扣 -50%",
+          "description": "【实时特惠折扣 -50%】原价 ¥42.00，当前促销现价仅需 ¥21.00！\n\n【当前Steam实时在线人数】：38,118 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。四人包依然可用！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥21.00",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +175,26 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2254990/",
+          "appStoreUrl": "https://store.steampowered.com/app/105600/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-sale-4656000",
+          "name": "[特惠] BOMBANANA!",
+          "developer": "Lefto Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/5c8c9fb42a56e6fd25f2877053158fd207ffb028/capsule_616x353.jpg?t=1791542068",
+          "primaryGenre": "折扣 -40%",
+          "description": "【实时特惠折扣 -40%】原价 ¥29.00，当前促销现价仅需 ¥17.40！\n\n【当前Steam实时在线人数】：4,463 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥11.60",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4656000/",
           "isFreeToKeep": false
         }
       ]
