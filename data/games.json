@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-10-13T05:55:15.837Z",
+  "updateTime": "2026-10-14T03:58:15.109Z",
   "regions": {
     "steam": {
       "games": [
@@ -62,12 +62,12 @@
         },
         {
           "rank": 4,
-          "appId": "steam-seller-3219030",
-          "name": "《动物园之星 2》",
-          "developer": "Frontier Developments",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/2c92fee45294879ffcdfca65ccbc771095f9c46b/capsule_616x353_schinese.jpg?t=1791804561",
-          "primaryGenre": "模拟",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-3846830",
+          "name": "《全面战争：幕府将军2》完全版",
+          "developer": "Creative Assembly",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3846830/9b5a02f97947c4fc7d8b0d5f8f1a28d32bb34d2d/capsule_616x353.jpg?t=1791903651",
+          "primaryGenre": "策略",
+          "description": "【当前Steam实时在线人数】：3,213 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《全面战争：幕府将军2》强化更新完全版中统一日本，成为将军。回合制征服与大型实时策略战斗无缝结合，玩家可建立同盟，破袭敌军，并以智慧击败敌方氏族。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -76,17 +76,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3219030/",
+          "appStoreUrl": "https://store.steampowered.com/app/3846830/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-seller-4435490",
-          "name": "使命召唤®：现代战争® 4",
-          "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/a54392abd35df1b50ffd53e8ea05844a327af856/capsule_616x353_alt_assets_5_schinese.jpg?t=1791824484",
+          "appId": "steam-seller-3299050",
+          "name": "查无此地",
+          "developer": "ChillyRoom",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299050/fed4d2b053e2a4b89a23e352461f0e942d245eac/capsule_616x353_schinese.jpg?t=1791946326",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：1,570 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《查无此地》是一款俯视角射击撤离游戏。作为超自然异常调查组织U.R.C.的成员，你被派往破碎的维度碎片执行勘察任务。在充满未知威胁的环境中生存，搜集物资与线索，并在限定时间内找到撤离点返回安全屋。透过搜集到的各类物资信息，将被全人类遗忘的真相重新带回这个世界...\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
+          "appStoreUrl": "https://store.steampowered.com/app/3299050/",
           "isFreeToKeep": false
         }
       ]
@@ -104,12 +104,31 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-1091500",
+          "name": "[特惠] 赛博朋克 2077",
+          "developer": "CD PROJEKT RED",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
+          "primaryGenre": "折扣 -70%",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：25,967 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥208.60",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-sale-1174180",
           "name": "[特惠] Red Dead Redemption 2",
           "developer": "Rockstar Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：21,106 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：21,893 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥209.25",
           "reviews": [
             {
@@ -122,33 +141,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
-          "appId": "steam-sale-1478500",
-          "name": "[特惠] Big Walk",
-          "developer": "House House",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/fdcb59d7679058d65e9d5200ef696ffa6070c9a2/capsule_616x353.jpg?t=1785911674",
-          "primaryGenre": "折扣 -20%",
-          "description": "【实时特惠折扣 -20%】原价 ¥78.00，当前促销现价仅需 ¥62.40！\n\n【当前Steam实时在线人数】：2,248 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥15.60",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1478500/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 3,
-          "appId": "steam-sale-3240220",
-          "name": "[特惠] Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
-          "primaryGenre": "折扣 -56%",
-          "description": "【实时特惠折扣 -56%】原价 ¥224.00，当前促销现价仅需 ¥98.56！\n\n【当前Steam实时在线人数】：30,879 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥125.44",
+          "appId": "steam-sale-2138330",
+          "name": "[特惠] 《赛博朋克 2077：往日之影》",
+          "developer": "CD PROJEKT RED",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/db88128180c02332b94460c74354a5d807267c49/capsule_616x353_schinese.jpg?t=1784713876",
+          "primaryGenre": "折扣 -40%",
+          "description": "【实时特惠折扣 -40%】原价 ¥149.00，当前促销现价仅需 ¥89.40！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《往日之影》是开放世界动作冒险角色扮演游戏《赛博朋克 2077》的全新谍战悬疑风格资料片。玩家扮演经过义体强化的雇佣兵 V，和秘密特工所罗门·李德一起，共同解开一片由忠诚、背叛，以及险恶政治阴谋交织而成的罗网。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥59.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -156,18 +156,18 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
+          "appStoreUrl": "https://store.steampowered.com/app/2138330/",
           "isFreeToKeep": false
         },
         {
           "rank": 4,
-          "appId": "steam-sale-105600",
-          "name": "[特惠] Terraria",
-          "developer": "Re-Logic",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/capsule_616x353.jpg?t=1769844435",
-          "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥42.00，当前促销现价仅需 ¥21.00！\n\n【当前Steam实时在线人数】：24,588 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n挖掘，战斗，探索，建造！在这个动感十足的冒险游戏里没有什么是不可能的。四人包依然可用！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥21.00",
+          "appId": "steam-sale-199943",
+          "name": "[特惠] Fallout 4: Game of the Year Edition",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/199943/capsule_616x353.jpg?t=1510163765",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥209.00，当前促销现价仅需 ¥52.25！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥156.75",
           "reviews": [
             {
               "author": "价格风向标",
@@ -175,18 +175,18 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/105600/",
+          "appStoreUrl": "https://store.steampowered.com/app/199943/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-sale-1364780",
-          "name": "[特惠] Street Fighter 6",
-          "developer": "CAPCOM Co., Ltd.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/d341042063cf09b36dba5c8070b18638d3a12fdb/capsule_616x353_alt_assets_20.jpg?t=1791866175",
-          "primaryGenre": "折扣 -60%",
-          "description": "【实时特惠折扣 -60%】原价 ¥198.00，当前促销现价仅需 ¥79.20！\n\n【当前Steam实时在线人数】：13,801 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n系列最新作《Street Fighter 6》将于2023年6月2日发售！ 本作以RE ENGINE开发，并由系列前所未有的大型模式“环球游历”、“斗技战场”以及“格斗中心”构成。新的“Street Fighter”和前所未有的全新体验正在等待着你的到来。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥118.80",
+          "appId": "steam-sale-376282",
+          "name": "[特惠] Halo: The Master Chief Collection",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/capsule_616x353.jpg?t=1684339836",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥269.00，当前促销现价仅需 ¥67.25！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥201.75",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1364780/",
+          "appStoreUrl": "https://store.steampowered.com/app/376282/",
           "isFreeToKeep": false
         }
       ]
@@ -262,6 +262,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
+          "name": "[独立] ROTETRA [Free] [Puzzle]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA twisted spin on a classic falling block puzzler\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://sharkwithlasers.itch.io/rotetra"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
           "name": "[独立] The Annual Ghost Town Pumpkin Festival [Free] [Simulation] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -276,24 +294,6 @@
             }
           ],
           "appStoreUrl": "https://adamgryu.itch.io/pumpkin-carver"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-2",
-          "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWill you write the way into her heart?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
         },
         {
           "rank": "热门精选",
@@ -316,11 +316,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
+          "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe automation tower defense game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWill you write the way into her heart?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://anuke.itch.io/mindustry"
+          "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
         }
       ]
     }
