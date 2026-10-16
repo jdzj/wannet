@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-10-15T03:40:12.387Z",
+  "updateTime": "2026-10-16T03:36:25.304Z",
   "regions": {
     "steam": {
       "games": [
@@ -8,7 +8,7 @@
           "appId": "steam-seller-4435490",
           "name": "使命召唤®：现代战争® 4",
           "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/a54392abd35df1b50ffd53e8ea05844a327af856/capsule_616x353_alt_assets_5_schinese.jpg?t=1791824484",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/a54392abd35df1b50ffd53e8ea05844a327af856/capsule_616x353_alt_assets_5_schinese.jpg?t=1792111318",
           "primaryGenre": "动作",
           "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
@@ -24,12 +24,12 @@
         },
         {
           "rank": 2,
-          "appId": "steam-seller-4115450",
-          "name": "影之刃零",
-          "developer": "S-GAME Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1787142639",
+          "appId": "steam-seller-4435490",
+          "name": "使命召唤®：现代战争® 4",
+          "developer": "Infinity Ward",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/a54392abd35df1b50ffd53e8ea05844a327af856/capsule_616x353_alt_assets_5_schinese.jpg?t=1792111318",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -38,7 +38,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4115450/",
+          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
           "isFreeToKeep": false
         },
         {
@@ -62,12 +62,12 @@
         },
         {
           "rank": 4,
-          "appId": "steam-seller-4435490",
-          "name": "使命召唤®：现代战争® 4",
-          "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/a54392abd35df1b50ffd53e8ea05844a327af856/capsule_616x353_alt_assets_5_schinese.jpg?t=1791824484",
+          "appId": "steam-seller-4115450",
+          "name": "影之刃零",
+          "developer": "S-GAME Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1787142639",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -76,17 +76,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
+          "appStoreUrl": "https://store.steampowered.com/app/4115450/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-seller-3240220",
-          "name": "Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：29,328 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-1091500",
+          "name": "赛博朋克 2077",
+          "developer": "CD PROJEKT RED",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
+          "primaryGenre": "角色扮演",
+          "description": "【当前Steam实时在线人数】：27,623 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
+          "appStoreUrl": "https://store.steampowered.com/app/1091500/",
           "isFreeToKeep": false
         }
       ]
@@ -104,31 +104,12 @@
       "games": [
         {
           "rank": 1,
-          "appId": "steam-sale-3240220",
-          "name": "[特惠] Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
-          "primaryGenre": "折扣 -56%",
-          "description": "【实时特惠折扣 -56%】原价 ¥224.00，当前促销现价仅需 ¥98.56！\n\n【当前Steam实时在线人数】：29,328 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥125.44",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
           "appId": "steam-sale-1091500",
           "name": "[特惠] 赛博朋克 2077",
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/35f6cb011ffac4df86e325596f0c2a4294dd1633/capsule_616x353_schinese.jpg?t=1784714077",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：26,972 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：27,623 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥208.60",
           "reviews": [
             {
@@ -141,13 +122,32 @@
           "isFreeToKeep": false
         },
         {
+          "rank": 2,
+          "appId": "steam-sale-3768760",
+          "name": "[特惠] 007 初露锋芒",
+          "developer": "IO Interactive A/S",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/05e217e3b52efb5d7eb4b1da81c96f18f6306952/capsule_616x353_alt_assets_4_schinese.jpg?t=1791886607",
+          "primaryGenre": "折扣 -40%",
+          "description": "【实时特惠折扣 -40%】原价 ¥298.00，当前促销现价仅需 ¥178.80！\n\n【当前Steam实时在线人数】：1,419 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n赢得编号。007 初露锋芒 是IO Interactive出品的惊险刺激的间谍动作冒险游戏。跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥119.20",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3768760/",
+          "isFreeToKeep": false
+        },
+        {
           "rank": 3,
           "appId": "steam-sale-2929250",
           "name": "[特惠] 越过山丘 over the hill",
           "developer": "Funselektor Labs Inc.",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/84d1cfabb777077588d9887eadb8e9433712fff3/capsule_616x353_schinese.jpg?t=1792002879",
           "primaryGenre": "折扣 -20%",
-          "description": "【实时特惠折扣 -20%】原价 ¥86.00，当前促销现价仅需 ¥68.80！\n\n【当前Steam实时在线人数】：7,786 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n梦回越野黄金年代，探索广袤无垠天地。驾驶 60 至 80 年代的经典四驱车型，穿越充满挑战的崎岖小径。无论独自出发还是好友同行，都能悠然驰骋，尽情欣赏一路的壮美风光。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -20%】原价 ¥86.00，当前促销现价仅需 ¥68.80！\n\n【当前Steam实时在线人数】：7,546 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n梦回越野黄金年代，探索广袤无垠天地。驾驶 60 至 80 年代的经典四驱车型，穿越充满挑战的崎岖小径。无论独自出发还是好友同行，都能悠然驰骋，尽情欣赏一路的壮美风光。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥17.20",
           "reviews": [
             {
@@ -161,12 +161,31 @@
         },
         {
           "rank": 4,
+          "appId": "steam-sale-1203620",
+          "name": "[特惠] 雾锁王国 (Enshrouded)",
+          "developer": "Keen Games GmbH",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/a8f53c82cb8ee725aeba714d65dce4b81f6ff2a6/capsule_616x353_alt_assets_2.jpg?t=1792078032",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥138.00，当前促销现价仅需 ¥124.20！\n\n【当前Steam实时在线人数】：37,276 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《雾锁王国》是一款单人/合作生存动作RPG，在这里，你的自由与创造力将被摆在第一位。竭尽全力战胜蚕食薪谷王国的腐化瘴气：探索手工打造的瑰丽世界，揭开隐藏的秘密并披荆斩棘开辟道路，在完全支持地形改造的世界中尽情建造。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥13.80",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1203620/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-sale-1174180",
           "name": "[特惠] Red Dead Redemption 2",
           "developer": "Rockstar Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_616x353.jpg?t=1759502961",
           "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：22,218 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -75%】原价 ¥279.00，当前促销现价仅需 ¥69.75！\n\n【当前Steam实时在线人数】：22,163 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n亚瑟·摩根和范德林德帮众是一群逃亡在外的亡命之徒。联邦侦探和赏金猎人在他们的身后穷追不舍，亚瑟一行人必须在广袤蛮荒的腹地上四处劫掠、挣扎求生。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥209.25",
           "reviews": [
             {
@@ -177,25 +196,6 @@
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1174180/",
           "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-2138330",
-          "name": "[特惠] 《赛博朋克 2077：往日之影》",
-          "developer": "CD PROJEKT RED",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/db88128180c02332b94460c74354a5d807267c49/capsule_616x353_schinese.jpg?t=1784713876",
-          "primaryGenre": "折扣 -40%",
-          "description": "【实时特惠折扣 -40%】原价 ¥149.00，当前促销现价仅需 ¥89.40！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《往日之影》是开放世界动作冒险角色扮演游戏《赛博朋克 2077》的全新谍战悬疑风格资料片。玩家扮演经过义体强化的雇佣兵 V，和秘密特工所罗门·李德一起，共同解开一片由忠诚、背叛，以及险恶政治阴谋交织而成的罗网。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥59.60",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2138330/",
-          "isFreeToKeep": false
         }
       ]
     },
@@ -203,12 +203,12 @@
       "games": [
         {
           "rank": "Epic 限免",
-          "appId": "epic-cb733f3432db46bca94965b422c33ede",
-          "name": "[Epic] 虎视眈眈 (Out of Sight)",
-          "developer": "The Gang Studio AB",
-          "icon": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+          "appId": "epic-6a846880836044a2adad614ac771f487",
+          "name": "[Epic] Bad Cheese",
+          "developer": "FEARDEMIC sp. z o.o.",
+          "icon": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
           "primaryGenre": "正版限时免费",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《熊视眈眈》是一款将第一人称和第二人称视角相融合的氛围恐怖游戏，拥有引人入胜的配音，给你带来沉浸式的惊悚情感之旅。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nBad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. \nStep into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. \nBe on your best behavior and KEEP DADDY HAPPY.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "0元入库",
           "reviews": [
             {
@@ -217,16 +217,16 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/out-of-sight-b96ca8"
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/bad-cheese-4256d9"
         },
         {
           "rank": "Epic 限免",
-          "appId": "epic-af6b823b8698465f9aedc3bddf2e8686",
-          "name": "[Epic] TerraScape",
-          "developer": "Bitfall Studios GmbH",
-          "icon": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+          "appId": "epic-db1202a30c5541dd99cdf54c918a9348",
+          "name": "[Epic] Agent A - 伪装游戏",
+          "developer": "Yak & Co",
+          "icon": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
           "primaryGenre": "正版限时免费",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在这款温馨惬意的中世纪城市建造解谜游戏中，通过合理布局建筑，在浮空岛屿上打造壮丽王国。发现隐藏组合，挑战每周任务，并在多种单人和多人游戏模式中探索随机生成的地图。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n逃脱游戏 密室 谋杀游戏 找物品 密室逃脱游戏 找物品冒险游戏 escape room games 间谍 冒险 解谜 债券 秘密 代理 红宝石 神秘\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "0元入库",
           "reviews": [
             {
@@ -235,7 +235,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/terrascape-2b12b1"
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/agent-a-a-puzzle-in-disguise-42fe5f"
         }
       ]
     },
@@ -244,42 +244,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-0",
-          "name": "[独立] Mr Magpie&#039;s Harmless Card Game [Free] [Card Game] [Windows]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nGreed is Good.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://giantlight.itch.io/mr-magpies-harmless-card-game"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-1",
-          "name": "[独立] ROTETRA [Free] [Puzzle]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA twisted spin on a classic falling block puzzler\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://sharkwithlasers.itch.io/rotetra"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-2",
           "name": "[独立] The Annual Ghost Town Pumpkin Festival [Free] [Simulation] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -297,7 +261,61 @@
         },
         {
           "rank": "热门精选",
+          "appId": "itch-featured-1",
+          "name": "[独立] Ambermoon.net [Free] [Role Playing] [Windows] [macOS] [Linux] [Android]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRemake of the Amiga RPG classic Ambermoon\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://pyrdacor.itch.io/ambermoon"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
+          "name": "[独立] Mr Magpie&#039;s Harmless Card Game [Free] [Card Game] [Windows]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nGreed is Good.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://giantlight.itch.io/mr-magpies-harmless-card-game"
+        },
+        {
+          "rank": "热门精选",
           "appId": "itch-featured-3",
+          "name": "[独立] ROTETRA [Free] [Puzzle]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA twisted spin on a classic falling block puzzler\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://sharkwithlasers.itch.io/rotetra"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -312,24 +330,6 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
-          "name": "[独立] Mops &amp; Mobs: A Sweeping Dungeon Adventure [Free] [Adventure] [Windows] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nYou&#039;re the new janitor in a badly managed dungeon full of loveable monsters\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://ratking.itch.io/mops-and-mobs"
         }
       ]
     }
