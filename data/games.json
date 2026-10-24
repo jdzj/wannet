@@ -1,16 +1,16 @@
 {
-  "updateTime": "2026-10-23T03:48:28.977Z",
+  "updateTime": "2026-10-24T03:42:57.359Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
           "appId": "steam-seller-4435490",
-          "name": "使命召唤®：现代战争® 4",
+          "name": "Call of Duty®: Modern Warfare® 4",
           "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/f64aad14ff121708bf5f704da0633ddf91f9a4fc/capsule_616x353_alt_assets_7_schinese.jpg?t=1792523954",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/b0d8626c2769a8ffb56a3b72822e1a276d92467e/capsule_616x353_alt_assets_1_schinese.jpg?t=1792806931",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：1 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -62,31 +62,12 @@
         },
         {
           "rank": 4,
-          "appId": "steam-seller-4435490",
-          "name": "使命召唤®：现代战争® 4",
-          "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/f64aad14ff121708bf5f704da0633ddf91f9a4fc/capsule_616x353_alt_assets_7_schinese.jpg?t=1792523954",
-          "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
           "appId": "steam-seller-3259780",
           "name": "FINAL FANTASY RESONANCE",
           "developer": "Square Enix",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/6591a4998a16491b6a7f1d3ad2b948f3da15b52e/capsule_616x353.jpg?t=1792685446",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/6591a4998a16491b6a7f1d3ad2b948f3da15b52e/capsule_616x353.jpg?t=1792758611",
           "primaryGenre": "角色扮演",
-          "description": "【当前Steam实时在线人数】：18,987 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n如果“FINAL FANTASY”一直以像素风格持续进化…… 本作是以此为概念，并以崭新像素风格描绘的“FINAL FANTASY”系列最新作品。 除了围绕“水晶”展开的故事，以及回合制指令战斗与能力更换等系列经典要素外，亦收录了丰富多样的反复游玩内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：26,536 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n如果“FINAL FANTASY”一直以像素风格持续进化…… 本作是以此为概念，并以崭新像素风格描绘的“FINAL FANTASY”系列最新作品。 除了围绕“水晶”展开的故事，以及回合制指令战斗与能力更换等系列经典要素外，亦收录了丰富多样的反复游玩内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -96,6 +77,25 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/3259780/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-seller-2537590",
+          "name": "Microsoft Flight Simulator 2024",
+          "developer": "Asobo Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537590/8fa176d72210f43c71d50f4c8ffca70a4f171e62/capsule_616x353.jpg?t=1791557822",
+          "primaryGenre": "模拟",
+          "description": "【当前Steam实时在线人数】：4,452 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《Microsoft Flight Simulator 2024》中，驾驶我们庞大的机队探索世界，将模拟体验提升至全新高度，开启你的飞行生涯。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2537590/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "CD PROJEKT RED",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/138b5c77ad796619e77eb228bfcb949d1cf6e67a/capsule_616x353_alt_assets_9_schinese.jpg?t=1792682505",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：74,949 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥298.00，当前促销现价仅需 ¥89.40！\n\n【当前Steam实时在线人数】：101,563 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《赛博朋克 2077》是一款开放世界动作冒险 RPG 游戏。故事发生在暗黑未来的夜之城，一座五光十色、危机四伏的超级大都会，权力更迭和无尽的身体改造是这里不变的主题。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥208.60",
           "reviews": [
             {
@@ -123,25 +123,6 @@
         },
         {
           "rank": 2,
-          "appId": "steam-sale-1449690",
-          "name": "[特惠] The Walking Dead: The Telltale Definitive Series",
-          "developer": "Skybound Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/a9ccc64b359746f3905e760a73dcff3e2b6ec052/capsule_616x353.jpg?t=1760651835",
-          "primaryGenre": "折扣 -90%",
-          "description": "【实时特惠折扣 -90%】原价 ¥168.00，当前促销现价仅需 ¥16.80！\n\n【当前Steam实时在线人数】：1,034 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe Walking Dead: The Telltale Definitive Series 内含全 4 季游戏、400 Days 和 The Walking Dead:Michonne，共有 23 个不同章节、超过 50 小时的游戏内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥151.20",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1449690/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
           "appId": "steam-sale-2138330",
           "name": "[特惠] 《赛博朋克 2077：往日之影》",
           "developer": "CD PROJEKT RED",
@@ -160,13 +141,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
+          "rank": 3,
           "appId": "steam-sale-3240220",
           "name": "[特惠] Grand Theft Auto V 增强版",
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：29,194 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：38,457 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥74.50",
           "reviews": [
             {
@@ -179,14 +160,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 5,
-          "appId": "steam-sale-2050650",
-          "name": "[特惠] Resident Evil 4",
-          "developer": "CAPCOM Co., Ltd.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/capsule_616x353.jpg?t=1772502922",
-          "primaryGenre": "折扣 -75%",
-          "description": "【实时特惠折扣 -75%】原价 ¥198.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：7,785 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n成功逃脱并战胜死亡的快感。 前所未有的生化灾难“浣熊市事件”六年后...... 成为特务的里昂·斯科特·肯尼迪被派去营救被绑架的总统千金。 里昂踏进被“疯狂”支配之地，他的结局会是…… 一场生与死、恐怖与感情瞬间交错的严酷营救剧即将揭开帷幕。 透过直观的操作和最新的画面，以及再构成的故事重生为全新的生存恐怖体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥148.50",
+          "rank": 4,
+          "appId": "steam-sale-4817620",
+          "name": "[特惠] 再再启程",
+          "developer": "Future Tech.",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4817620/37fc30b33c115394c253a94023f258f2d9b1b0ab/capsule_616x353.jpg?t=1792731606",
+          "primaryGenre": "折扣 -20%",
+          "description": "【实时特惠折扣 -20%】原价 ¥68.00，当前促销现价仅需 ¥54.40！\n\n【当前Steam实时在线人数】：2,453 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《再再启程》是一款融合了轻度肉鸽和增量的冒险游戏，你将在异世界开启一段奇异旅程。选择载具，装配设备，面对各类敌人带来的挑战。冲撞！倾泻子弹！大力挥砍！不断成长，向前迈进吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥13.60",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +175,26 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/2050650/",
+          "appStoreUrl": "https://store.steampowered.com/app/4817620/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
+          "appId": "steam-sale-1449690",
+          "name": "[特惠] The Walking Dead: The Telltale Definitive Series",
+          "developer": "Skybound Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/a9ccc64b359746f3905e760a73dcff3e2b6ec052/capsule_616x353.jpg?t=1760651835",
+          "primaryGenre": "折扣 -90%",
+          "description": "【实时特惠折扣 -90%】原价 ¥168.00，当前促销现价仅需 ¥16.80！\n\n【当前Steam实时在线人数】：1,988 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe Walking Dead: The Telltale Definitive Series 内含全 4 季游戏、400 Days 和 The Walking Dead:Michonne，共有 23 个不同章节、超过 50 小时的游戏内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥151.20",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1449690/",
           "isFreeToKeep": false
         }
       ]
@@ -280,24 +280,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-2",
-          "name": "[独立] The No Jumpscare Show [Free] [Adventure] [Windows] [Linux]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA 100% jumpscare-free experience :)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://polypaw.itch.io/the-no-jumpscare-show"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-3",
           "name": "[独立] Night of the Nun... aka Nun Massacre [25% Off] [$3.71] [Survival] [Windows] [macOS]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -315,12 +297,12 @@
         },
         {
           "rank": "热门精选",
-          "appId": "itch-featured-4",
-          "name": "[独立] ULTRAKILL Prelude [Free] [Action] [Windows] [Linux]",
+          "appId": "itch-featured-3",
+          "name": "[独立] The No Jumpscare Show [Free] [Adventure] [Windows] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA fast-paced ultraviolent old school FPS with Character Action influences.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA 100% jumpscare-free experience :)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +311,25 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://hakita.itch.io/ultrakill-prelude"
+          "appStoreUrl": "https://polypaw.itch.io/the-no-jumpscare-show"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
+          "name": "[独立] Mindustry [Free] [Strategy] [Windows] [macOS] [Linux] [Android]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe automation tower defense game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://anuke.itch.io/mindustry"
         }
       ]
     }
