@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-10-28T04:35:25.123Z",
+  "updateTime": "2026-10-29T04:50:00.599Z",
   "regions": {
     "steam": {
       "games": [
@@ -8,9 +8,9 @@
           "appId": "steam-seller-4115450",
           "name": "影之刃零",
           "developer": "S-GAME Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1793104881",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1793242975",
           "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：423,148 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -24,10 +24,29 @@
         },
         {
           "rank": 2,
-          "appId": "steam-seller-4115450",
-          "name": "影之刃零",
+          "appId": "steam-seller-4348910",
+          "name": "深空当铺：可能是偷的",
+          "developer": "Questing Goose Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/3ee8f9c3780cb703972e010e6eeb6b8b1308355a/capsule_616x353_alt_assets_3_schinese.jpg?t=1793220934",
+          "primaryGenre": "独立",
+          "description": "【当前Steam实时在线人数】：58,800 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4348910/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
+          "appId": "steam-seller-5041150",
+          "name": "影之刃零数字豪华版升级包",
           "developer": "S-GAME Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1793104881",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041150/1cc8ebf943b86a24b0708651837cda89a5de92e1/capsule_616x353_schinese.jpg?t=1793238502",
           "primaryGenre": "动作",
           "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
@@ -38,15 +57,15 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4115450/",
+          "appStoreUrl": "https://store.steampowered.com/app/5041150/",
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 4,
           "appId": "steam-seller-4435490",
           "name": "Call of Duty®: Modern Warfare® 4",
           "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/b0d8626c2769a8ffb56a3b72822e1a276d92467e/capsule_616x353_alt_assets_1_schinese.jpg?t=1793144541",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/b0d8626c2769a8ffb56a3b72822e1a276d92467e/capsule_616x353_alt_assets_1_schinese.jpg?t=1793201144",
           "primaryGenre": "动作",
           "description": "【当前Steam实时在线人数】：1 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
@@ -61,32 +80,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
-          "appId": "steam-seller-4080220",
-          "name": "EA SPORTS FC™ 27",
-          "developer": "EA CANADA",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/d3e9a412983e68c39b5751a5fc9480129ce745b3/capsule_616x353.jpg?t=1790973254",
-          "primaryGenre": "模拟",
-          "description": "【当前Steam实时在线人数】：18,901 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4080220/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 5,
-          "appId": "steam-seller-1326470",
-          "name": "Sons Of The Forest",
-          "developer": "Endnight Games Ltd",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/capsule_616x353.jpg?t=1708624856",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：6,371 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-91213",
+          "name": "深空当铺：可能是偷的 x 药剂工艺：炼金模拟器",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/91213/9ztgecut9ol5pwy7/8190de249f6999bdbe1be43719d9b7e9fc886b35/capsule_616x353_schinese.jpg?t=1793012449",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1326470/",
+          "appStoreUrl": "https://store.steampowered.com/app/91213/",
           "isFreeToKeep": false
         }
       ]
@@ -104,12 +104,31 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-4348910",
+          "name": "[特惠] 深空当铺：可能是偷的",
+          "developer": "Questing Goose Studio",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/3ee8f9c3780cb703972e010e6eeb6b8b1308355a/capsule_616x353_alt_assets_3_schinese.jpg?t=1793220934",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥55.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：58,800 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥5.50",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4348910/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-sale-1326470",
           "name": "[特惠] Sons Of The Forest",
           "developer": "Endnight Games Ltd",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/capsule_616x353.jpg?t=1708624856",
           "primaryGenre": "折扣 -72%",
-          "description": "【实时特惠折扣 -72%】原价 ¥108.00，当前促销现价仅需 ¥30.24！\n\n【当前Steam实时在线人数】：6,371 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -72%】原价 ¥108.00，当前促销现价仅需 ¥30.24！\n\n【当前Steam实时在线人数】：7,303 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥77.76",
           "reviews": [
             {
@@ -122,13 +141,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
+          "rank": 3,
           "appId": "steam-sale-5335510",
           "name": "[特惠] Moon Sweepers",
           "developer": "DragDrop Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/9c11c35d11b6804fdf1c49429cf87f9d14b49041/capsule_616x353.jpg?t=1792950881",
           "primaryGenre": "折扣 -15%",
-          "description": "【实时特惠折扣 -15%】原价 ¥36.00，当前促销现价仅需 ¥30.60！\n\n【当前Steam实时在线人数】：42,233 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n整个月球等你打扫，开局只有一把牙刷。与好友组成最多16人的清洁小队，收集并出售月尘，升级工具，解锁清洁载具。把这份离谱的工作做成蒸蒸日上的生意，前提是你的朋友真的肯帮忙。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -15%】原价 ¥36.00，当前促销现价仅需 ¥30.60！\n\n【当前Steam实时在线人数】：44,036 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n整个月球等你打扫，开局只有一把牙刷。与好友组成最多16人的清洁小队，收集并出售月尘，升级工具，解锁清洁载具。把这份离谱的工作做成蒸蒸日上的生意，前提是你的朋友真的肯帮忙。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥5.40",
           "reviews": [
             {
@@ -141,13 +160,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 4,
           "appId": "steam-sale-3240220",
           "name": "[特惠] Grand Theft Auto V 增强版",
           "developer": "Rockstar North",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
           "primaryGenre": "折扣 -50%",
-          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：29,121 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -50%】原价 ¥149.00，当前促销现价仅需 ¥74.50！\n\n【当前Steam实时在线人数】：29,578 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥74.50",
           "reviews": [
             {
@@ -160,32 +179,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
-          "appId": "steam-sale-4922630",
-          "name": "[特惠] The Long Dark: Iron Road",
-          "developer": "Hinterland Studio Inc.",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4922630/da3b361a25ac8923be3d88f64f2ee254f67b4610/capsule_616x353.jpg?t=1793123897",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥87.00，当前促销现价仅需 ¥78.30！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nTHE LONG DARK Survival Expansion. Welcome to Cauldron Island. Lost to history, hiding a mystery. Restore &amp; activate a century-old train to journey deep along the caldera’s spine &amp; uncover a dark secret. What you discover in the end will change how you survive in this Aurora-changed world, forever.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥8.70",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4922630/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 5,
           "appId": "steam-sale-1304930",
           "name": "[特惠] The Outlast Trials",
           "developer": "Red Barrels",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/b56ce1e172ba2166a1ef27eb6fd5cf8e2f60a928/capsule_616x353_alt_assets_4.jpg?t=1792554994",
           "primaryGenre": "折扣 -70%",
-          "description": "【实时特惠折扣 -70%】原价 ¥136.00，当前促销现价仅需 ¥40.80！\n\n【当前Steam实时在线人数】：11,084 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRed Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -70%】原价 ¥136.00，当前促销现价仅需 ¥40.80！\n\n【当前Steam实时在线人数】：10,559 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nRed Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥95.20",
           "reviews": [
             {
@@ -206,7 +206,7 @@
           "appId": "epic-6aab3ddef4f84fbc9dd81c60f9d8549c",
           "name": "[Epic] Sker Ritual",
           "developer": "Skybound Game Studios, Inc.",
-          "icon": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
+          "icon": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-14x61.jpg",
           "primaryGenre": "正版限时免费",
           "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe round-based co-op survival FPS and spin-off to the award-winning British horror, Maid of Sker. Play solo or up to 4 players to survive the supernatural onslaught of the Quiet Ones.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "0元入库",
@@ -280,6 +280,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-2",
+          "name": "[独立] Tavern Talk [full] [50% Off] [$8.99] [Visual Novel] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA Cozy Visual Novel Game\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://gentle-troll.itch.io/tavern-talk"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-3",
           "name": "[独立] Doki Doki Literature Club! [Free] [Visual Novel] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -294,24 +312,6 @@
             }
           ],
           "appStoreUrl": "https://teamsalvato.itch.io/ddlc"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-3",
-          "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nSay your PRAYERS!... a VHS era, low poly slasher (ps1 style survival horror)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://puppetcombo.itch.io/nun-massacre"
         },
         {
           "rank": "热门精选",
