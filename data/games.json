@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-11-09T05:07:40.977Z",
+  "updateTime": "2026-11-10T06:23:45.450Z",
   "regions": {
     "steam": {
       "games": [
@@ -10,7 +10,7 @@
           "developer": "S-GAME Studio",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1793261976",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：170,182 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：144,058 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -24,12 +24,31 @@
         },
         {
           "rank": 2,
+          "appId": "steam-seller-5175310",
+          "name": "我带过的最差一届",
+          "developer": "Funcore Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/d2f7de7b02f6815956d742f9508e6e3803b160b5/capsule_616x353_schinese.jpg?t=1794279489",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：3,129 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/5175310/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
           "appId": "steam-seller-4348910",
           "name": "深空当铺：可能是偷的",
           "developer": "Questing Goose Studio",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/3ee8f9c3780cb703972e010e6eeb6b8b1308355a/capsule_616x353_alt_assets_3_schinese.jpg?t=1794162078",
           "primaryGenre": "独立",
-          "description": "【当前Steam实时在线人数】：94,091 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：87,487 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -42,7 +61,7 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
+          "rank": 4,
           "appId": "steam-seller-4435490",
           "name": "Call of Duty®: Modern Warfare® 4",
           "developer": "Infinity Ward",
@@ -61,32 +80,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
-          "appId": "steam-seller-1211600",
-          "name": "隔离区-丧尸末日生存",
-          "developer": "Leven Liu",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/1d8c6a874ee0e00ef7b9997aef6e06894007f7cf/capsule_616x353_alt_assets_2_schinese.jpg?t=1794035207",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：4,538 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想���逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1211600/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 5,
-          "appId": "steam-seller-431960",
-          "name": "Wallpaper Engine：壁纸引擎",
-          "developer": "Wallpaper Engine Team",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_616x353_schinese.jpg?t=1779452230",
-          "primaryGenre": "休闲",
-          "description": "【当前Steam实时在线人数】：68,679 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n您可以在桌面上使用惊艳的动态壁纸。可以将您自己的图片制成动画以创建新壁纸，或导入视频/网站并在 Steam 创意工坊上分享！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-4576490",
+          "name": "未知伤亡",
+          "developer": "Orsoniks",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/23cb64ffa40240c451c9be9cd1a1178bb3a2fc23/capsule_616x353_schinese.jpg?t=1794232782",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：4,021 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《Casualties: Unknown》是一款残酷无情的洞穴探险生存游戏。身为俘虏的你被派到异星上找回丢失的货物，你需要探索这颗星球的全部11层洞穴，在各色恶劣环境中奋力求生。而你实际上只是成千上万被派来送死的实验体之一。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/431960/",
+          "appStoreUrl": "https://store.steampowered.com/app/4576490/",
           "isFreeToKeep": false
         }
       ]
@@ -104,12 +104,50 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-5175310",
+          "name": "[特惠] 我带过的最差一届",
+          "developer": "Funcore Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/d2f7de7b02f6815956d742f9508e6e3803b160b5/capsule_616x353_schinese.jpg?t=1794279489",
+          "primaryGenre": "折扣 -35%",
+          "description": "【实时特惠折扣 -35%】原价 ¥28.00，当前促销现价仅需 ¥18.20！\n\n【当前Steam实时在线人数】：3,129 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥9.80",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/5175310/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
+          "appId": "steam-sale-4576490",
+          "name": "[特惠] 未知伤亡",
+          "developer": "Orsoniks",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/23cb64ffa40240c451c9be9cd1a1178bb3a2fc23/capsule_616x353_schinese.jpg?t=1794232782",
+          "primaryGenre": "折扣 -15%",
+          "description": "【实时特惠折扣 -15%】原价 ¥78.00，当前促销现价仅需 ¥66.30！\n\n【当前Steam实时在线人数】：4,021 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《Casualties: Unknown》是一款残酷无情的洞穴探险生存游戏。身为俘虏的你被派到异星上找回丢失的货物，你需要探索这颗星球的全部11层洞穴，在各色恶劣环境中奋力求生。而你实际上只是成千上万被派来送死的实验体之一。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥11.70",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/4576490/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
           "appId": "steam-sale-4348910",
           "name": "[特惠] 深空当铺：可能是偷的",
           "developer": "Questing Goose Studio",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/3ee8f9c3780cb703972e010e6eeb6b8b1308355a/capsule_616x353_alt_assets_3_schinese.jpg?t=1794162078",
           "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥55.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：94,091 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -10%】原价 ¥55.00，当前促销现价仅需 ¥49.50！\n\n【当前Steam实时在线人数】：87,487 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥5.50",
           "reviews": [
             {
@@ -122,13 +160,32 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
+          "rank": 4,
+          "appId": "steam-sale-3629430",
+          "name": "[特惠] 渊舟蚀影 | DREADMOOR",
+          "developer": "Dream Dock",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/132411f9af108c43fd75c8b3c9fd730ebdb62c89/capsule_616x353.jpg?t=1794233002",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥77.00，当前促销现价仅需 ¥69.30！\n\n【当前Steam实时在线人数】：2,061 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《DREADMOOR》是一款黑暗风格的第一人称钓鱼冒险游戏，以一个因昔日灾难而被淹没、逐渐腐朽的世界为背景。在浑浊的水域垂钓，升级你的船只，制作生存装备，与潜伏在水下和陆地上的可怖怪物战斗。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥7.70",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3629430/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-sale-1211600",
           "name": "[特惠] 隔离区-丧尸末日生存",
           "developer": "Leven Liu",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/1d8c6a874ee0e00ef7b9997aef6e06894007f7cf/capsule_616x353_alt_assets_2_schinese.jpg?t=1794035207",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/1d8c6a874ee0e00ef7b9997aef6e06894007f7cf/capsule_616x353_alt_assets_2_schinese.jpg?t=1794210733",
           "primaryGenre": "折扣 -40%",
-          "description": "【实时特惠折扣 -40%】原价 ¥48.00，当前促销现价仅需 ¥28.80！\n\n【当前Steam实时在线人数】：4,538 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想���逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -40%】原价 ¥48.00，当前促销现价仅需 ¥28.80！\n\n【当前Steam实时在线人数】：5,069 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和��异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥19.20",
           "reviews": [
             {
@@ -138,63 +195,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1211600/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-sale-3241660",
-          "name": "[特惠] R.E.P.O.",
-          "developer": "semiwork",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/cfdf923008ab562b6cef6cec0e008e6965a98565/capsule_616x353_alt_assets_3.jpg?t=1793278962",
-          "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥35.00，当前促销现价仅需 ¥22.75！\n\n【当前Steam实时在线人数】：22,940 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nAn online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥12.25",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/3241660/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-sale-5266240",
-          "name": "[特惠] Potato Please",
-          "developer": " Golden Horn Studios",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/f87e258178a9076a0ec1e4917cff038d64fb56b8/capsule_616x353.jpg?t=1794167289",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥35.00，当前促销现价仅需 ¥31.50！\n\n【当前Steam实时在线人数】：3,607 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n一款第一人称削土豆游戏。你有一把刀。你有一个桶。你有一座土豆山。用真实物理削皮。削薄一点，不要浪费。购买更好的工具。一直削到土豆山消失。没人削得像你一样好。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥3.50",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/5266240/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-2223980",
-          "name": "[特惠] Nomad Drive",
-          "developer": "Indie Devil",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/e95ec7f6267c27c26997205fcc7628b946de2ae0/capsule_616x353.jpg?t=1793667805",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥54.00，当前促销现价仅需 ¥48.60！\n\n【当前Steam实时在线人数】：2,034 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n修复您破旧的房车，单人或1–4人合作驶向程序生成的末日后世界。收集资源，定制您的房车，并尽可能长时间生存。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥5.40",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2223980/",
           "isFreeToKeep": false
         }
       ]
@@ -316,11 +316,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] ULTRAKILL Prelude [Free] [Action] [Windows] [Linux]",
+          "name": "[独立] Behind the Broadcast: The Director&#039;s Cut [Free] [Visual Novel] [Windows] [macOS] [Linux] [Android]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA fast-paced ultraviolent old school FPS with Character Action influences.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nWhat happens when an insecure screenwriter meets highly admired city&#039;s famous director?\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://hakita.itch.io/ultrakill-prelude"
+          "appStoreUrl": "https://eliscz.itch.io/behind-the-broadcast"
         }
       ]
     }
