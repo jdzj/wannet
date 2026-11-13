@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-11-12T06:14:11.792Z",
+  "updateTime": "2026-11-13T05:35:08.047Z",
   "regions": {
     "steam": {
       "games": [
@@ -10,7 +10,7 @@
           "developer": "S-GAME Studio",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1793261976",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：120,623 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：126,419 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -24,12 +24,50 @@
         },
         {
           "rank": 2,
+          "appId": "steam-seller-3809270",
+          "name": "Euro Truck Simulator 2 - Coaches",
+          "developer": "SCS Software",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3809270/8a82641a57bdd6ee899c0b939f3e28d325ace749/capsule_616x353.jpg?t=1794502649",
+          "primaryGenre": "独立",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在全新的 ETS2 之旅中，将货物换为乘客！坐在方向盘后方 - 这次不是卡车，而是客车。客车 DLC 为 ETS2 带来新维度的游戏体验，在欧洲各地完成定期的客运工作。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/3809270/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
+          "appId": "steam-seller-2868840",
+          "name": "Slay the Spire 2",
+          "developer": "Mega Crit",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/6a19172e7bc3045dd4625018ca82dce8a18ed0ab/capsule_616x353.jpg?t=1787169309",
+          "primaryGenre": "独立",
+          "description": "【当前Steam实时在线人数】：156,857 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n标志性Rogue-like卡牌构筑游戏回归啦！在《杀戮尖塔2》中创建独特的卡组，遭遇各种奇异的生物，发掘含有无尽力量的遗物吧！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2868840/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
           "appId": "steam-seller-5175310",
           "name": "我带过的最差一届",
           "developer": "Funcore Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/d2f7de7b02f6815956d742f9508e6e3803b160b5/capsule_616x353_schinese.jpg?t=1794305415",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：2,845 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：3,535 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -42,51 +80,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 3,
-          "appId": "steam-seller-4348910",
-          "name": "深空当铺：可能是偷的",
-          "developer": "Questing Goose Studio",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/3ee8f9c3780cb703972e010e6eeb6b8b1308355a/capsule_616x353_alt_assets_3_schinese.jpg?t=1794162078",
-          "primaryGenre": "独立",
-          "description": "【当前Steam实时在线人数】：78,158 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4348910/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-seller-4435490",
-          "name": "Call of Duty®: Modern Warfare® 4",
-          "developer": "Infinity Ward",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/68e22b8dc7831505e43dd862807b1396007a5a49/capsule_616x353_alt_assets_4_schinese.jpg?t=1794339680",
-          "primaryGenre": "动作",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《使命召唤®：现代战争® 4》中，朝鲜发动全面侵袭，半岛爆发战争，世界岌岌可危。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4435490/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 5,
-          "appId": "steam-seller-4530370",
-          "name": "足球经理27",
-          "developer": "Sports Interactive",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/d4f7eff50df972fcf8e3a5e366377af405cb1853/capsule_616x353.jpg?t=1794391162",
-          "primaryGenre": "模拟",
-          "description": "【当前Steam实时在线人数】：19,867 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n选择球队，塑造阵容，制定战术，追逐愿景中的未来。 在《FM27》中让自己的足球理念成为现实。做出决断。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-68595",
+          "name": "Slay the Spire Collection",
+          "developer": "Steam 精选厂商",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/68595/qg023oh6y7tf1xj1/f6620152c984774ec795862118b9eb6437cf9031/capsule_616x353.jpg?t=1772733540",
+          "primaryGenre": "热门大作",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n元数据暂时缺失\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/4530370/",
+          "appStoreUrl": "https://store.steampowered.com/app/68595/",
           "isFreeToKeep": false
         }
       ]
@@ -109,7 +109,7 @@
           "developer": "Funcore Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/d2f7de7b02f6815956d742f9508e6e3803b160b5/capsule_616x353_schinese.jpg?t=1794305415",
           "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥28.00，当前促销现价仅需 ¥18.20！\n\n【当前Steam实时在线人数】：2,878 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -35%】原价 ¥28.00，当前促销现价仅需 ¥18.20！\n\n【当前Steam实时在线人数】：3,535 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥9.80",
           "reviews": [
             {
@@ -123,13 +123,13 @@
         },
         {
           "rank": 2,
-          "appId": "steam-sale-1211600",
-          "name": "[特惠] 隔离区-丧尸末日生存",
-          "developer": "Leven Liu",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/1d8c6a874ee0e00ef7b9997aef6e06894007f7cf/capsule_616x353_alt_assets_2_schinese.jpg?t=1794210733",
-          "primaryGenre": "折扣 -40%",
-          "description": "【实时特惠折扣 -40%】原价 ¥48.00，当前促销现价仅需 ¥28.80！\n\n【当前Steam实时在线人数】：4,634 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和��异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥19.20",
+          "appId": "steam-sale-227300",
+          "name": "[特惠] Euro Truck Simulator 2",
+          "developer": "SCS Software",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5237101dc9efe4873c9be1804d4ed2619ad7bee4/capsule_616x353.jpg?t=1794502925",
+          "primaryGenre": "折扣 -75%",
+          "description": "【实时特惠折扣 -75%】原价 ¥92.99，当前促销现价仅需 ¥23.24！\n\n【当前Steam实时在线人数】：22,287 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n像公路之王一样在欧洲穿行， 将价值不菲的货物完美送抵远方！往返于英国，比利时，德国，意大利，荷兰，波兰等众多城市；您的耐力，技巧，速度都被您发挥到了极致！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥69.75",
           "reviews": [
             {
               "author": "价格风向标",
@@ -137,17 +137,36 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/1211600/",
+          "appStoreUrl": "https://store.steampowered.com/app/227300/",
           "isFreeToKeep": false
         },
         {
           "rank": 3,
+          "appId": "steam-sale-2860490",
+          "name": "[特惠] 笑拉了，我家旁边是魔王城666",
+          "developer": "One or Eight",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/781c08f9ef5d04bd3d91c594d2a16e806a8af5e4/capsule_616x353_schinese.jpg?t=1794494372",
+          "primaryGenre": "折扣 -10%",
+          "description": "【实时特惠折扣 -10%】原价 ¥88.00，当前促销现价仅需 ¥79.20！\n\n【当前Steam实时在线人数】：786 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n【 村庄建设动作RPG 】被女神拯救的你，降临在一个被魔王统治的荒芜世界。收集素材建造设施，灵活切换能改变职业的帽子，为村民分配工作，一起让村庄繁荣兴旺。然而……在某天夜晚，隔壁城堡里举办了偶像魔王的演唱会，狂热的魔物大军如潮水般涌入村庄！？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥8.80",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2860490/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
           "appId": "steam-sale-2638080",
           "name": "[特惠] 勇者小队全灭了。",
           "developer": "Death Kumiai",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638080/df940229feaec843eb72844635cad154a0c99830/capsule_616x353_schinese.jpg?t=1794308502",
           "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥68.00，当前促销现价仅需 ¥61.20！\n\n【当前Steam实时在线人数】：1,362 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《勇者小队全灭了。》是一款剧情驱动的Roguelite游戏。作为救援队最后的幸存者，你需要从全灭的勇者小队中选择并救出一名成员，与其一同逃离被诅咒的地牢。在归途中，你将逐渐了解他们的过去，并帮助他们面对各自的缺陷。四位勇者，四段不同的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -10%】原价 ¥68.00，当前促销现价仅需 ¥61.20！\n\n【当前Steam实时在线人数】：1,311 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《勇者小队全灭了。》是一款剧情驱动的Roguelite游戏。作为救援队最后的幸存者，你需要从全灭的勇者小队中选择并救出一名成员，与其一同逃离被诅咒的地牢。在归途中，你将逐渐了解他们的过去，并帮助他们面对各自的缺陷。四位勇者，四段不同的故事。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥6.80",
           "reviews": [
             {
@@ -160,33 +179,14 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 4,
-          "appId": "steam-sale-4822240",
-          "name": "[特惠] Thronefall - Craaghelm《王权陨落：岩冠之境》",
-          "developer": "Mythwright",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822240/e04c26987bfca1aeedf52e73a139478855cd1b85/capsule_616x353.jpg?t=1794446683",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥35.00，当前促销现价仅需 ¥31.50！\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nThe Craaghelm DLC features a wealth of additional content for Thronefall, including new maps, weapons, perks, mutators, heroes, and units.\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥3.50",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4822240/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 5,
-          "appId": "steam-sale-3527290",
-          "name": "[特惠] PEAK",
-          "developer": "Team PEAK",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/c6791f0f1b7b29f6304e283ac7a2cabc27c7eb0d/capsule_616x353.jpg?t=1792684718",
-          "primaryGenre": "折扣 -38%",
-          "description": "【实时特惠折扣 -38%】原价 ¥33.00，当前促销现价仅需 ¥20.46！\n\n【当前Steam实时在线人数】：10,239 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥12.54",
+          "appId": "steam-sale-1211600",
+          "name": "[特惠] 隔离区-丧尸末日生存",
+          "developer": "Leven Liu",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/1d8c6a874ee0e00ef7b9997aef6e06894007f7cf/capsule_616x353_alt_assets_2_schinese.jpg?t=1794210733",
+          "primaryGenre": "折扣 -40%",
+          "description": "【实时特惠折扣 -40%】原价 ¥48.00，当前促销现价仅需 ¥28.80！\n\n【当前Steam实时在线人数】：4,581 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥19.20",
           "reviews": [
             {
               "author": "价格风向标",
@@ -194,7 +194,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3527290/",
+          "appStoreUrl": "https://store.steampowered.com/app/1211600/",
           "isFreeToKeep": false
         }
       ]
@@ -203,12 +203,12 @@
       "games": [
         {
           "rank": "Epic 限免",
-          "appId": "epic-a9748abde1c94b66aae5250bb9fc5503",
-          "name": "[Epic] 《Idle Champions of the Forgotten Realms》",
-          "developer": "Codename Entertainment",
-          "icon": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1vkir.jpg",
+          "appId": "epic-9975548b6d404a94b8a9bdb34cad49e9",
+          "name": "[Epic] 斗阵骑士 Knightica",
+          "developer": "Goblinz Studio SAS",
+          "icon": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
           "primaryGenre": "正版限时免费",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n《Idle Champions》是一款官方《龙与地下城》策略管理游戏，聚集了来自小说、战役和剧集中的各路标志性角色，展开一场史诗级的冒险。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在这款类Rogue自走棋游戏中，征招强大单位，悉心排兵布阵，调整策略，充分发掘军队的协同效果！\n 在《Knightica》中，你将指挥一整支战团，跨越重重挑战，最后解放王国。\n 优化组合方案，巧用附魔法术，迎战危险怪物，最终带领你的军队走向胜利！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "0元入库",
           "reviews": [
             {
@@ -217,25 +217,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/idle-champions-of-the-forgotten-realms"
-        },
-        {
-          "rank": "Epic 限免",
-          "appId": "epic-3be0a0d8479946d78f60d90c9442a0b4",
-          "name": "[Epic] 浮游世界",
-          "developer": "Pajama Llama Games",
-          "icon": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
-          "primaryGenre": "正版限时免费",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n漂浮垃圾城生存游戏！从海洋表面尽可能搜集珍贵的垃圾，发展你的城市，同时努力在这个色彩斑斓的后末日世界中生存下去。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "0元入库",
-          "reviews": [
-            {
-              "author": "Wannet 福利官",
-              "rating": "🎁 必入",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/flotsam-266287"
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/knightica-3be45c"
         }
       ]
     },
@@ -298,24 +280,6 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-3",
-          "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nSay your PRAYERS!... a VHS era, low poly slasher (ps1 style survival horror)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://puppetcombo.itch.io/nun-massacre"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-4",
           "name": "[独立] ULTRAKILL Prelude [Free] [Action] [Windows] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -330,6 +294,24 @@
             }
           ],
           "appStoreUrl": "https://hakita.itch.io/ultrakill-prelude"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-4",
+          "name": "[独立] Night of the Nun... aka Nun Massacre [0% Off] [$4.95] [Survival] [Windows] [macOS]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nSay your PRAYERS!... a VHS era, low poly slasher (ps1 style survival horror)\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://puppetcombo.itch.io/nun-massacre"
         }
       ]
     }
