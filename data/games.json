@@ -1,16 +1,35 @@
 {
-  "updateTime": "2026-11-19T06:25:16.976Z",
+  "updateTime": "2026-11-20T06:11:33.954Z",
   "regions": {
     "steam": {
       "games": [
         {
           "rank": 1,
+          "appId": "steam-seller-1426210",
+          "name": "双人成行",
+          "developer": "Hazelight Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_616x353.jpg?t=1777395376",
+          "primaryGenre": "动作",
+          "description": "【当前Steam实时在线人数】：4,057 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "热销爆款",
+          "reviews": [
+            {
+              "author": "Wannet 趋势洞察",
+              "rating": "🔥 推荐指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1426210/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
           "appId": "steam-seller-4115450",
           "name": "影之刃零",
           "developer": "S-GAME Studio",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/b1fe30d23b47032843e94c7e2f8e3573030ba98d/capsule_616x353_schinese.jpg?t=1793261976",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：74,879 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：76,614 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -23,32 +42,13 @@
           "isFreeToKeep": false
         },
         {
-          "rank": 2,
-          "appId": "steam-seller-4459590",
-          "name": "转运军团 - Slotbound",
-          "developer": "Optima Arch",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/ab63370938a804df9d1250d239d4c997683fd7cd/capsule_616x353.jpg?t=1794902941",
-          "primaryGenre": "独立",
-          "description": "【当前Steam实时在线人数】：20,375 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "热销爆款",
-          "reviews": [
-            {
-              "author": "Wannet 趋势洞察",
-              "rating": "🔥 推荐指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4459590/",
-          "isFreeToKeep": false
-        },
-        {
           "rank": 3,
           "appId": "steam-seller-5175310",
           "name": "我带过的最差一届",
           "developer": "Funcore Games",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/d2f7de7b02f6815956d742f9508e6e3803b160b5/capsule_616x353_schinese.jpg?t=1794560465",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：3,704 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：3,838 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -62,12 +62,12 @@
         },
         {
           "rank": 4,
-          "appId": "steam-seller-3240220",
-          "name": "Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
+          "appId": "steam-seller-1238810",
+          "name": "战地风云 5",
+          "developer": "DICE",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/capsule_616x353.jpg?t=1772707365",
           "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：40,682 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【当前Steam实时在线人数】：2,542 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这就是终极《战地风云 5》体验。用完整的武器、载具和配备武器库以及第 1 年和第 2 年最棒的自定义内容体验人类历史上规模最大的冲突。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -76,17 +76,17 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
+          "appStoreUrl": "https://store.steampowered.com/app/1238810/",
           "isFreeToKeep": false
         },
         {
           "rank": 5,
-          "appId": "steam-seller-3240220",
-          "name": "Grand Theft Auto V 增强版",
-          "developer": "Rockstar North",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/4c8d7ce5142a528bdac68c093bd1bcc720e2baee/capsule_616x353.jpg?t=1781187782",
-          "primaryGenre": "动作",
-          "description": "【当前Steam实时在线人数】：40,682 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n体验娱乐业轰动一时的 Grand Theft Auto V 和 Grand Theft Auto 在线模式：现已更新换代，拥有震撼的视觉效果、更快的加载速度、3D 音效及更多内容，另有为 GTA 在线模式玩家提供的独家内容。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "appId": "steam-seller-4459590",
+          "name": "转运军团 - Slotbound",
+          "developer": "Optima Arch",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/ab63370938a804df9d1250d239d4c997683fd7cd/capsule_616x353.jpg?t=1795095339",
+          "primaryGenre": "独立",
+          "description": "【当前Steam实时在线人数】：20,032 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "热销爆款",
           "reviews": [
             {
@@ -95,7 +95,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.steampowered.com/app/3240220/",
+          "appStoreUrl": "https://store.steampowered.com/app/4459590/",
           "isFreeToKeep": false
         }
       ]
@@ -104,12 +104,88 @@
       "games": [
         {
           "rank": 1,
+          "appId": "steam-sale-1426210",
+          "name": "[特惠] 双人成行",
+          "developer": "Hazelight Studios",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_616x353.jpg?t=1777395376",
+          "primaryGenre": "折扣 -80%",
+          "description": "【实时特惠折扣 -80%】原价 ¥198.00，当前促销现价仅需 ¥39.60！\n\n【当前Steam实时在线人数】：4,057 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n游玩《双人成行》，踏上生命中最疯狂的旅程。利用好友通行证*邀请一位好友免费游玩，共同体验多种多样的乐趣，享受颠覆性的玩法挑战。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥158.40",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1426210/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 2,
+          "appId": "steam-sale-1238810",
+          "name": "[特惠] 战地风云 5",
+          "developer": "DICE",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/capsule_616x353.jpg?t=1772707365",
+          "primaryGenre": "折扣 -95%",
+          "description": "【实时特惠折扣 -95%】原价 ¥228.00，当前促销现价仅需 ¥11.40！\n\n【当前Steam实时在线人数】：2,542 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这就是终极《战地风云 5》体验。用完整的武器、载具和配备武器库以及第 1 年和第 2 年最棒的自定义内容体验人类历史上规模最大的冲突。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥216.60",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1238810/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 3,
+          "appId": "steam-sale-2215430",
+          "name": "[特惠] Ghost of Tsushima导演剪辑版",
+          "developer": "Sucker Punch Productions",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_616x353.jpg?t=1763409398",
+          "primaryGenre": "折扣 -50%",
+          "description": "【实时特惠折扣 -50%】原价 ¥398.00，当前促销现价仅需 ¥199.00！\n\n【当前Steam实时在线人数】：1,931 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n风暴将至，在PC上体验完整的《Ghost of Tsushima导演剪辑版》，在这场开放世界动作冒险中开辟自己的道路，发现隐藏的奇景。本游戏由Sucker Punch Productions、Nixxes Software和PlayStation Studios为您呈现。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥199.00",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/2215430/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 4,
+          "appId": "steam-sale-1817070",
+          "name": "[特惠] Marvel’s Spider-Man Remastered",
+          "developer": "Insomniac Games",
+          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/capsule_616x353.jpg?t=1787838689",
+          "primaryGenre": "折扣 -60%",
+          "description": "【实时特惠折扣 -60%】原价 ¥414.00，当前促销现价仅需 ¥165.60！\n\n【当前Steam实时在线人数】：1,510 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在《Marvel’s Spider-Man Remastered》中，彼得·帕克和蜘蛛侠的世界在动作火爆的原创剧情中碰撞交织。扮演身经百战的彼得·帕克，在漫威宇宙纽约中打击猖獗犯罪，对抗经典反派。蛛丝摆荡，穿梭于充满活力的街区，以炫酷动作把反派打个落花流水。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "直降 ¥248.40",
+          "reviews": [
+            {
+              "author": "价格风向标",
+              "rating": "💰 购买指数",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://store.steampowered.com/app/1817070/",
+          "isFreeToKeep": false
+        },
+        {
+          "rank": 5,
           "appId": "steam-sale-1462040",
           "name": "[特惠] FINAL FANTASY VII REMAKE INTERGRADE",
           "developer": "Square Enix",
           "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/capsule_616x353.jpg?t=1789446715",
           "primaryGenre": "折扣 -82%",
-          "description": "【实时特惠折扣 -82%】原价 ¥198.00，当前促销现价仅需 ¥35.64！\n\n【当前Steam实时在线人数】：1,974 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n身背毁灭剑的前神罗战士克劳德踏入魔晄都市米德加。 运用最先进技术制作的画面、融合战略性与直觉式动作操作的战斗系统—— 不朽名作《FINAL FANTASY VII》的世界重生为“全新故事”。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【实时特惠折扣 -82%】原价 ¥198.00，当前促销现价仅需 ¥35.64！\n\n【当前Steam实时在线人数】：2,896 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n身背毁灭剑的前神罗战士克劳德踏入魔晄都市米德加。 运用最先进技术制作的画面、融合战略性与直觉式动作操作的战斗系统—— 不朽名作《FINAL FANTASY VII》的世界重生为“全新故事”。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "直降 ¥162.36",
           "reviews": [
             {
@@ -119,82 +195,6 @@
             }
           ],
           "appStoreUrl": "https://store.steampowered.com/app/1462040/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 2,
-          "appId": "steam-sale-2909400",
-          "name": "[特惠] FINAL FANTASY VII REBIRTH",
-          "developer": "Square Enix",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/c4e617a13d511a72b2787c91e0e08fbe57c99191/capsule_616x353.jpg?t=1793774936",
-          "primaryGenre": "折扣 -85%",
-          "description": "【实时特惠折扣 -85%】原价 ¥248.00，当前促销现价仅需 ¥37.20！\n\n【当前Steam实时在线人数】：1,721 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n克劳德一行人脱离魔晄都市米德加，踏进广袤的世界展开旅程。 本作有全新的故事、在广阔世界中的自由冒险以及增进与伙伴间情谊的战斗， 带来继《FINAL FANTASY VII REMAKE》之后更加进化的游戏体验。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥210.80",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/2909400/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 3,
-          "appId": "steam-sale-5175310",
-          "name": "[特惠] 我带过的最差一届",
-          "developer": "Funcore Games",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/d2f7de7b02f6815956d742f9508e6e3803b160b5/capsule_616x353_schinese.jpg?t=1794560465",
-          "primaryGenre": "折扣 -35%",
-          "description": "【实时特惠折扣 -35%】原价 ¥28.00，当前促销现价仅需 ¥18.20！\n\n【当前Steam实时在线人数】：3,704 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥9.80",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/5175310/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 4,
-          "appId": "steam-sale-4459590",
-          "name": "[特惠] 转运军团 - Slotbound",
-          "developer": "Optima Arch",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/ab63370938a804df9d1250d239d4c997683fd7cd/capsule_616x353.jpg?t=1794902941",
-          "primaryGenre": "折扣 -10%",
-          "description": "【实时特惠折扣 -10%】原价 ¥42.00，当前促销现价仅需 ¥37.80！\n\n【当前Steam实时在线人数】：20,375 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥4.20",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/4459590/",
-          "isFreeToKeep": false
-        },
-        {
-          "rank": 5,
-          "appId": "steam-sale-1771300",
-          "name": "[特惠] 天国：拯救2",
-          "developer": "Warhorse Studios",
-          "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/bcad55593058f54e54aee8b6714220e216cf9b0c/capsule_616x353.jpg?t=1777975568",
-          "primaryGenre": "折扣 -67%",
-          "description": "【实时特惠折扣 -67%】原价 ¥228.00，当前促销现价仅需 ¥75.24！\n\n【当前Steam实时在线人数】：8,363 人\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n走进 15 世纪的欧洲，体验丰富多彩的开放世界，畅玩这款精彩的叙事驱动型角色扮演游戏，开启究极中世纪冒险，扮演年轻的亨利，踏上一场史诗级的旅程。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "直降 ¥152.76",
-          "reviews": [
-            {
-              "author": "价格风向标",
-              "rating": "💰 购买指数",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://store.steampowered.com/app/1771300/",
           "isFreeToKeep": false
         }
       ]
@@ -206,7 +206,7 @@
           "appId": "epic-0623017cf9f341efbe07557f46beb4e8",
           "name": "[Epic] 火之石 – 放置点击英雄RPG",
           "developer": "AM Holyday Studios Ltd",
-          "icon": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-9irk3.jpg",
+          "icon": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-6j7cs.jpg",
           "primaryGenre": "正版限时免费",
           "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nFirestone: Online Idle RPG 是一款具有放置 RPG 机制的奇幻多人游戏。收集英雄🧙‍♂️、升级他们的装备和技能、派遣他们进行 AFK 战斗，或疯狂继续加强点击，以击败可怕的Boss！与公会好友聊天或参与 PVP⚔️——选择权在你手中！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "0元入库",
@@ -221,12 +221,12 @@
         },
         {
           "rank": "Epic 限免",
-          "appId": "epic-9975548b6d404a94b8a9bdb34cad49e9",
-          "name": "[Epic] 斗阵骑士 Knightica",
-          "developer": "Goblinz Studio SAS",
-          "icon": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
+          "appId": "epic-1f9a12b06b4f437790b6913ad136a08c",
+          "name": "[Epic] Mark of the Deep",
+          "developer": "Light Up Games",
+          "icon": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
           "primaryGenre": "正版限时免费",
-          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n在这款类Rogue自走棋游戏中，征招强大单位，悉心排兵布阵，调整策略，充分发掘军队的协同效果！\n 在《Knightica》中，你将指挥一整支战团，跨越重重挑战，最后解放王国。\n 优化组合方案，巧用附魔法术，迎战危险怪物，最终带领你的军队走向胜利！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n深渊之印是一款史诗般的海盗冒险游戏，拥有强烈的叙事性，并融合了广受好评的银河恶魔城游戏与魂系游戏的惊险元素。以海盗刘琦的身份踏上旅程，探索受诅咒岛屿的奥秘，寻找失踪的海盗船员！\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "0元入库",
           "reviews": [
             {
@@ -235,7 +235,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/knightica-3be45c"
+          "appStoreUrl": "https://store.epicgames.com/zh-CN/p/mark-of-the-deep-f7dc08"
         }
       ]
     },
@@ -262,6 +262,24 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-1",
+          "name": "[独立] Cult of PiN [$14.99] [Action] [Windows] [macOS] [Linux]",
+          "developer": "Itch.io 独立极客",
+          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
+          "primaryGenre": "Itch.io 热门榜",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA Roguelike-Pinball Deckbuilder\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "ratingCount": "全球高热度",
+          "reviews": [
+            {
+              "author": "Wannet 独立游戏人",
+              "rating": "🎨 艺术评级",
+              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
+            }
+          ],
+          "appStoreUrl": "https://kennymakesgames.itch.io/pin"
+        },
+        {
+          "rank": "热门精选",
+          "appId": "itch-featured-2",
           "name": "[独立] Juice Galaxy (formerly Juice World) [$5.00] [Role Playing] [Windows] [macOS] [Linux]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
@@ -276,24 +294,6 @@
             }
           ],
           "appStoreUrl": "https://fishlicka.itch.io/juice-galaxy"
-        },
-        {
-          "rank": "热门精选",
-          "appId": "itch-featured-2",
-          "name": "[独立] [FULL] DECOGEAR DIMENSIONS [$11.99] [Action] [Windows]",
-          "developer": "Itch.io 独立极客",
-          "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
-          "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n暂无核心玩法细节。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
-          "ratingCount": "全球高热度",
-          "reviews": [
-            {
-              "author": "Wannet 独立游戏人",
-              "rating": "🎨 艺术评级",
-              "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
-            }
-          ],
-          "appStoreUrl": "https://boghog.itch.io/decogear"
         },
         {
           "rank": "热门精选",
@@ -316,11 +316,11 @@
         {
           "rank": "热门精选",
           "appId": "itch-featured-4",
-          "name": "[独立] Cult of PiN [$14.99] [Action] [Windows] [macOS] [Linux]",
+          "name": "[独立] [FULL] DECOGEAR DIMENSIONS [$11.99] [Action] [Windows]",
           "developer": "Itch.io 独立极客",
           "icon": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=300",
           "primaryGenre": "Itch.io 热门榜",
-          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\nA Roguelike-Pinball Deckbuilder\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
+          "description": "【Itch.io 官方精选推荐】\n\n📖【游戏剧情与背景】\n暂无详细背景剧情介绍。\n\n🎮【核心玩法介绍】\n暂无核心玩法细节。\n\n🏰【关卡与特色系统】\n探索与实时系统表现稳定。",
           "ratingCount": "全球高热度",
           "reviews": [
             {
@@ -329,7 +329,7 @@
               "content": "玩法机制素质过硬，目前版本游玩生态稳定，建议按需入手。"
             }
           ],
-          "appStoreUrl": "https://kennymakesgames.itch.io/pin"
+          "appStoreUrl": "https://boghog.itch.io/decogear"
         }
       ]
     }
